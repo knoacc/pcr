@@ -15,7 +15,7 @@ navigation:
    url: /tags/
 # author detail
 author_name: Jon Mukidi
-author_bio: Jon Mukidi is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious
+author_bio: Jon Mukidi is a designer, photographer, speaker, author of a couple of blogs and the founder of the some-kind-of-stupidity
 author_url: https://www.knoacc.org
 author_location: Somewhere, Out-there
 author_image: /images/authorimage.png
@@ -30,3 +30,4 @@ paginate_path: /blog/page:num/
 
 plugins:
  - jekyll-paginate
+ - jekyll-seo-tag
