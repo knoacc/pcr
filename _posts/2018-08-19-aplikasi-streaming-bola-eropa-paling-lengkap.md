@@ -2,11 +2,8 @@
 title: "Jagan Paten: Aplikasi Streming Bola Eropa"
 description: "Ketika tivi lokal tak siarkan klub bola favorit di malam minggu"
 image: https://i0.wp.com/setanmerah.net/wp-content/uploads/2017/07/Premier-League-Logos.jpg
-tags:
- - sepakbola
- - streaming
- - aplikasi android
- 
+tags: [aplikasi android, sepakbola, streaming]
+
 ---
 Di saat liga-liga di Eropa sana mulai bergulir lagi di musim 2018/2019, jenis manusia berbatang yang _single_, baik yang terang-terangan mengaku _jomblo_ atau meng-iya-kan ke-_single_-annya dalam tunduk malu, Minggu dini-hari adalah waktu sakral untuk melampiaskan kejengkelannya pada nasib dengan nonton bola selain (tentu saja) mobalog yang b^^s^t itu.
 
