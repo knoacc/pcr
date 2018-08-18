@@ -43,7 +43,7 @@ Baiklah anak muda, akan kutunjukkan pada kalian aplikasi yang selama ini kupakai
 ![aplikasi mobdro](https://mobdroapks.com/wp-content/uploads/2018/01/Mobdro.jpg)
 _Alikasi Mobdro_
 
-Aplikasi itu bernama: **Mobdro** unduh saja dari [link ini](https://mi.knoacc.org/dl/cloud?&name=com.mobdro.android.apk&code=XZQzss7ZOagD11Vp725ovH8UPGRV18MTjvQX&size=23.2MB) dan pasang di Android kalian. Jangan banyak protes! Ini adalah aplikasi terbaik live streaming menurut _saia_
+Aplikasi itu bernama: **Mobdro** unduh saja dari [link ini](https://mi.knoacc.org/dl/pcloud?&name=com.mobdro.android.apk&code=XZQzss7ZOagD11Vp725ovH8UPGRV18MTjvQX&size=23.2MB) dan pasang di Android kalian. Jangan banyak protes! Ini adalah aplikasi terbaik live streaming menurut _saia_
 
 ### Pencerahan
 
