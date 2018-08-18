@@ -8,9 +8,9 @@ navigation:
  - text: Home
    url: /
  - text: About
-   url: /about/
+   url: /about
  - text: Style Guide
-   url: /style-guide/
+   url: /style-guide
  - text: Archive
    url: /tags/
 # author detail
