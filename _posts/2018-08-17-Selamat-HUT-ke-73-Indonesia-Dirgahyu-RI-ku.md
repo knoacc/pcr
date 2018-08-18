@@ -20,4 +20,4 @@ Sudah.
 
 Intinya, [Paciran](https://www.paciran.com) tak seramai tahun lalu, :) itu saja yang _saia tau_. 
 
-Jangan bereaksi seperti ini: "WHOOOOT!!! Apa hubungannya kalimat penutupmu dengan isi tulisanmu???" Karena akan saya jawa dengan mudah: "Judulnya kan HUT RI ke-73"
+Jangan bereaksi seperti ini: "WHOOOOT!!! Apa hubungannya kalimat penutupmu dengan isi tulisanmu???" Karena jawaban pertanyaan itu sudah jelas: "**Judulnya kan HUT RI ke-73**".
