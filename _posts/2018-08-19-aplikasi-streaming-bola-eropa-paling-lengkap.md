@@ -24,7 +24,9 @@ Hemm.. Jaman sekarang, siapa yang tak punya gawai-cerdas? Entah itu gawai yang m
 
 ![Gawai Cerdas](https://www.mobdro.sc/assets/images/ui.png)
 
-Kalau cukup sabar mencari, dengan modal aplikasi _yutub_ bisa, tapi lebih baik gunakan aplikasi chrome dan lakukan pencarian dengan kata kunci klub bola yang sedang bertanding. Ini lebih menjanjikan walaupun kadang sudah _setengah maenan_ baru ketemu link yang cocok. Sebagai bocoran, cari saja di [Google dengan kata kunci sagahtv](https://www.google.co.id/search?q=sagahtv). Jangan tanya link! Situs semacam ini mudah hilang dari perederan. Entah domain yang dipakai expired, entah di banned oleh ISP, yang pasti tak bertahan lama. Situs sagahtv sendir juga sudah bergamti domain berkali-kali mulai sagah.tv, sagahtv.com, sagahtv.info, sagahtv.net sagahtv.xyz hingga saat ini sagahtv.me yang sepertinya juga _gak_ berumur lama.
+Kalau cukup sabar mencari, dengan modal aplikasi _yutub_ bisa, tapi lebih baik gunakan aplikasi chrome dan lakukan pencarian dengan kata kunci klub bola yang sedang bertanding. Ini lebih menjanjikan walaupun kadang sudah _setengah maenan_ baru ketemu link yang cocok.
+
+Sebagai bocoran, cari saja di [Google dengan kata kunci sagahtv](https://www.google.co.id/search?q=sagahtv). Jangan tanya link! Situs semacam ini mudah hilang dari perederan. Entah domain yang dipakai expired, entah di banned oleh ISP, yang pasti tak bertahan lama. Situs sagahtv sendir juga sudah bergamti domain berkali-kali mulai sagah.tv, sagahtv.com, sagahtv.info, sagahtv.net sagahtv.xyz hingga saat ini sagahtv.me yang sepertinya juga _gak_ berumur lama.
 
 ### Aplikasi Streaming Bia**b
 
@@ -34,7 +36,7 @@ Tapi cuma sedikit yang benar-benar bisa dinikmati. Kebanyakan aplikasi-aplikasi 
 
 ### Rahasia
 
-Baiklah anak muda, akan kutunjukkan pada kalian aplikasi yang selama ini kupakai selama ini. Ini adalah bentuk kesetiakawananku kepada kalian para jomblo karatan sebagai sesama jomblo yang tak kunjung laku. Sekali lagi _saia_ tekankan, ini rahasia tingkat dewa, super _confidential_, jadi jangan sampai membagikan file apk lewat share-it atau mi-drop. Cukup bagikan artikel saja ya?
+Baiklah anak muda, akan kutunjukkan pada kalian aplikasi yang selama ini kupakai. Ini adalah bentuk kesetiakawananku kepada kalian para jomblo karatan, sebagai sesama bujang lapuk, yang tak kunjung terjual sebanyak apapun diskon yang terpampang. Sekali lagi _saia_ tekankan, ini rahasia tingkat dewa, super _confidential_, jadi jangan sampai membagikan file apk lewat share-it atau mi-drop. Cukup bagikan artikel saja ya?
 
 ![aplikasi mobdro](https://mobdroapks.com/wp-content/uploads/2018/01/Mobdro.jpg)
 _Alikasi Mobdro_
