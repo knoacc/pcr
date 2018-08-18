@@ -5,15 +5,15 @@ image: https://i0.wp.com/setanmerah.net/wp-content/uploads/2017/07/Premier-Leagu
 tags: [aplikasi android, sepakbola, streaming]
 
 ---
-Di saat liga-liga di Eropa sana mulai bergulir lagi di musim 2018/2019, jenis manusia berbatang yang _single_, baik yang terang-terangan mengaku _jomblo_ atau meng-iya-kan ke-_single_-annya dalam tunduk malu, Minggu dini-hari adalah waktu sakral untuk melampiaskan kejengkelannya pada nasib dengan nonton bola selain (tentu saja) mobalog yang b^^s^t itu.
+Di saat liga-liga di Eropa sana mulai bergulir lagi di musim 2018/2019, jenis manusia berbatang yang _single_, baik yang terang-terangan mengaku _jomblo_ atau meng-iya-kan ke _single_ annya dalam tunduk malu, Minggu dini-hari adalah waktu sakral untuk melampiaskan kejengkelannya pada nasib dengan nonton bola selain (tentu saja) mobalog yang b••s•t itu.
+
+<!--more-->
+
+Sebagai yang pertama bergulir, adalah _Premier League_ nya Inggris di susul _Liga Calcio_ nya Italia. Baru kemudian Spanyol dengan _Liga Primera_ nya, dan Bundesliga. Setidaknya empat liga itu yang masih ditonton.
 
 ![Premier League]({{ page.image }})
 
-Sebagai yang pertama bergulir, adalah _Premier League_-nya Inggris di susul _Liga Calcio_-nya Italia. Baru kemudian Spanyol dengan _Liga Primera_-nya, dan Bundesliga. Setidaknya empat liga itu yang masih ditonton.
-
-<!-- more -->
-
-Tapi apa _latjur_, ternyata tak semua tivi lokal mau menayangkan semua pertandingan. Entah karena berbenturan dengan acara sinetron atau dianggap tak layak tonton. Tak layak tonton a.l.a. tivi lokal tentu saja berkaitan dengan duit yang berputar. Ya mohon maklum _donk_, siaran tivi kan _bussiness_ juga, perlu untung. Pers*t*n untung!, itu kan menurutmu wahai para jomblo.
+Tapi apa _latjur_, ternyata tak semua tivi lokal mau menayangkan semua pertandingan. Entah karena berbenturan dengan acara sinetron atau dianggap tak layak tonton. Tak layak tonton a.l.a. tivi lokal tentu saja berkaitan dengan duit yang berputar. Ya mohon maklum _donk_, siaran tivi kan _bussiness_ juga, perlu untung. Pers•t•n untung!, itu kan menurutmu wahai para jomblo.
 
 Mestinya kalian berusaha sedikit dengan membayar tivi-kabel. Kan di Paciran sudah banyak juga yang _narik-kabel_. Penyedia layanan tivi kabel partikelir yang biaya sewa perbulannya cuma puluhan ribu saja itu loh _cak_. Tapi ya itu channel-nya _ndak_ bisa milih, _opo jare_ sang pemilik. Jangan tanya saya siapa namanya _lur_, aku _gak_ promosi. Nek _riko_ ngerti, bilang suruh pasang iklan di sini biar tak sebut nama dan alamatnya hehe... Judulnya tetep duwit.
 
