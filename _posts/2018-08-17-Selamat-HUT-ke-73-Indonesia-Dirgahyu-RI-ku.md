@@ -6,9 +6,13 @@ banner_image: dirgahayuRI.jpg
 tags: [indonesia, dirgahayu, hut 73]
 
 ---
-Hari ulang tahun ke-73 Negara Kesatuan Republik Indonesia, cuma bisa mengucap: "[**Dirgahayu Negriku!**](https://www.paciran.com/2018/08/17/Selamat-HUT-ke-73-Indonesia-Dirgahyu-RI-ku.html)" dalam sepi warung kopi ber-wifi. Sementara itu, tangan masih memempel di layar smartphone, tak ada kepalan tangan. Membolak-balik browser buatan Microsoft terbaru yang kini juga hadir di platform Android: **Edge**. Menekuni beberapa artikel yang barangkali ada manfaat-nya salah satunya berjudul "How to hack wi-fi password using new attack on WPA/WPA2". Penasaran? Baca saja di [situs techworm](https://www.techworm.net/2018/08/wifi-password-hacking-hack-wifi-password.html), tak begitu berguna sih kalau main-nya di lokalan sini. Kan tahu sendiri, warkop wi-fi di Paciran itu ada _taboo_ yang bunyinya kurang lebih **dilarang bawa tanktop**. Tentu demi kenyamanan sesama penikmat _bandwith_ gratisan.
+Hari ulang tahun ke-73 Negara Kesatuan Republik Indonesia, cuma bisa mengucap: "[**Dirgahayu Negriku!**](https://www.paciran.com/2018/08/17/Selamat-HUT-ke-73-Indonesia-Dirgahyu-RI-ku.html)" dalam sepi warung kopi ber-wifi. Sementara itu, tangan masih memempel di layar smartphone, tak ada kepalan tangan. Membolak-balik browser buatan Microsoft terbaru yang kini juga hadir di platform Android: **Edge**. Menekuni beberapa artikel yang barangkali ada manfaat-nya salah satunya berjudul "How to hack wi-fi password using new attack on WPA/WPA2". 
 
-<!-- more -->
+Penasaran?
+<!--more-->
+Baca saja di [situs techworm](https://www.techworm.net/2018/08/wifi-password-hacking-hack-wifi-password.html), tak begitu berguna sih kalau main-nya di lokalan sini. Kan tahu sendiri, warkop wi-fi di Paciran itu ada _taboo_ yang bunyinya kurang lebih **dilarang bawa tanktop**. Tentu demi kenyamanan sesama penikmat _bandwith_ gratisan.
+
+### Baca Tulis vs Tonton Rekam
 
 Malah ngelantur kan? Saya ini memang gak cocok kalau disuruh nulis bertema berbau kemerdekaan, kebangsaan, sosial atau yang semarga. Seperti saat ini, sebelum menulis artikel aneh ini ( -- dengan judul yang aneh juga), sebenarnya saya baru saja utak-atik [url shortener](https://safelink.knoacc.org) buat membentengi pemendek-link-berbayar (singkat saja PLB biar gampang) demi kelangsungan hidup [situs-film-bajakan](https://streamer.knoacc.org) yang juga baru selesai dibuat. Pokoknya, kalau link yang dihasilkan oleh PLB ini di sebarkan di Facebook akan di-blok. Jadi harus dikasih benteng. 
 
