@@ -19,6 +19,8 @@ author_bio: Jon Mukidi is a designer, photographer, speaker, author of a couple 
 author_url: https://www.knoacc.org
 author_location: Somewhere, Out-there
 author_image: /images/authorimage.png
+# comments
+disqus: paciran1
 # banner ads
 banner_url: https://safelink.knoacc.org
 banner_image: images/banner.jpg
