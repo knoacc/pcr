@@ -28,7 +28,7 @@ banner_image: images/banner.jpg
 adsbygoogle:
  ca_pub: "ca-pub-8526606076277673"
  sidebar_slot: "8128278337"
- sidebar_format: "auto"
+# sidebar_format: "auto"
 # header_slot
 # header_format
 # footer_slot
