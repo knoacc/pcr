@@ -25,9 +25,9 @@ disqus: paciran1
 banner_url: https://safelink.knoacc.org
 banner_image: images/banner.jpg
 # adsbygoogle
-adsbygoogle:
- ca_pub: "ca-pub-8526606076277673"
- sidebar_slot: "8128278337"
+ads:
+ pub: "ca-pub-8526606076277673"
+ slot: "8128278337"
 
 # header_slot
 
