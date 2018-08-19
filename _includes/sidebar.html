@@ -24,10 +24,8 @@
     </section><!-- .widget -->
     {% endif %}
     
-    {% if site.adsbygoogle %}
-    <section class="widget">
-     {% include sidebar-ad.html %}
-    </section>
+    {% if site.ads %}
+    {% include sidebar-ad.html %}
     {% endif %}
 
     {% if site.banner_image %}
