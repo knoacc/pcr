@@ -26,13 +26,9 @@ banner_url: https://safelink.knoacc.org
 banner_image: images/banner.jpg
 # adsbygoogle
 ads:
- pub: "ca-pub-8526606076277673"
- slot: "8128278337"
-
-# header_slot
-
-# footer_slot
-
+  pub: "ca-pub-8526606076277673"
+  slot: 
+    sidebar: "8128278337"
 # social
 instagram_username: ph4t3
 # paginate
