@@ -23,6 +23,12 @@
         <!--End mc_embed_signup-->
     </section><!-- .widget -->
     {% endif %}
+    
+    {% if site.ads %}
+    <section class="widget">
+     {% include sidebar-ad.html %}
+    </section>
+    {% endif %}
 
     {% if site.banner_image %}
     <section class="widget widget-text">
