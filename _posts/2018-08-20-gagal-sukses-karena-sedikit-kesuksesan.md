@@ -5,7 +5,9 @@ banner_image: gagal-sukses.jpg
 image: ngudut.jpg
 
 ---
-Jadi penulis kelas teri itu seperti _ngumpulno upo_, apalagi di era _milenial_ sekarang. Di awal-awal saat kecepatan transfer data untuk meng-akses internet tak sekencang saat ini (dan masih mahal), konten internet yanh paling bisa dinikmati tanpa banyak membuang duit, adalah tulisan-tulisan aberupa blog atau e-book. Penulis masih punya ruang untuk bernafas. Entah itu memilih untuk menulis sebuah e-book atau memilih mempublikasikan tulisan-tulisan lewat blog. Katakanlah menjadi semacam _self publisher_. 
+Jadi penulis kelas teri itu seperti _ngumpulno upo_, apalagi di era _milenial_ sekarang. Di awal-awal saat kecepatan transfer data untuk meng-akses internet tak sekencang saat ini (dan masih mahal), konten internet yanh paling bisa dinikmati tanpa banyak membuang duit, adalah tulisan-tulisan aberupa blog atau e-book. Penulis masih punya ruang untuk bernafas. Entah itu memilih untuk menulis sebuah e-book atau memilih mempublikasikan tulisan-tulisan lewat blog. Katakanlah menjadi semacam _self publisher_.
+
+<!--more-->
 
 Trend yang kemudian booming ketika **Google** datang dengan **Adsense**-nya. Kaya dengan dengan menerbitkan sebuah website menjadi hal yang lumrah. Sumber utamanya tentu saja penawaran dari iklan yang tayang.
 
