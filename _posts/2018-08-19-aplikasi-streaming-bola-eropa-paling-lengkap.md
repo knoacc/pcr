@@ -14,7 +14,7 @@ Sebagai yang pertama bergulir, adalah _Premier League_ nya Inggris di susul _Lig
 
 ![Premier League]({{ page.image }})
 
-Tapi apa _latjur_, ternyata tak semua tivi lokal mau menayangkan semua pertandingan. Entah karena berbenturan dengan acara sinetron atau dianggap tak layak tonton. Tak layak tonton a.l.a. tivi lokal tentu saja berkaitan dengan duit yang berputar. Ya mohon maklum _donk_, siaran tivi kan _bussiness_ juga, perlu untung.
+Tapi apa _latjur_, ternyata tak semua tivi lokal mau menayangkan pertandingan tertentu. Entah karena berbenturan dengan acara sinetron atau dianggap tak layak tonton. Tak layak tonton a.l.a. tivi lokal tentu saja berkaitan dengan duit yang berputar. Ya mohon maklum _donk_, siaran tivi kan _bussiness_ juga, perlu untung.
 
 > Pers•t•n untung!
 
@@ -23,33 +23,35 @@ Loh, itu kan menurutmu wahai para jomblo. Mestinya kalian berusaha sedikit denga
 ### Gawai Cerdas nan canggih
 
 Hemm.. Jaman sekarang, siapa yang tak punya gawai-cerdas? Entah itu gawai yang mahalnya seharga sapi seperti produk buatan Apple Inc., atau semurah kripik tempe lokal ber-OS Android semacam Advan yang makek pun saia mualess gara-gara disisipi **
-**adware** yang kalau sudah dipakai beberapa bulan lemotnya _naudubilah_. Dengan gawai cerdas ini, kamu jomblowan yang mulia bisa mengobati rasa _sepi-mampri_ di hati dengan _nyetriming_ siaran pertandingan bola sebagai siraman rohani.
+**adware** yang kalau sudah dipakai beberapa bulan lemotnya _naudubilah_. Dengan gawai cerdas ini, kamu jomblowan yang mulia bisa mengobati rasa _sepi-mampri_ di hati dengan _nyetriming_ siaran pertandingan bola. Sebagai siraman rohani, biar hati sejuk.
 
 ![Gawai Cerdas](https://www.mobdro.sc/assets/images/ui.png)
 
-Kalau cukup sabar mencari, dengan modal aplikasi _yutub_ bisa, tapi lebih baik gunakan aplikasi chrome dan lakukan pencarian dengan kata kunci klub bola yang sedang bertanding. Ini lebih menjanjikan walaupun kadang sudah _setengah maenan_ baru ketemu link yang cocok.
+Kalau cukup sabar mencari, dengan modal aplikasi _yutub_ bisa, tapi lebih baik gunakan aplikasi chrome dan lakukan pencarian dengan kata kunci klub bola yang sedang bertanding. Ini lebih menjanjikan, walaupun kadang sudah _setengah maenan_ baru ketemu link situs yang cocok.
 
-Sebagai bocoran, cari saja di [Google dengan kata kunci sagahtv](https://www.google.co.id/search?q=sagahtv). Jangan tanya link! Situs semacam ini mudah hilang dari perederan. Entah domain yang dipakai expired, entah di banned oleh ISP, yang pasti tak bertahan lama. Situs sagahtv sendir juga sudah bergamti domain berkali-kali mulai sagah.tv, sagahtv.com, sagahtv.info, sagahtv.net sagahtv.xyz hingga saat ini sagahtv.me yang sepertinya juga _gak_ berumur lama.
+Sebagai bocoran, cari saja di [Google dengan kata kunci sagahtv](https://www.google.co.id/search?q=sagahtv). Jangan tanya link! Situs semacam ini mudah hilang dari peredaran. Entah domain yang dipakai expired, entah di banned oleh ISP, yang pasti tak bertahan lama. Situs **sagahtv** sendiri juga sudah bergamti domain berkali-kali mulai sagah•tv, sagahtv•com, sagahtv•info, sagahtv•net sagahtv•xyz hingga saat ini memakai sagahtv•me yang (sepertinya) juga _gak_ akan berumur lama.
 
 ### Aplikasi Streaming Bia**b
 
-Jadi jomblo itu penuh perjuangan. Kalau boleh dibilang lebih berat dari pejuang kemerdekaan. Ingat kata bung Karno "Perjuangan kita lebih mudah karena melawan bangsa penjajah, sedangkan perjuangam kalian **melawan bangsa sendiri**", yakni bangsa jomblo karatan. Kembali ke streaming bola, ada cara yang lebih mudah tanpa harus berjuang layaknya pejuang kemerdekaan. Memasang aplikasi yang menyediakan layanan streaming yang lengkap. Banyak kok aplikasi semacam ini di Playstore.
+Jadi jomblo itu penuh perjuangan. Kalau boleh dibilang lebih berat dari pejuang kemerdekaan. Ingat kata bung Karno "Perjuangan kita lebih mudah karena melawan bangsa penjajah, sedangkan perjuangam kalian **melawan bangsa sendiri**", yakni bangsa jomblo karatan.
 
-Tapi cuma sedikit yang benar-benar bisa dinikmati. Kebanyakan aplikasi-aplikasi streaming di Playstore cuma [bagus dalam menampilkan iklan](https://safelink.knoacc.org/#0eI1v). Terkutuklah para pembuat aplikasi ba•gs°t itu!
+Kembali ke streaming bola, ada cara yang lebih mudah tanpa harus berjuang layaknya pejuang kemerdekaan. Memasang aplikasi yang menyediakan layanan streaming yang lengkap. Banyak kok aplikasi semacam ini di Playstore. Tapi, cuma sedikit yang benar-benar bisa dinikmati. Kebanyakan aplikasi-aplikasi streaming di Playstore [cuma bagus dalam menampilkan iklan](https://safelink.knoacc.org/#0eI1v). Terkutuklah para pembuat aplikasi ba•gs°t itu!
 
-### Rahasia
+### Aplikasi Rahasia
 
-Baiklah anak muda, akan kutunjukkan pada kalian aplikasi yang selama ini kupakai. Ini adalah bentuk kesetiakawananku kepada kalian para jomblo karatan, sebagai sesama bujang lapuk, yang tak kunjung terjual sebanyak apapun diskon yang terpampang. Sekali lagi _saia_ tekankan, ini rahasia tingkat dewa, super _confidential_, jadi jangan sampai membagikan file apk lewat share-it atau mi-drop. Cukup bagikan artikel saja ya?
+Baiklah anak muda, akan kutunjukkan pada kalian aplikasi yang selama ini kupakai. Ini adalah bentuk kesetiakawananku kepada kalian para jomblo karatan, sebagai sesama bujang lapuk, yang tak kunjung terjual sebanyak apapun diskon yang terpampang. Sekali lagi _saia_ tekankan, ini rahasia tingkat dewa, super _confidential_, jadi jangan sampai membagikan file apk lewat share-it atau mi-drop. Cukup bagikan artikel ini saja ya?
 
 ![aplikasi mobdro](https://mobdroapks.com/wp-content/uploads/2018/01/Mobdro.jpg)
 _Alikasi Mobdro_
 
-Aplikasi itu bernama: **Mobdro** unduh saja dari [**link ini**](https://safelink.knoacc.org/#Qxey9) dan pasang di Android kalian. Jangan banyak protes! Ini adalah aplikasi terbaik live streaming menurut _saia_
+Aplikasi itu bernama: **Mobdro** unduh saja dari [**link ini**](https://safelink.knoacc.org/#Qxey9) dan pasang di Android kalian. Jangan banyak protes! Ini adalah **aplikasi terbaik live streaming** menurut _saia_
+
+Untuk memakai aplikasi streaming ini cukup gampang. Buka aplikasi dan **cari channel sport**. Untuk liga Inggris, _saia_ sarankan untuk memilih **Sky Sport Premier**. 
 
 ### Pencerahan
 
-Untuk memakai aplikasi streaming ini cukup gampang. Buka aplikasi dan cari channel sport. Untuk liga inggris, saia sarankan untuk memilih Skysport Premier. Tak cuma nonton bola, aplikasi ini juga bisa kamu manfaatkan saat kamu sudah punya _genda'an_. Lumayan hemat, ketimbang beli tiket bioskop yang mahal, belum lagi beratnya ijin dari camer. Cukup beli kuota saja. Pilih salah satu dari ratusan channel movie yang ada, dan ajak mojok _genda'an_ kalian di sudut ruang tamu... 
+Tak cuma nonton bola, aplikasi ini juga bisa kamu manfaatkan saat kamu sudah punya _genda'an_. Lumayan hemat, ketimbang beli tiket bioskop yang mahal, belum lagi beratnya mendapat ijin dari camer. Cukup beli kuota murah. Pilih salah satu dari ratusan channel movie yang ada. Dan ajak mojok _genda'an_ kalian, 
 
-_berbisik lirih:_ calon mertua kep***t...
+.. di sudut ruang tamu... _berbisik lirih: calon mertua kep***t..._
 
 Hati-hati _mblo_ jangan ucapkan kata diatas saat hubunganmu baru seumur jagung.
