@@ -22,7 +22,7 @@ Tetapi bisa sangat membuatmu ingin mengutuk para dewa ketika kamu berprofesi seb
 
 ### Trading
 
-Balik lagi, sebenarnya bukan masalah jika ingin ikut bermain. Tapi coba pertimbangkan lagi, dan silahkan pahami kenapa produk _derivatif_ semacam ini dilarang dalam Islam. Kalau toh ada yang memperdebatkan apakah _mainin valas_ (mengutip lirik lagu Jamrud) itu halal atau haram setidaknya, ada hal positif kenapa sebuah agama sampai melarangnya. _Saia_ juga bukan orang yang _religius bingits_ kok.
+Balik lagi, sebenarnya bukan masalah jika ingin ikut bermain. Tapi coba pertimbangkan lagi, dan silahkan pahami kenapa  [_produk derivatif_](http://www.academia.edu/7179165/Produk_Derivatif) semacam ini dilarang dalam Islam. Kalau toh ada yang memperdebatkan apakah _mainin valas_ (mengutip lirik lagu Jamrud) itu halal atau haram setidaknya, ada hal positif kenapa sebuah agama sampai melarangnya. _Saia_ juga bukan orang yang _religius bingits_ kok.
 
 > Buktinya, _saia_ tidak sedang menulis yang berkaitan dengan Hari Raya Idul Adha meskipun besok adalah hari-H.
 
@@ -32,7 +32,9 @@ Ada unsur spekulasi disitu. Bagi yang tidak paham benar bagaimana mekanismenya. 
 
 ### Mining
 
-Bagaimana jika ingin menambang sendiri? Yakin? Saya tanya lagi, yakin ingin menambang Bitcoin secara serius? Modalnya _gedhe bruh_. Sumberdaya yang dibutuhkan untuk menambang juga gak kepalang tanggung. Kamu kira hardware untuk mining itu tidak makan daya yang buuuessaaar??? Ciba saja dihitung dan jawab secara jujur, jika dijual saat itu juga, berapa profit yang didapat setelah biaya operasional. Profitnya gak seberapa kan? Kecuali jika mau dan rela untuk menyimpan hasil _mining_ tahun ini hingga tahun depan atau tahun depannya lagi.
+![Criotocurrency Mining](https://typodar.ru/wp-content/uploads/2017/11/The-Tech-Farm-mod.jpg)
+
+Bagaimana jika ingin menambang sendiri? Yakin? Saya tanya lagi, yakin ingin menambang Bitcoin secara serius? Modalnya _gedhe bruh_. Sumberdaya yang dibutuhkan untuk menambang juga gak kepalang tanggung. Kamu kira hardware untuk mining itu tidak [makan daya yang buuuessaaar](https://www.pcauthority.com.au/news/bitcoin-mining-eats-up-more-energy-than-the-entirety-of-ireland-uses-in-a-year-478360){:. title="Pakai gugel trenslet ya.."}??? Coba saja dihitung dan jawab secara jujur, jika dijual saat itu juga, berapa profit yang didapat setelah biaya operasional. Profitnya gak seberapa kan? Kecuali jika mau dan rela untuk menyimpan hasil _mining_ tahun ini hingga tahun depan atau tahun depannya lagi.
 
 _Worth it_ kah? Silahkan jawab sendiri. Kalau bagi saya mending kerja jadi kuli, kerja minggu ini minggu depan nyaman di warung kopi. Yes, _saia_ bukan termasuk orang yang punya ambisi besar, betul sekali _kisanak_. Itulah makanya saia bukan termasuk orang sukses, kalau ukurannya adalah materi tentu saja.
 
