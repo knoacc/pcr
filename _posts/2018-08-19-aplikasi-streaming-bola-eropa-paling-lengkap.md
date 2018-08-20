@@ -33,7 +33,7 @@ Sebagai bocoran, cari saja di [Google dengan kata kunci sagahtv](https://www.goo
 
 ### Aplikasi Streaming Bia**b
 
-Jadi jomblo itu penuh perjuangan. Kalau boleh dibilang lebih berat dari pejuang kemerdekaan. Ingat kata bung Karno "Perjuangan kita lebih mudah karena melawan bangsa lain, sedangkan perjuangam kalian **melawan bangsa sendiri**", yakni bangsa jomblo karatan. Kembali ke streaming bola, ada cara yang lebih mudah tanpa harus berjuang layaknya pejuang kemerdekaan. Memasang aplikasi yang menyediakan layanan streaming yang lengkap. Banyak kok aplikasi semacam ini di Playstore.
+Jadi jomblo itu penuh perjuangan. Kalau boleh dibilang lebih berat dari pejuang kemerdekaan. Ingat kata bung Karno "Perjuangan kita lebih mudah karena melawan bangsa penjajah, sedangkan perjuangam kalian **melawan bangsa sendiri**", yakni bangsa jomblo karatan. Kembali ke streaming bola, ada cara yang lebih mudah tanpa harus berjuang layaknya pejuang kemerdekaan. Memasang aplikasi yang menyediakan layanan streaming yang lengkap. Banyak kok aplikasi semacam ini di Playstore.
 
 Tapi cuma sedikit yang benar-benar bisa dinikmati. Kebanyakan aplikasi-aplikasi streaming di Playstore cuma [bagus dalam menampilkan iklan](https://safelink.knoacc.org/#0eI1v). Terkutuklah para pembuat aplikasi ba•gs°t itu!
 
@@ -44,7 +44,7 @@ Baiklah anak muda, akan kutunjukkan pada kalian aplikasi yang selama ini kupakai
 ![aplikasi mobdro](https://mobdroapks.com/wp-content/uploads/2018/01/Mobdro.jpg)
 _Alikasi Mobdro_
 
-Aplikasi itu bernama: **Mobdro** unduh saja dari [**link ini**](https://mi.knoacc.org/dl/pcloud?&name=com.mobdro.android.apk&code=XZQzss7ZOagD11Vp725ovH8UPGRV18MTjvQX&size=23.2MB) dan pasang di Android kalian. Jangan banyak protes! Ini adalah aplikasi terbaik live streaming menurut _saia_
+Aplikasi itu bernama: **Mobdro** unduh saja dari [**link ini**](https://safelink.knoacc.org/#Qxey9) dan pasang di Android kalian. Jangan banyak protes! Ini adalah aplikasi terbaik live streaming menurut _saia_
 
 ### Pencerahan
 
