@@ -24,7 +24,9 @@ Tetapi bisa sangat membuatmu ingin mengutuk para dewa ketika kamu berprofesi seb
 
 Balik lagi, sebenarnya bukan masalah jika ingin ikut bermain. Tapi coba pertimbangkan lagi, dan silahkan pahami kenapa produk _derivatif_ semacam ini dilarang dalam Islam. Kalau toh ada yang memperdebatkan apakah _mainin valas_ (mengutip lirik lagu Jamrud) itu halal atau haram setidaknya, ada hal positif kenapa sebuah agama sampai melarangnya. _Saia_ juga bukan orang yang _religius bingits_ kok.
 
-Ada unsur spekulasi disitu bagi yang tidak paham benar bagaimana mekanismenya. Bagi yang terjun karena terbuai dengan angin surga, cepat kaya, untung banyak kalau harga naik, bisa saya pastikan orang semacam ini cuma modal untung-untungan. Tak pandai matematika, maaf, bukan meremhkan tapi memang iya. Membeli disaat harga turun dan menjual disaat harga mahal, tak segampang itu _luur_...
+> Buktinya, _saia_ tidak sedang menulis yang berkaitan dengan Hari Raya Idul Adha meskipun besok adalah hari-H.
+
+Ada unsur spekulasi disitu. Bagi yang tidak paham benar bagaimana mekanismenya. Bagi yang terjun karena terbuai dengan angin surga, cepat kaya, untung banyak kalau harga naik, bisa saya pastikan orang semacam ini cuma modal untung-untungan. Tak pandai matematika, maaf, bukan meremehkan tapi memang iya. Membeli disaat harga turun dan menjual disaat harga mahal, tak segampang itu _luur_...
 
 > Sorry, _saia_ sudah berusaha semaksimal mungkin untuk: **Sinis**.
 
