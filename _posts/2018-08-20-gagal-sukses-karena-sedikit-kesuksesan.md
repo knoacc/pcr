@@ -2,7 +2,7 @@
 title: Gagal Jadi Sukses Karena Sedikit Kesuksesan
 description: Catatan saat hanya membelitkan handuk sembari tiduran setelah mandi siang. Berusaha meng-koreksi diri.
 banner_image: gagal-sukses.jpg
-image: ngudut.jpg
+image: /posts/ngudut.jpg
 
 ---
 Jadi penulis kelas teri itu seperti _ngumpulno upo_, apalagi di era _milenial_ sekarang. Di awal-awal saat kecepatan transfer data untuk meng-akses internet tak sekencang saat ini (dan masih mahal), konten internet yanh paling bisa dinikmati tanpa banyak membuang duit, adalah tulisan-tulisan aberupa blog atau e-book. Penulis masih punya ruang untuk bernafas. Entah itu memilih untuk menulis sebuah e-book atau memilih mempublikasikan tulisan-tulisan lewat blog. Katakanlah menjadi semacam _self publisher_.
@@ -31,7 +31,7 @@ Sebagai penghasil konten kelas teri, _saia_ kalah telak. Penghasilan tak lancar,
 
 Haha... Sedemikian pun, **belum mau sadar** juga _saia_. Masih _keukeuh_ tidak mau menjamah konten Video. Setidaknya untuk sekarang, entah nanti.
 
-![Ngudut disit!]({{ page.imagr}}){: style="display:block;margin:0 auto"}
+![Ngudut disit!]({{ page.image }}){: style="display:block;margin:0 auto"}
 
 Kisah _saia_ adalah contoh dari seseorang yang Gagal Sukses gara-gara terlalu _enjoy_ menikmati manisnya secuil remah coklat di tepi sungai dan menolak untuk menyeberang padahal sudah melihat ada pesta api unggun di sana.
 
