@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About this blog
-description: An optional about page for BlogInn Jekyll theme
+description: Kenalan dengan Jon Mukidi, penulis utama di blog Paciran Lamongan.
 banner_image: aboutPage.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Jon Mukidi**, adalah nama fiktif. Tak ada kaitan apapun dengan dunia nyata. Sebuah nama samaran yang dipilih secara _random_. Tidak berada di institusi manapun di Paciran atau berafiliasi dengan kepentingan apapun. Juga tak berusaha untuk mewakili pihak manapun.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+Blog ini secara umum adalah blog pribadi. Tidak memakai teknologi tracking (analitycs) apapun, tidak memasang iklan, dan sepenuhnya mandiri.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Tulisan-tulisan yang telah dan akan terbit tidak ada kaitannya dengan Paciran sebagai institusi pemerintahan. Murni tulisan pribadi, dan tidak berusaha untuk mewakili ataupun mem-personifikasi Paciran sebagai sebuah institusi pemerintahan maupun wilayah.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+Jika ada keluhan tentang tulisan yang dimuat disini silahkan gunakan form [kontak penulis](/kontak.)
 
-*Thank You for reading!*
+Ohya, jika kamu adalah penduduk Paciran dan ingin tulisanmu dimuat, silahkan kirim naskah/text dengan [format markdown](https://en.wikipedia.org/wiki/Markdown) ke alamat posting@paciran.com.
+
+**_Terimaksih sudah mau membaca_**
+
+_diperbarui tanggal: 20 Agustus 2018_
