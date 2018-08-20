@@ -17,7 +17,7 @@ Blog ini secara umum adalah blog pribadi. Tidak memakai teknologi tracking (anal
 
 Jika ada keluhan tentang tulisan yang dimuat disini silahkan gunakan form [kontak penulis](/kontak.)
 
-Note: Jika kamu adalah penduduk Paciran dan ingin tulisanmu dimuat, silahkan kirim naskah/text dengan [format markdown](https://en.wikipedia.org/wiki/Markdown) ke alamat posting@paciran.com. Contoh penulisan _raw_ (mentah) ber-format markdown bisa dilihat [di sini](https://raw.githubusercontent.com/knoacc/pcr/master/style-guide.md). Hasil setelah dipublikasi akan terlihat seperti halaman [Style Guide](/style-guide)
+Note: Jika kamu adalah penduduk Paciran dan ingin tulisanmu dimuat, silahkan kirim naskah/text dengan [format markdown](https://en.wikipedia.org/wiki/Markdown) ke alamat [Editor](mailto:editor@paciran.com). Contoh penulisan _raw_ (mentah) ber-format markdown bisa dilihat [di sini](https://raw.githubusercontent.com/knoacc/pcr/master/style-guide.md). Hasil setelah dipublikasi akan terlihat seperti halaman [Style Guide](/style-guide)
 
 
 
