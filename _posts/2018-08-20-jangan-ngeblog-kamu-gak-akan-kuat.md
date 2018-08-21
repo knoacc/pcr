@@ -38,7 +38,7 @@ Sebagai penghasil konten kelas teri, _saia_ kalah telak. Penghasilan tak lancar,
 
 Haha... Sedemikian pun, **belum mau sadar** juga _saia_. Masih _keukeuh_ tidak mau menjamah konten Video. Setidaknya untuk sekarang, entah nanti.
 
-![Ngudut disit!](https://www.paciran.com/images/posts/ngudut.jpg){: style="display:block;margin:0 auto"}
+![Ngudut disit!](https://i0.wp.com/www.paciran.com/images/posts/ngudut.jpg?resize=740,416){: style="display:block;margin:0 auto"}
 
 Kisah _saia_ adalah contoh dari seseorang yang Gagal Sukses gara-gara terlalu _enjoy_ menikmati manisnya secuil remah coklat di tepi sungai dan menolak untuk menyeberang padahal sudah melihat ada pesta api unggun di sana.
 
