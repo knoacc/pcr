@@ -8,23 +8,7 @@
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus</a>.</noscript>
     </div><!-- .comments-inner -->
 </div><!-- .comments-area -->
-<!--
-<script type="text/javascript">
-    var disqus_shortname = '{{ site.disqus }}';
-    var disqus_developer = 0;
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-</script>
-
-<div class="comments-block">
-    <button id="show-comments" onclick="disqus();return false;">Load Comments</button>
-</div>
-
-<div id="disqus_thread"></div>
--->
+<!-- fungsi muat komentar onclick -->
 <script type='text/javascript'>
 var disqus_developer = 0;
 var disqus_loaded = false;
@@ -32,13 +16,13 @@ var disqus_shortname = '{{ site.disqus }}'; //Add your shortname here
 function disqus() {
     if (!disqus_loaded)  {
         disqus_loaded = true;
-        var e = document.createElement('script');
-        e.type = 'text/javascript';
-        e.async = true;
-        e.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] ||
         document.getElementsByTagName('body')[0])
-        .appendChild(e);
+        .appendChild(dsq);
         //Hide the button after opening
         document.getElementById('show-comments').style.display = 'none';
     }
