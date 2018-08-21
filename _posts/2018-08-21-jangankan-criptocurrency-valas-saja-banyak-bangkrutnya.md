@@ -2,17 +2,19 @@
 title: Jangankan Criptocurrency, Mainan Valas Saja Banyak Bangkrutnya
 description: 
 image: https://i3.wp.com/fortunedotcom.files.wordpress.com/2018/04/long-blockchain-bitcoin-stock-price.jpg?crop=1000,540
-# banner_image:
+banner_image: bitcoin-price.jpg
 
 ---
 _**Criptocurrency**_. Bagi telinga awam, istilah itu mungkin terasa asing _bingits_. Tetapi, coba lafalkan kata: **bit-koooo-iiiinnn**, _Bitcoin_. Kata merdu Ooh... berbarengan dengan terbentuknya ekspresi "seolah paham" akan terpampang diwajah mereka. Padahal belum tentu tahu benar Bitcoin itu apa, setidaknya pernah dengar.
 <!--more-->
 
-Masih ingat sekali saya sekitar tahun 2015 melihat betapa Bitcoin, sebagai leader dari _criptocurrency_ ini menjadi _booming_ dengan segala rumor minus yang berputar pada penggunaannya sebagai mata uang virtual yang tak terlacak. Entah untuk membeli barang terlarang semisal _illegal drugs_, prostitusi anak, penjualan organ, hingga yang paling seram; sewa pembunuh bayaran, yang ada dan tersedia di _dark-web_ yang tak mungkin muncul di kolom pencarian Google, Bing atau Duckduckgo. Trending juga kala berita tentang Bitcoin untuk mencuci uang, --eh? _Bitcoin_ bukan merk mesin cuci bro, hanya salah satu dari sekian **mata uang digital terenkripsi**.
+Masih ingat sekali saya sekitar tahun 2015 melihat betapa Bitcoin, sebagai leader dari _criptocurrency_ ini menjadi _booming_ dengan segala rumor minus yang berputar pada penggunaannya sebagai mata uang virtual yang tak terlacak. Entah untuk membeli barang terlarang semisal _illegal drugs_, prostitusi anak, penjualan organ, hingga yang paling seram; sewa pembunuh bayaran, yang ada dan tersedia di _dark-web_ yang tak mungkin muncul di kolom pencarian Google, Bing atau Duckduckgo. Kala itu juga _Trending_ tentang Bitcoin yang dipakai untuk mencuci uang, --eh? _Bitcoin_ bukan merk mesin cuci bro, hanya salah satu dari sekian **mata uang digital terenkripsi**.
 
 > Haha, lagian siapa juga yang mau mengartikan mencuci uang secara harafiah?
 
-Berapa _criptocurrency_ selain itu: Etherium, Altcoin, Litcoin, ada juga Bitcoin Gold yang berbeda dengan Bitcoin meskipun namanya sama.
+[Criotocurrencies]({{ page.image }}
+
+Berapa _criptocurrency_: Etherium, Altcoin, Litcoin, ada juga Bitcoin Gold yang berbeda dengan Bitcoin meskipun namanya memakai bitcoin.
 
 Ohya, saya tidak mau menjelaskan bahkan mengomentari turunnya nilai pasar Bitcoin dan betapa banyak "tragedi" gara-gara bermain Bitcoin, apalagi sampai mencibir sinis. Sudah ada cerita semacam itu yang bisa kamu baca [di sini](https://www.cnbc.com/amp/2018/08/20/after-the-bitcoin-boom-hard-lessons-for-cryptocurrency-investors.html). Pakai **gugel trenslet** ya..
 
