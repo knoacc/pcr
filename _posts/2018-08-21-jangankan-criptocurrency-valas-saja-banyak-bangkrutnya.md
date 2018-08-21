@@ -26,13 +26,13 @@ Tetapi bisa sangat membuatmu ingin mengutuk para dewa ketika kamu berprofesi seb
 
 ![Trading Bitcoin](https://i0.wp.com/www.bitcointalkradio.com/wp-content/uploads/2018/06/80201_bitcoin-mining.jpg)
 
-Balik lagi, sebenarnya bukan masalah jika ingin ikut bermain. Tapi coba pertimbangkan lagi, dan silahkan pahami kenapa  [_produk derivatif_](http://www.academia.edu/7179165/Produk_Derivatif) semacam ini dilarang dalam Islam. Kalau toh ada yang memperdebatkan apakah _mainin valas_ (mengutip lirik lagu Jamrud) itu halal atau haram setidaknya, ada hal positif kenapa sebuah agama sampai melarangnya. _Saia_ juga bukan orang yang _religius bingits_ kok.
+Balik lagi, sebenarnya bukan masalah jika ingin ikut bermain. Tapi coba pertimbangkan lagi, dan silahkan pahami kenapa  [_produk derivatif_](http://www.academia.edu/7179165/Produk_Derivatif) semacam ini dilarang dalam Islam. Kalau toh masih ada yang memperdebatkan apakah _mainin valas_ (mengutip lirik lagu Jamrud) itu [halal atau haram](https://m.detik.com/finance/bursa-dan-valas/d-1844428/mui-juga-sudah-lama-haramkan-perdagangan-valas) setidaknya ada hal positif kenapa sebuah agama sampai melarangnya. _Saia_ juga bukan orang yang _religius bingits_ kok.
 
 > Buktinya, _saia_ tidak sedang menulis yang berkaitan dengan Hari Raya Idul Adha meskipun besok adalah hari-H.
 
-Ada unsur spekulasi disitu. Bagi yang tidak paham benar bagaimana mekanismenya. Bagi yang terjun karena terbuai dengan angin surga, cepat kaya, untung banyak kalau harga naik, bisa saya pastikan orang semacam ini cuma modal untung-untungan. Tak pandai matematika, maaf, bukan meremehkan tapi memang iya. Membeli disaat harga turun dan menjual disaat harga mahal, tak segampang itu _luur_...
+Ada unsur [spekulasi](https://kbbi.web.id/spekulasi.html) disitu. Bagi yang tidak paham benar bagaimana mekanismenya. Bagi yang terjun karena terbuai dengan angin surga, cepat kaya, untung banyak kalau harga naik, bisa saya pastikan orang semacam ini cuma modal untung-untungan. Tak pandai matematika, maaf, bukan meremehkan tapi memang iya. Membeli disaat harga turun dan menjual disaat harga mahal? Tak segampang itu _luur_...
 
-> Sorry, _saia_ sudah berusaha semaksimal mungkin untuk: **Sinis**.
+> Sorry, _saia_ sudah berusaha semaksimal mungkin untuk tidak: **Sinis**.
 
 ### Mining
 
@@ -46,6 +46,6 @@ _Worth it_ kah? Silahkan jawab sendiri. Kalau bagi saya mending kerja jadi kuli,
 
 Kalau mau kaya, jadi kuli juga bisa kaya. Tapi kuli yang paham posisi, paham situasi, paham benar apa yang dikerjakan. Mau jadi mandor proyek kecil-kecilan juga boleh asal paham dengan apa yang dikerjakan. Kalau tak paham hancur juga, cuman tak separah ketika _mainin valas_. Ngerti kan istilah _high risk high return_?
 
-Jadi kalau memang ingin mencicipi pahitnya jual beli _Criptocurrency_ ya pahami cara kerjanya dengan benar. Jangan mau di-sales-in, jangan mau di-mulut-manis-in. Kalau mau _mining_, ya silahkan hitung dengan benar. Mendengar cerita sukses dari seseorang itu menyenangkan. Tapi, apakah yang bercerita tentang kesuksesan itu benar-benar sukses? Bisa jadi cuma makelar. Pokoknya alatnya laku ya sudah gak mau ikut tanggung resiko kerugian. Tapi saat ada sedikit profit minta bagian sekian persen.
+Jadi kalau memang ingin mencicipi pahitnya jual beli _Criptocurrency_ ya pahami cara kerjanya dengan benar. Jangan mau di-sales-in, jangan mau di-mulut-manis-in. Kalau mau _mining_, ya silahkan hitung dengan benar. Mendengar cerita sukses dari seseorang itu menyenangkan. Tapi, apakah yang bercerita tentang kesuksesan itu benar-benar sukses? Bisa jadi cuma makelar. Pokoknya alatnya laku ya sudah gak mau ikut tanggung resiko kerugian. Tapi saat ada **sedikit profit** minta bagian sekian persen.
 
 Jangan tidur terus _bruh_, Selamat pagi...
