@@ -1,7 +1,7 @@
 ---
 title: Jangankan Criptocurrency, Mainan Valas Saja Banyak Bangkrutnya
 description: 
-image: https://i3.wp.com/fortunedotcom.files.wordpress.com/2018/04/long-blockchain-bitcoin-stock-price.jpg?1000,640
+image: https://i3.wp.com/fortunedotcom.files.wordpress.com/2018/04/long-blockchain-bitcoin-stock-price.jpg?resize=1000,640
 # banner_image:
 
 ---
