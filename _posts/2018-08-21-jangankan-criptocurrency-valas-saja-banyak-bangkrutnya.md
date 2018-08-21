@@ -1,7 +1,7 @@
 ---
 title: Jangankan Criptocurrency, Mainan Valas Saja Banyak Bangkrutnya
 description: 
-image: https://fortunedotcom.files.wordpress.com/2018/04/long-blockchain-bitcoin-stock-price.jpg
+image: https://i3.wp.com/fortunedotcom.files.wordpress.com/2018/04/long-blockchain-bitcoin-stock-price.jpg?1000,640
 # banner_image:
 
 ---
@@ -22,6 +22,8 @@ Tetapi bisa sangat membuatmu ingin mengutuk para dewa ketika kamu berprofesi seb
 
 ### Trading
 
+![Trading Bitcoin](https://i0.wp.com/www.bitcointalkradio.com/wp-content/uploads/2018/06/80201_bitcoin-mining.jpg)
+
 Balik lagi, sebenarnya bukan masalah jika ingin ikut bermain. Tapi coba pertimbangkan lagi, dan silahkan pahami kenapa  [_produk derivatif_](http://www.academia.edu/7179165/Produk_Derivatif) semacam ini dilarang dalam Islam. Kalau toh ada yang memperdebatkan apakah _mainin valas_ (mengutip lirik lagu Jamrud) itu halal atau haram setidaknya, ada hal positif kenapa sebuah agama sampai melarangnya. _Saia_ juga bukan orang yang _religius bingits_ kok.
 
 > Buktinya, _saia_ tidak sedang menulis yang berkaitan dengan Hari Raya Idul Adha meskipun besok adalah hari-H.
@@ -32,7 +34,7 @@ Ada unsur spekulasi disitu. Bagi yang tidak paham benar bagaimana mekanismenya. 
 
 ### Mining
 
-![Criotocurrency Mining](https://typodar.ru/wp-content/uploads/2017/11/The-Tech-Farm-mod.jpg)
+![Criotocurrency Mining](https://i1.wp.com/typodar.ru/wp-content/uploads/2017/11/The-Tech-Farm-mod.jpg)
 
 Bagaimana jika ingin menambang sendiri? Yakin? Saya tanya lagi, yakin ingin menambang Bitcoin secara serius? Modalnya _gedhe bruh_. Sumberdaya yang dibutuhkan untuk menambang juga gak kepalang tanggung. Kamu kira hardware untuk mining itu tidak [makan daya yang buuuessaaar](https://www.pcauthority.com.au/news/bitcoin-mining-eats-up-more-energy-than-the-entirety-of-ireland-uses-in-a-year-478360){:. title="Pakai gugel trenslet ya.."}??? Coba saja dihitung dan jawab secara jujur, jika dijual saat itu juga, berapa profit yang didapat setelah biaya operasional. Profitnya gak seberapa kan? Kecuali jika mau dan rela untuk menyimpan hasil _mining_ tahun ini hingga tahun depan atau tahun depannya lagi.
 
