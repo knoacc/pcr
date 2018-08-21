@@ -1,7 +1,9 @@
-<div class="comments-area">
-    <div class="comments-inner">
-        <h2 class="comments-title">Comments</h2>
-        <button id="show-comments" onclick="disqus();return:false;">Muat Komentar</button>
+<div class='comments-area'>
+    <div class='comments-inner'>
+        <h2 class='comments-title'>Comments</h2>
+        <div class='comments-block'>
+        <button id='show-comments' onclick='disqus();return:false;'>Muat Komentar</button>
+        </div>
         <div id="disqus_thread"></div>
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus</a>.</noscript>
     </div><!-- .comments-inner -->
@@ -23,27 +25,28 @@
 
 <div id="disqus_thread"></div>
 -->
-<script>
+<script type='text/javascript'>
+var disqus_developer = 0;
 var disqus_loaded = false;
 var disqus_shortname = '{{ site.disqus }}'; //Add your shortname here
 function disqus() {
     if (!disqus_loaded)  {
         disqus_loaded = true;
-        var e = document.createElement("script");
-        e.type = "text/javascript";
+        var e = document.createElement('script');
+        e.type = 'text/javascript';
         e.async = true;
-        e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
-        (document.getElementsByTagName("head")[0] ||
-        document.getElementsByTagName("body")[0])
+        e.src = 'https://'+ disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] ||
+        document.getElementsByTagName('body')[0])
         .appendChild(e);
         //Hide the button after opening
-        document.getElementById("show-comments").style.display = "none";
+        document.getElementById('show-comments').style.display = 'none';
     }
 }
 //Opens comments when linked to directly
 var hash = window.location.hash.substr(1);
 if (hash.length > 8) {
-    if (hash.substring(0, 8) == "comment-") {
+    if (hash.substring(0, 8) == 'comment-') {
         disqus();
     }
 }
