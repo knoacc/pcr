@@ -2,7 +2,7 @@
 title: "Selamat HUT ke-73, Dirgahayu RI-ku!"
 description: "Hari ulang tahun ke-73 Negara Kesatuan Republik Indonesia"
 lang: "id_ID"
-banner_image: dirgahayuRI.jpg?resize=900,506
+banner_image: dirgahayuRI.jpg?resize=900,560
 tags: [indonesia, dirgahayu, hut 73]
 
 ---
