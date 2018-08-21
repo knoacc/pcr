@@ -12,9 +12,9 @@ Masih ingat sekali saya sekitar tahun 2015 melihat betapa Bitcoin, sebagai leade
 
 > Haha, lagian siapa juga yang mau mengartikan mencuci uang secara harafiah?
 
-[Criotocurrencies]({{ page.banner_image }})
+![Criptocurrencies](https://www.paciran.com/images/posts/bitcoin-price.jpg)
 
-Berapa _criptocurrency_: Etherium, Altcoin, Litcoin, ada juga Bitcoin Gold yang berbeda dengan Bitcoin meskipun namanya memakai bitcoin.
+Beberapa _criptocurrency_: Bitcoin, Etherium, Litecoin, Ripple. Ada juga Bitcoin Gold yang berbeda dengan Bitcoin meskipun namanya memakai bitcoin.
 
 Ohya, saya tidak mau menjelaskan bahkan mengomentari turunnya nilai pasar Bitcoin dan betapa banyak "tragedi" gara-gara bermain Bitcoin, apalagi sampai mencibir sinis. Sudah ada cerita semacam itu yang bisa kamu baca [di sini](https://www.cnbc.com/amp/2018/08/20/after-the-bitcoin-boom-hard-lessons-for-cryptocurrency-investors.html). Pakai **gugel trenslet** ya..
 
