@@ -1,6 +1,6 @@
 ---
 title: Jangankan Criptocurrency, Mainan Valas Saja Banyak Bangkrutnya
-description: 
+description: Ada banyak cara untuk bangkrut, sayang hanya sedikit yang mau bangun dari tidur
 image: https://i3.wp.com/fortunedotcom.files.wordpress.com/2018/04/long-blockchain-bitcoin-stock-price.jpg?crop=1000,540
 banner_image: bitcoin-price.jpg
 
@@ -12,7 +12,7 @@ Masih ingat sekali saya sekitar tahun 2015 melihat betapa Bitcoin, sebagai leade
 
 > Haha, lagian siapa juga yang mau mengartikan mencuci uang secara harafiah?
 
-[Criotocurrencies]({{ page.image }}
+[Criotocurrencies]({{ page.banner_image }})
 
 Berapa _criptocurrency_: Etherium, Altcoin, Litcoin, ada juga Bitcoin Gold yang berbeda dengan Bitcoin meskipun namanya memakai bitcoin.
 
@@ -48,4 +48,4 @@ Kalau mau kaya, jadi kuli juga bisa kaya. Tapi kuli yang paham posisi, paham sit
 
 Jadi kalau memang ingin mencicipi pahitnya jual beli _Criptocurrency_ ya pahami cara kerjanya dengan benar. Jangan mau di-sales-in, jangan mau di-mulut-manis-in. Kalau mau _mining_, ya silahkan hitung dengan benar. Mendengar cerita sukses dari seseorang itu menyenangkan. Tapi, apakah yang bercerita tentang kesuksesan itu benar-benar sukses? Bisa jadi cuma makelar. Pokoknya alatnya laku ya sudah gak mau ikut tanggung resiko kerugian. Tapi saat ada sedikit profit minta bagian sekian persen.
 
-Selamat pagi...
+Jangan tidur terus _bruh_, Selamat pagi...
