@@ -33,6 +33,16 @@ layout: default
                         Tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/index.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} {% endunless %}{% endfor %}
                     </div>
                     {% endif %}
+                    {% if site.related_posts.size >= 1 %}
+                      <div>
+                       <h3>Related Posts</h3>
+                       <ul>
+                         {% for related_post in site.related_posts limit: 5 %}
+                           <li><a href="{{ related_post.url }}">{{ related_post.title }}</a></li>
+                         {% endfor %}
+                       </ul>
+                     </div>
+                   {% endif %}
                 </footer><!-- .entry-footer -->
             </article><!-- .post -->
             <div class="author-box">
@@ -73,16 +83,7 @@ layout: default
                 </div><!-- .nav-next -->
                 {% endif %}
             </nav><!-- .post-navigation -->
-            {% if site.related_posts.size >= 1 %}
-            <div>
-             <h3>Related Posts</h3>
-             <ul>
-             {% for related_post in site.related_posts limit: 5 %}
-              <li><a href="{{ related_post.url }}">{{ related_post.title }}</a></li>
-             {% endfor %}
-             </ul>
-             </div>
-            {% endif %}
+
             {% if site.disqus %}
                 {% include disqus.html %}
             {% endif %}
