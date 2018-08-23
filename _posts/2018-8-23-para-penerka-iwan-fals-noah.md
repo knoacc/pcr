@@ -23,4 +23,4 @@ Lagu yang pernah [rilis tiga tahun lalu](//id.wikipedia.org/wiki/SATU_(album_Iwa
 
 ### Pesta Sate
 
-Mau menulis tentang _pulitik_, takut kena sembelih. Ya sudah posting video saja sambil _ngemil_ sate kambing yang cuma bisa kita nikmati [setahun sekali ini](https://www.binh.com/search?q=pesta+sate+kurban){: target="_blank"}.
+Mau menulis tentang _pulitik_, takut kena sembelih. Ya sudah posting video saja sambil _ngemil_ sate kambing yang cuma bisa kita nikmati [setahun sekali ini](https://www.bing.com/search?q=pesta+sate+kurban){: target="_blank"}.
