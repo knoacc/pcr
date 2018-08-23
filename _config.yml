@@ -1,5 +1,5 @@
 title: Paciran Lamongan
-description: "Paciran itu... Yo ngono iku cak!"
+description: "Paciran itu; yo ngono iku cak, Mesuwur!"
 tagline: "Truth, Faith & Fake"
 url: "https://www.paciran.com"
 sass:
@@ -15,7 +15,7 @@ navigation:
    url: /tags/
 # author detail
 author_name: Jon Mukidi
-author_bio: Jon Mukidi is a designer, photographer, speaker, author of a couple of blogs and the founder of the some-kind-of-stupidity
+author_bio: Jon Mukidi is a real-designer, not-photographer, nyocot-er, author of a couple of blogs and the founder of the some-kind-of-stupidity
 author_url: https://www.knoacc.org
 author_location: Somewhere, Out-there
 author_image: /images/authorimage.png
