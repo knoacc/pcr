@@ -26,7 +26,7 @@ Agak pening juga kepala kalau sudah dengar _adu mulut_ bikin pahit hati. _Nek is
 
 <div class="embed-responsive embed-responsive-16by9">
 <video class="embed-respomsive-item" poster="{{ page.image }}" controls="controls">
-  <source src="{{ page.video }}" type="video/mp4">
+  <source src="https://www.paciran.com/images/posts/dedi.mp4" type="video/mp4">
 <span>your browser does not support the video tag.</span>
 </video>
 </div>
