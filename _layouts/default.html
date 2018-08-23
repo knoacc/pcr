@@ -6,6 +6,11 @@
 <meta http-equiv="IE=Edge" content="XUA-Compatible"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <meta name="Handheld-Friendly" content="true"/>
+{% if page.path contains '_posts' %}
+  {% unless page.skip_amp %}
+    <link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}">
+  {% endunless %}
+{% endif %}
 {% seo %}
 <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic" />
