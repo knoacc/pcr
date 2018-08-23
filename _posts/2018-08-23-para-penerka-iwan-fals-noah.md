@@ -24,7 +24,7 @@ Lagu yang pernah [rilis tiga tahun lalu](//id.wikipedia.org/wiki/SATU_(album_Iwa
 
 ### Stunt-man
 
-Agak pening juga kepala kalau sudah dengar _adu mulut_ yang bikin pahit hati. _Nek iso dik rem saktik cah.._ Ojo sampek dadi _jotos-jotosan_. _Saia_ tak punya kapabilitas untuk bicara politik, jadi ya cukup mengutip vlog-nya Deddy saja (yang belum tentu juga punya kapabilitas berpolitik).
+Agak pening juga kepala kalau sudah dengar _adu mulut_ yang bikin pahit hati. _Nek iso dik rem saktik cah.._ Jangan sampai jadi _jotos-jotosan_. _Saia_ tak punya kapabilitas untuk bicara politik, jadi ya cukup mengutip vlog-nya Deddy saja (yang belum tentu juga punya kapabilitas berpolitik).
 
 <div class="embed-responsive embed-responsive-16by9">
 <video class="embed-respomsive-item" poster="https://i0.wp.com/cdn2.tstatic.net/medan/foto/bank/images/stuntman-jokowi-dan-deddy-corbuzier_20180821_100653.jpg" controls="controls">
