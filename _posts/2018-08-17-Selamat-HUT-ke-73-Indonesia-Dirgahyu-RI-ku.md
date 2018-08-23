@@ -6,7 +6,7 @@ banner_image: dirgahayuRI.jpg?resize=900,560
 tags: [indonesia, dirgahayu, hut 73]
 
 ---
-Hari ulang tahun ke-73 Negara Kesatuan Republik Indonesia, cuma bisa mengucap: [**Dirgahayu Negriku!**](https://www.paciran.com/2018/08/17/Selamat-HUT-ke-73-Indonesia-Dirgahyu-RI-ku.html) dalam sepi warung kopi ber-wifi. Sementara itu, tangan masih menempel di layar smartphone, tak ada kepalan tangan.
+Hari ulang tahun ke-73 Negara Kesatuan Republik Indonesia, cuma bisa mengucap: **Dirgahayu Negriku!** dalam sepi warung kopi ber-wifi. Sementara itu, tangan masih menempel di layar smartphone, tak ada kepalan tangan.
 <!--more-->
 
 Sembari membolak-balik browser buatan Microsoft terbaru yang kini juga hadir di platform Android: **Edge**. Menekuri beberapa artikel yang (barangkali) ada manfaat-nya. Salah satunya berjudul "How to hack wi-fi password using new attack on WPA/WPA2". 
@@ -17,9 +17,10 @@ Penasaran? Baca saja di [situs techworm](https://www.techworm.net/2018/08/wifi-p
 
 Malah ngelantur kan? Saya ini memang gak cocok kalau disuruh nulis bertema berbau kemerdekaan, kebangsaan, sosial atau yang semarga. Seperti saat ini, sebelum menulis artikel aneh ini ( -- dengan judul yang aneh juga), sebenarnya saya baru saja utak-atik [url shortener](https://safelink.knoacc.org) buat membentengi pemendek-link-berbayar (singkat saja PLB biar gampang) demi kelangsungan hidup situs-film-bajakan yang juga baru selesai dibuat. Pokoknya, kalau link yang dihasilkan oleh PLB ini di sebarkan di Facebook akan di-blok. Jadi harus dikasih benteng. 
 
-Malah jadi kemana-mana, lupa bawa-bawa kata **Merdeka atau Mati**. _Baydewey_, bicara soal mati. Nafas saya sebagai blogger sepertinya sudah kembang-kempis, seperti kena penyakit _bengek_. Tertelan oleh ganasnya **yutuber**. Bisa dimaklumi, sebab panduan atau referensi itu lebih menarik berupa [audio-visual](https://www.paciran.com/2016/03/23/Graphic-Designer-On-The-Road.html). Sekarang mana laku tulisan dijual? Baca tulisan 4 paragraf saja rasanya mata sudah sepet. Lebih enak menikmati film-film bajakan yang bisa ditemukan dengan mudah. Begitulah kira-kira usaha agar tetap bisa [_survive_ plonga-plongo](https://www.paciran.com/2016/03/01/the-advantages-and-disadvantages-of-working-from-home.html).
+**Merdeka atau Mati**. _Baydewey_, menyoal mati. Nafas saya sebagai _blogger_ sudah kembang-kempis, seperti kena penyakit _bengek_. Tertindih ganasnya **yutuber**. Bisa dimaklumi, sebab panduan maupun referensi itu lebih menarik berupa [audio-visual](https://www.paciran.com/2016/03/23/Graphic-Designer-On-The-Road.html). Sekarang mana laku tulisan dijual? Baca tulisan 4 paragraf saja rasanya mata sudah sepet. Lebih enak menikmati film-film bajakan yang bisa ditemukan dengan mudah. Tentu dengan beberapa pengecualian, misalnya: literatur kedokteran atau diktat mata kuliah manajemen bisnis. _Saia_ [mana mampu](https://www.paciran.com/2018/08/20/jangan-ngeblog-kamu-gak-akan-kuat.html) memproduksi hal-hal luar biasa tersebut?
 
-Wait... saya _enggak_ mau mengkaitkan [minat baca](https://nasional.kompas.com/read/2018/03/26/14432641/per-hari-rata-rata-orang-indonesia-hanya-baca-buku-kurang-dari-sejam) dengan mundurnya kualitas _intelejensia_ generasi _jaman naw_. Saya _ndak_ punya bukti dan _ndak_ tahu-menahu. _Wong_ saya saja males baca tulisan sendiri. Jadi, saya buatlah itu pernak-pernik buat melanggengkan situs penyedia [film-film pak tani](https://streamer.knoacc.org).
+Wait... saya _enggak_ mau mengkaitkan [minat baca](https://nasional.kompas.com/read/2018/03/26/14432641/per-hari-rata-rata-orang-indonesia-hanya-baca-buku-kurang-dari-sejam) dengan mundurnya kualitas _intelejensia_ generasi _jaman naw_. Saya _ndak_ punya bukti dan _ndak_ tahu-menahu. _Wong saia_ saja malas baca tulisan sendiri. Jadi, saya buatlah itu pernak-pernik buat melanggengkan situs penyedia [film-film pak tani](https://streamer.knoacc.org). Begitulah kira-kira usaha agar tetap bisa [_survive_ plonga-plongo](https://www.paciran.com/2016/03/01/the-advantages-and-disadvantages-of-working-from-home.html).
+
 
 Sudah.
 
