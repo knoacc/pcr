@@ -5,8 +5,17 @@ description: Hubungi redaksi Paciran Lamongan
 banner_image: aboutPage.jpg
 
 ---
-<form action="http://formspree.io/formkontak@paciran.com">
-  <input class="form-control" type="email" name="_replyto">
-  <textarea class="form-control" name="body"></textarea>
-  <input type="submit" value="Send">
+<form action="https://formspree.io/kontak@paciran.com" method="POST">
+  <input type="hidden" name="_format" value="plain"/>
+  <input type="hidden" name="_subject" value="Halaman Kontak Penulis"/>
+  <input type="hidden" name="_next" value="https://www.paciran.com/images/posts/aboutPage.jpg" />
+  <div class="form-group">
+  <label for="email">Surel</label>
+  <input id="email" class="form-control" type="email" name="_replyto" palceholder="email@example.com" />
+  </div>
+  <div class="form-group">
+  <label for="content">Isi pesan</label>
+  <textarea id="content" class="form-control" name="_body" row="4" placeholder="Tuliskan pesan di sini"></textarea>
+  </div>
+  <button class="btn btn-primart" type="submit" value="Kirim Pesan"/>
 </form>
