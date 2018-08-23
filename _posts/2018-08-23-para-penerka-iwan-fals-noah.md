@@ -5,7 +5,7 @@ banner_image: noah_iwanfals.jpg
 image: https://www.paciran.com/images/posts/noah_iwanfals.jpg
 video: https://www.paciran.com/images/posts/iwanFals.mp4
 # https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4
-tags: [klip video, para penerka, iwan fals]
+tags: [indonesia, para penerka, iwan fals, stunt-man, deddy corbuzier]
 
 ---
 {{ page.description }}. Dugaan-dugaan yang makin keterlaluan..
