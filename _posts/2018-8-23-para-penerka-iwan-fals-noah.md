@@ -12,14 +12,14 @@ tags: [klip video, para penerka, iwan fals]
 Ketika para pencela merajalela dan timeline media sosial dipenuhi dengan kepberpihakan yang keterlaluan.
 
 <!--more-->
-Lagu yang pernah rilis tiga tahun lalu ini rasanya cukup mewakili panasnya ruang publik sekarang. Entah di sudut-sudut warung kopi, atau bahkan emperan langgar dan surau atau ruang kantor guru bahkan kantin sekolah.
+Lagu yang pernah [rilis tiga tahun lalu](//id.wikipedia.org/wiki/SATU_(album_Iwan_Fals)#Para_Penerka) ini rasanya cukup mewakili panasnya ruang publik sekarang. Entah di sudut-sudut warung kopi, atau bahkan emperan langgar dan surau atau ruang kantor guru bahkan kantin sekolah.
 
 <div class="embed-responsive embed-responsive-16by9"
 <video class="embed-respomsive-item" poster="{{ page.image }}" controls="controls">
   <source src="{{ page.video }}" type="video/mp4">
-
-Your browser does not support the video tag.
+<span>your browser does not support the video tag.</span>
 </video>
+</div>
 
 ### Pesta Sate
 
