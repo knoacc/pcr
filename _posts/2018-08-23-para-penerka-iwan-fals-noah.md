@@ -33,7 +33,7 @@ Agak pening juga kepala kalau sudah dengar _adu mulut_ yang bikin pahit hati. _N
 </video>
 </div>
 
-Setidaknya, dia lebih bisa mengutarakan maksudnya daripada _saia_. Minimal dia orang _entertainment_ saat _ngoceh_ dalam _video blog_ di atas.
+Setidaknya, dia lebih bisa mengutarakan maksudnya daripada _saia_. Minimal dia orang _entertainment_ saat _ngoceh_ dalam _video blog_ di atas. Untuk jaga-jaga barangkali kamu tidak tahu apa itu **Stuntman** ini ada [link wikipedia](https://id.wikipedia.org/wiki/Pemeran_pengganti) yang menjelaskan apa itu _stuntman_.
 
 ### Pesta Sate
 
