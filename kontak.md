@@ -29,19 +29,19 @@ return true;
 <p></p>
 Nama
 <br />
-<input class="contact-form-name" style="max-width: 400px; width: 100%;" id="ContactForm1_contact-form-name" name="name" size="30" type="text" value="" />
-<p></p>
+<input class="contact-form-name" style="max-width: 400px; width: 100%;" id="ContactForm1_contact-form-name" name="name" size="30" type="text" value="" ></input>
+
 Email
 <span style="font-weight: bolder;">*</span><br />
-<input class="contact-form-email"style="max-width: 400px; width: 100%;" id="ContactForm1_contact-form-email" name="email" size="30" type="text" value="" />
-<p></p>
+<input class="contact-form-email"style="max-width: 400px; width: 100%;" id="ContactForm1_contact-form-email" name="email" size="30" type="text" value="" ></input>
+
 Pesan
 <span style='font-weight: bolder;'>*</span>
 <br />
 <textarea class="contact-form-email-message" style="max-width: 400px; width: 100%;" id="ContactForm1_contact-form-email-message" name="email-message" rows="5"></textarea>
-<p></p>
-<input class="contact-form-button contact-form-button-submit" id="ContactForm1_contact-form-submit" onclick="sendEmailMsg()" type="button" value="Kirim" />
-<p></p>
+
+<input class="contact-form-button contact-form-button-submit" id="ContactForm1_contact-form-submit" onclick="sendEmailMsg()" type="button" value="Kirim" ></input>
+
 <div style="max-width: 400px; text-align: center; width: 100%;">
 <p class="contact-form-error-message" id="ContactForm1_contact-form-error-message"></p>
 <p class="contact-form-success-message" id="ContactForm1_contact-form-success-message"></p>
