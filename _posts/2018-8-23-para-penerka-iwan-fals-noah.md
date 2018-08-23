@@ -6,7 +6,9 @@ video: https://www.knoacc.org/images/posts/iwanfals.mp4
 tags: [klip video, para penerka, iwan fals]
 
 ---
-{{ page.description }}<!-- more -->
+{{ page.description }}
+
+<!--more-->
 
 <video width="320" height="240" poster="{{ page.image }}" controls="">
   <source src="{{ page.video }}" type="video/mp4">
