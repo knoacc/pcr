@@ -15,7 +15,7 @@ Blog ini secara umum adalah blog pribadi. Tidak memakai teknologi tracking (anal
 
 (3) Mandiri. Tulisan-tulisan yang telah dan akan terbit tidak ada kaitannya dengan Paciran sebagai institusi pemerintahan. Murni tulisan pribadi, dan tidak berusaha untuk mewakili ataupun mem-personifikasi Paciran sebagai sebuah institusi pemerintahan maupun wilayah. Mandiri di sini juga tidak dibiayai oleh siapapun kecuali penulis. Tak ada istilah artikel titipan kecyali disebutkan dalam artikel terkait. Biaya untuk sewa hosting dan sewa domain murni dari kantong pribadi. Tidak ada donasi yang diterima hingga saat ini.
 
-Jika ada keluhan tentang tulisan yang dimuat disini silahkan gunakan form [kontak penulis](/kontak.)
+Jika ada keluhan tentang tulisan yang dimuat disini silahkan gunakan form [kontak penulis](/kontak)
 
 Note: Jika kamu adalah penduduk Paciran dan ingin tulisanmu dimuat, silahkan kirim naskah/text dengan [format markdown](https://en.wikipedia.org/wiki/Markdown) ke alamat [Editor](mailto:editor@paciran.com). Contoh penulisan _raw_ (mentah) ber-format markdown bisa dilihat [di sini](https://raw.githubusercontent.com/knoacc/pcr/master/style-guide.md). Hasil setelah dipublikasi akan terlihat seperti halaman [Style Guide](/style-guide)
 
