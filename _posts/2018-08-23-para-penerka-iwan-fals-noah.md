@@ -39,4 +39,4 @@ Sedangkan _saia_ mau menulis tentang _pulitik_, takut kena sembelih. Ya sudah po
 
 _Video mentahnya disini:_
 + [Para Penerka](https://www.paciran.com/images/posts/iwanFals.mp4) [cermin](https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4)
-+ [Dedi Corbuzier](https://www.paciran.com/images/posts/dedi.mp4) [cermin]()
++ [Dedi Corbuzier](https://www.paciran.com/images/posts/dedi.mp4) [cermin](https://cdn.rawgit.com/knoacc/pcr/19a5cbb9/images/posts/dedi.mp4)
