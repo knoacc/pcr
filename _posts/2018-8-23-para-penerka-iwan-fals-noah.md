@@ -3,7 +3,7 @@ title: Mendengarkan Kembali Lagu Para Penerka
 description: "Tiga tahun berselang, ketika para penerka makin merajalela"
 banner_image: noah_iwanfals.jpg
 image: https://www.paciran.com/images/posts/noah_iwanfals.jpg
-video: https://www.knoacc.org/images/posts/iwanfals.mp4
+video: /images/posts/iwanfals.mp4
 tags: [klip video, para penerka, iwan fals]
 
 ---
