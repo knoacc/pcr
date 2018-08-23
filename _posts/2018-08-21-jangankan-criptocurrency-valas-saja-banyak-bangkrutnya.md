@@ -4,6 +4,7 @@ description: Ada banyak cara untuk bangkrut, sayang hanya sedikit yang mau bangu
 image: https://i3.wp.com/fortunedotcom.files.wordpress.com/2018/04/long-blockchain-bitcoin-stock-price.jpg?crop=1000,540
 banner_image: bitcoin-price.jpg
 tags: [criptocurrency, valas, bircoin mining, halal haram derivatif]
+lang: id
 
 ---
 _**Criptocurrency**_. Bagi telinga awam, istilah itu mungkin terasa asing _bingits_. Tetapi, coba lafalkan kata: **bit-koooo-iiiinnn**, _Bitcoin_. Kata merdu Ooh... berbarengan dengan terbentuknya ekspresi "seolah paham" akan terpampang diwajah mereka. Padahal belum tentu tahu benar Bitcoin itu apa, setidaknya pernah dengar.
