@@ -24,7 +24,7 @@ Lagu yang pernah [rilis tiga tahun lalu](//id.wikipedia.org/wiki/SATU_(album_Iwa
 
 ### Stunt-man
 
-Agak pening juga kepala kalau sudah dengar _adu mulut_ yang bikin pahit hati. _Nek iso dik rem saktik cah.._ Ojo sampek dadi _jotos-jotosan_. _Saia_ gak punya kapabilitas untuk ngomong politik, jadi ya cukup mengutip vlog-nya Dedi saja yang belum tentu juga punya kapabilitas berpolitik.
+Agak pening juga kepala kalau sudah dengar _adu mulut_ yang bikin pahit hati. _Nek iso dik rem saktik cah.._ Ojo sampek dadi _jotos-jotosan_. _Saia_ tak punya kapabilitas untuk bicara politik, jadi ya cukup mengutip vlog-nya Deddy saja (yang belum tentu juga punya kapabilitas berpolitik).
 
 <div class="embed-responsive embed-responsive-16by9">
 <video class="embed-respomsive-item" poster="https://i0.wp.com/cdn2.tstatic.net/medan/foto/bank/images/stuntman-jokowi-dan-deddy-corbuzier_20180821_100653.jpg" controls="controls">
@@ -33,7 +33,7 @@ Agak pening juga kepala kalau sudah dengar _adu mulut_ yang bikin pahit hati. _N
 </video>
 </div>
 
-Setidaknya, dia lebih bisa mengutarakan maksudnya daripada _saia_. Minimal dia orang _entertainment_ saat _ngoceh_ dalam video di atas.
+Setidaknya, dia lebih bisa mengutarakan maksudnya daripada _saia_. Minimal dia orang _entertainment_ saat _ngoceh_ dalam _video blog_ di atas.
 
 ### Pesta Sate
 
@@ -41,4 +41,4 @@ Sedangkan _saia_ mau menulis tentang _pulitik_, takut kena sembelih. Ya sudah po
 
 _Video mentahnya disini:_
 + [Para Penerka](https://www.paciran.com/images/posts/iwanFals.mp4) [cermin](https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4)
-+ [Dedi Corbuzier](https://www.paciran.com/images/posts/dedi.mp4) [cermin](https://cdn.rawgit.com/knoacc/pcr/19a5cbb9/images/posts/dedi.mp4)
++ [Deddy Corbuzier](https://www.paciran.com/images/posts/dedi.mp4) [cermin](https://cdn.rawgit.com/knoacc/pcr/19a5cbb9/images/posts/dedi.mp4)
