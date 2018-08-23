@@ -34,15 +34,15 @@ layout: default
                     </div>
                     {% endif %}
                     {% if site.related_posts.size >= 1 %}
-                      <div>
-                       <h3>Related Posts</h3>
-                       <ul>
-                         {% for related_post in site.related_posts limit: 5 %}
-                           <li><a href="{{ related_post.url }}">{{ related_post.title }}</a></li>
+                     <div class="tag-links">
+                       Related Posts: 
+                       
+                         {% for related_post in site.related_posts limit: 3 %}
+                           <a href="{{ related_post.url }}">{{ related_post.title }}</a>
                          {% endfor %}
-                       </ul>
+                      
                      </div>
-                   {% endif %}
+                    {% endif %}
                 </footer><!-- .entry-footer -->
             </article><!-- .post -->
             <div class="author-box">
