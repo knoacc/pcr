@@ -27,5 +27,5 @@ Lagu yang pernah [rilis tiga tahun lalu](//id.wikipedia.org/wiki/SATU_(album_Iwa
 Mau menulis tentang _pulitik_, takut kena sembelih. Ya sudah posting video saja sambil _ngemil_ sate kambing yang cuma bisa kita nikmati [setahun sekali ini](https://www.bing.com/search?q=pesta+sate+kurban){: target="_blank"}.
 
 _Video mentahnya disini:_
-+ https://www.paciran.com/images/posts/iwanFals.mp4
-+ https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4
++ [lokal](https://www.paciran.com/images/posts/iwanFals.mp4)
++ [rawgit](https://cdn.rawgit.com/knoacc/pcr/9f60712c/images/posts/iwanFals.mp4)
