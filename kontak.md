@@ -6,7 +6,7 @@ banner_image: aboutPage.jpg
 ---
 
 
-<script>
+<script type="text/javascript">
 var blogId = '209812151361031342';
 var contactFormMessageSendingMsg ='Mengirim...';
 var contactFormMessageSentMsg = 'Pesan sudah dikirim. Semoga Anda bahagia.';
