@@ -7,12 +7,11 @@ tags: [indonesia, dirgahayu, hut 73]
 
 ---
 Hari ulang tahun ke-73 Negara Kesatuan Republik Indonesia, cuma bisa mengucap: [**Dirgahayu Negriku!**](https://www.paciran.com/2018/08/17/Selamat-HUT-ke-73-Indonesia-Dirgahyu-RI-ku.html) dalam sepi warung kopi ber-wifi. Sementara itu, tangan masih menempel di layar smartphone, tak ada kepalan tangan.
+<!--more-->
 
 Sembari membolak-balik browser buatan Microsoft terbaru yang kini juga hadir di platform Android: **Edge**. Menekuri beberapa artikel yang (barangkali) ada manfaat-nya. Salah satunya berjudul "How to hack wi-fi password using new attack on WPA/WPA2". 
 
-Penasaran?
-
-Baca saja di [situs techworm](https://www.techworm.net/2018/08/wifi-password-hacking-hack-wifi-password.html), tak begitu berguna sih kalau main-nya di lokalan sini. Kan tahu sendiri, warkop wi-fi di Paciran itu ada _taboo_ yang bunyinya kurang lebih **dilarang bawa tanktop**. Tentu demi kenyamanan sesama penikmat _bandwith_ gratisan.
+Penasaran? Baca saja di [situs techworm](https://www.techworm.net/2018/08/wifi-password-hacking-hack-wifi-password.html), tak begitu berguna sih kalau main-nya di lokalan sini. Kan tahu sendiri, warkop wi-fi di Paciran itu ada _taboo_ yang bunyinya kurang lebih **dilarang bawa tanktop**. Tentu demi kenyamanan sesama penikmat _bandwith_ gratisan.
 
 ### Baca Tulis vs Tonton Rekam
 
