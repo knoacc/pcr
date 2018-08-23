@@ -4,6 +4,7 @@ description: "Hari ulang tahun ke-73 Negara Kesatuan Republik Indonesia"
 lang: "id_ID"
 banner_image: dirgahayuRI.jpg?resize=900,560
 tags: [indonesia, dirgahayu, hut 73]
+lang: id
 
 ---
 Hari ulang tahun ke-73 Negara Kesatuan Republik Indonesia, cuma bisa mengucap: **Dirgahayu Negriku!** dalam sepi warung kopi ber-wifi. Sementara itu, tangan masih menempel di layar smartphone, tak ada kepalan tangan.
