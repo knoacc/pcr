@@ -6,9 +6,10 @@ video: https://www.knoacc.org/images/posts/iwanfals.mp4
 tags: [klip video, para penerka, iwan fals]
 
 ---
-{{ page.description }}
+{{ page.description }}. Dugaan-dugaan yang keterlaluan..
 
 <!--more-->
+Ketika para pencela merajalela dan timeline media sosial dipenuhi dengan kepberpihakan yang terlalu.. Lagu yang pernah rilis tiga tahun lalu ini rasanya cukup mewakili panasnya ruang publik sekarang. Entah di sudut-sudut warung kopi, atau bahkan emperan langgar dan surau atau ruang kantor guru bahkan kantin sekolah.
 
 <video width="320" height="240" poster="{{ page.image }}" controls="">
   <source src="{{ page.video }}" type="video/mp4">
