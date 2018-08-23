@@ -3,6 +3,8 @@ layout: page
 title: About this blog
 description: Kenalan dengan Jon Mukidi, penulis utama di blog Paciran Lamongan.
 banner_image: aboutPage.jpg
+lang: id
+
 ---
 
 **Jon Mukidi**, adalah nama fiktif. Tak ada kaitan apapun dengan dunia nyata. Sebuah nama samaran yang dipilih secara _random_. Tidak berada di institusi manapun di Paciran atau berafiliasi dengan kepentingan apapun. Juga tak berusaha untuk mewakili pihak manapun.
