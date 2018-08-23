@@ -22,16 +22,18 @@ Ketika para pencela merajalela dan timeline media sosial dipenuhi dengan kepberp
 </div>
 Lagu yang pernah [rilis tiga tahun lalu](//id.wikipedia.org/wiki/SATU_(album_Iwan_Fals)#Para_Penerka) ini rasanya cukup mewakili panasnya ruang publik sekarang. Entah di sudut-sudut warung kopi, emperan _langgar_ dan surau, juga ruang kantor guru hingga kantin sekolah menengah atas.
 
-Agak pening juga kepala kalau sudah dengar _adu mulut_ bikin pahit hati. _Nek iso dik rem saktik cah.._ Ojo sampek dadi _jotos-jotosan_. _Saia_ gak punya kapabilitas untuk ngomong politik, jadi ya cukup mengutip vlog-nya Dedi saja yang belum tentu juga punya kapabilitas berpolitik.
+### Stunt-man
+
+Agak pening juga kepala kalau sudah dengar _adu mulut_ yang bikin pahit hati. _Nek iso dik rem saktik cah.._ Ojo sampek dadi _jotos-jotosan_. _Saia_ gak punya kapabilitas untuk ngomong politik, jadi ya cukup mengutip vlog-nya Dedi saja yang belum tentu juga punya kapabilitas berpolitik.
 
 <div class="embed-responsive embed-responsive-16by9">
-<video class="embed-respomsive-item" poster="{{ page.image }}" controls="controls">
+<video class="embed-respomsive-item" poster="https://i0.wp.com/cdn2.tstatic.net/medan/foto/bank/images/stuntman-jokowi-dan-deddy-corbuzier_20180821_100653.jpg" controls="controls">
   <source src="https://www.paciran.com/images/posts/dedi.mp4" type="video/mp4">
 <span>your browser does not support the video tag.</span>
 </video>
 </div>
 
-Setidaknya, dia lebih bisa mengutarakan maksudnya daripada _saia_.
+Setidaknya, dia lebih bisa mengutarakan maksudnya daripada _saia_. Minimal dia orang _entertainment_ saat _ngoceh_ dalam video di atas.
 
 ### Pesta Sate
 
