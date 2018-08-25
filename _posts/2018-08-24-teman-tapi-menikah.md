@@ -8,11 +8,26 @@ tags: [nonton bareng, TTM 2018, streaming, bajakan lagi]
 Hanya catatan ringan: TTM, kalau dijamanku sekolah iti singkatan dari rangkaian kata **teman tapi mesra**. Lebih dipahami sebagai pertemanan antar dua remaja bejenis kelamin berbeda dengan tingkat intimasi yang lebih dari teman. Tanpa status "pacaran", "_gendak-an_", cem-cem-an tetapi _ngalor-ngidul_ ya berdua saja.
 <!--more-->
 
-Sudah dulu. Kali ini saia cuma mau nyoba " menyematkan sebuah film Indonesia yang sudah ditayangkan di penyedia layanan _streaming_ Viu dan Hooq dan kebablas di bajak oleh bangsa sendiri. Yuk nikmati bareng.. Yuk nonton bareng teman..
+Sudah dulu. Kali ini saia cuma mau nyoba " menyematkan sebuah film Indonesia yang sudah ditayangkan di penyedia layanan _streaming_ Viu dan Hooq dan kebablas di bajak oleh bangsa sendiri. Karena sudah _kadung kevajak_ sekalian saj mencoba fitur _embed_ (semat) video yang di-hosting di situs openload dengan memanfaatkan container video responsive bootstrapp.
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-respomsive-item" poster="{{ page.image }}" src="https://oload.stream/embed/T2p1vC2mzrQ/%5BThe_Streamer%5D_streamer.knoacc.org_%5BTTM2018-web-dl%5D" frameborder="0" alowfullsxreen="allow"></iframe>
 </div>
 
+Biasanya, kode semat yang diberikan oleh (misalnya) Youtube, perlu mencantumkan nilai `width` dan `height` agar tidak _mletot_ sana-sini. Sayangnya kalau ukuran layar lebih kecil, video sematan akan terpotong. Ternyata element `iframe` yang di berikan oleh situs video streaming (baik itu youtube atau lainnya) bisa dibuat _responsive_, maksudnya menyesuaikan layar dan tidak harus memberikan nilai `width` dan `height` seperti yang terlihat di atas.
+
+Jadi, jika sudah situs atau blog terdapat plug-in bootsrapp, bisa menjadikan video lebih enak dilihat. Sperti apa pembungkusnya? Kurang lebih seperti ini:
+
+```
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-respomsive-item" poster="http://lokasi.gambar/poster.jpg" src="http://link.sematan.situs/youtube/dan-lainya" frameborder="0" alowfullsxreen="allow"></iframe>
+</div> 
+```
+
+### Penutup
+
 Teman Tapi Menikah bukan cuma ada di film! Koncoku yo akeh _mblo_.. :D
+
+Okay, karena sudah _kadung_ terpasang, kita nikmati bareng biar _gak mubazir_. Mau nonton bareng teman?
+
 
