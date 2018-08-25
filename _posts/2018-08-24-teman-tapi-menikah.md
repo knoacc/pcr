@@ -5,10 +5,12 @@ image: http://i0.wp.com/images.harianjogja.com/2018/03/Cuplikan-adegan-di-film-T
 tags: [nonton bareng, TTM 2018, streaming, bajakan lagi]
 
 ---
-Hanya catatan ringan: TTM, kalau dijamanku sekolah iti singkatan dari rangkaian kata **teman tapi mesra**. Lebih dipahami sebagai pertemanan antar dua remaja bejenis kelamin berbeda dengan tingkat intimasi yang lebih dari teman. Tanpa status "pacaran", "_gendak-an_", cem-cem-an tetapi _ngalor-ngidul_ ya berdua saja.
+Hanya catatan ringan: TTM, kalau dijamanku sekolah, ini singkatan dari rangkaian kata **teman tapi mesra**. Lebih dipahami sebagai pertemanan antar dua remaja bejenis kelamin berbeda dengan tingkat intimasi yang lebih dari teman. Tanpa status "pacaran", "_gendak-an_", cem-cem-an tetapi _ngalor-ngidul_ ya berdua saja.
 <!--more-->
 
-Sudah dulu. Kali ini saia cuma mau nyoba " menyematkan sebuah film Indonesia yang sudah ditayangkan di penyedia layanan _streaming_ Viu dan Hooq dan kebablas di bajak oleh bangsa sendiri. Karena sudah _kadung kevajak_ sekalian saj mencoba fitur _embed_ (semat) video yang di-hosting di situs openload dengan memanfaatkan container video responsive bootstrapp.
+TTM dulu judul lagu dibawakan duo Ratu. Sekarang, TTM jadi judul film yang diperankan oleh... siapa ya?  Pokoknya, kali ini _saia_ cuma mau mencoba menyematkan sebuah film Indonesia, yang juga sudah pernah ditayangkan di penyedia layanan _streaming_ Viu dan Hooq. Dan kebablas di-bajak oleh bangsa sendiri, maklumlah, negara agraris.
+
+Karena sudah _kadung kevajak_ sekalian saja dijadikan bahan untuk mencoba fitur _embed_ (semat) video yang di-hosting di situs openload dengan memanfaatkan container video responsive bootstrapp.
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-respomsive-item" poster="{{ page.image }}" src="https://oload.stream/embed/T2p1vC2mzrQ/%5BThe_Streamer%5D_streamer.knoacc.org_%5BTTM2018-web-dl%5D" frameborder="0" alowfullsxreen="allow"></iframe>
