@@ -20,9 +20,9 @@ Biasanya, kode semat yang diberikan oleh (misalnya) Youtube, perlu mencantumkan 
 
 Jadi, jika sudah situs atau blog terdapat plug-in bootsrapp, bisa menjadikan video lebih enak dilihat. Sperti apa pembungkusnya? Kurang lebih seperti ini:
 
-```
+```html
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-respomsive-item" poster="http://lokasi.gambar/poster.jpg" src="http://link.sematan.situs/youtube/dan-lainya" frameborder="0" alowfullsxreen="allow"></iframe>
+<iframe class="embed-respomsive-item" src="http://link.sematan.situs/youtube/dan-lainya" frameborder="0" alowfullsxreen="allow"></iframe>
 </div> 
 ```
 
