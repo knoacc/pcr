@@ -13,5 +13,6 @@ Sudah dulu. Kali ini saia cuma mau nyoba " menyematkan sebuah film Indonesia yan
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-respomsive-item" src="https://oload.stream/embed/T2p1vC2mzrQ/%5BThe_Streamer%5D_streamer.knoacc.org_%5BTTM2018-web-dl%5D"></iframe>
 </div>
-Teman Tapi Menikah bukan cuma ada di film! Koncoku yo akeh _mblo_..
+
+Teman Tapi Menikah bukan cuma ada di film! Koncoku yo akeh _mblo_.. :D
 
