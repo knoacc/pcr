@@ -15,7 +15,7 @@ TTM dulu judul lagu dibawakan duo Ratu. Sekarang, TTM jadi judul film yang diper
 Karena sudah _kadung kevajak_ sekalian saja dijadikan bahan untuk mencoba fitur _embed_ (semat) video yang di-hosting di situs openload dengan memanfaatkan container video responsive bootstrapp.
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-respomsive-item" poster="{{ page.image }}" src="https://oload.stream/embed/T2p1vC2mzrQ/%5BThe_Streamer%5D_streamer.knoacc.org_%5BTTM2018-web-dl%5D" frameborder="0" alowfullsxreen="allow"></iframe>
+<iframe class="embed-respomsive-item" poster="{{ page.image }}" src="https://oload.stream/embed/T2p1vC2mzrQ/%5BThe_Streamer%5D_streamer.knoacc.org_%5BTTM2018-web-dl%5D" frameborder="0" alowfullscreen="allow"></iframe>
 </div>
 
 Biasanya, kode semat yang diberikan oleh (misalnya) Youtube, perlu mencantumkan nilai `width` dan `height` agar tidak _mletot_ sana-sini. Sayangnya kalau ukuran layar lebih kecil, video sematan akan terpotong.
@@ -26,7 +26,7 @@ Jadi, jika sudah situs atau blog terdapat plug-in bootsrapp, bisa menjadikan vid
 
 ```html
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-respomsive-item" src="http://link.sematan.situs/youtube/dan-lainya" frameborder="0" alowfullsxreen="allow"></iframe>
+<iframe class="embed-respomsive-item" src="http://link.sematan.situs/youtube/dan-lainya" frameborder="0" alowfullscreen="allow"></iframe>
 </div> 
 ```
 
