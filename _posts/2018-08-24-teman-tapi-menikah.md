@@ -1,7 +1,7 @@
 ---
 title: "Teman Tapi Menikah Itu Judul Film Indonesia Cak!"
 description: Niatnya memberi tahu, ternyata tempe. Seng takon lho sopo?
-image: http://i0.wp.com/images.harianjogja.com/2018/03/Cuplikan-adegan-di-film-Teman-Tapi-Menikah-Youtube-.jpg 
+image: https://i0.wp.com/images.harianjogja.com/2018/03/Cuplikan-adegan-di-film-Teman-Tapi-Menikah-Youtube-.jpg 
 tags: [nonton bareng, TTM 2018, streaming, bajakan lagi]
 
 ---
