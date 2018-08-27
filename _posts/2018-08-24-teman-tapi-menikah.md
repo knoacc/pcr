@@ -21,7 +21,7 @@ Ternyata element `iframe` yang di berikan oleh situs video [streaming](https://w
 
 Misalnya saja sudah mendapat kode embed seperti berikut:
 ```html
-<iframe src="http://link.sematan.situs/youtube/dan-lainya" scrolling="no" frameborder="0" width="700" height="340" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="http://link.sematan.situs/youtube/dan-lainya" scrolling="no" frameborder="0" width="740" height="340" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 ```
 Maka kita tambahkan saja `class` baru `embed-responsive-item` dalam elemen `iframe` dan hilangkan nilai `width` dan `height` sehingga menjadi:
 ```html
@@ -30,13 +30,13 @@ Maka kita tambahkan saja `class` baru `embed-responsive-item` dalam elemen `ifra
 Kemudian dibungkus lagi dengan elemen `div` dengan `class` baru `embed-responsive embed-responsive-16by9` Kurang lebih seperti ini:
 ```html
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="http://link.sematan.situs/youtube/dan-lainya" scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe class="embed-responsive-item" src="http://link.sematan.situs/youtube/dan-lainya" scrolling="no" width="740" height="340" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div> 
 ```
-Jadi, jika situs atau blog sudah terdapat plug-in bootsrapp, bisa menjadikan video lebih enak dilihat. seperti sematan berikut:
+Jadi, jika situs atau blog sudah terdapat plug-in bootsrapp, bisa menjadikan video lebih enak dilihat, meskipun jika dilihat di ponsel tingginya tetap 340 pixel. seperti sematan berikut:
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://oload.stream/embed/T2p1vC2mzrQ" scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe class="embed-responsive-item" src="https://oload.stream/embed/T2p1vC2mzrQ" scrolling="no" width="740" height="340" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
 Selain dipakai untuk membungkus kode sematan, container responsif ini bisa di pakai juga untuk element `video` HTML 5 seperti yang pernah _saia_ pakai dipostinga blog untuk membungkus [video lagu Para Penerka-nya Iwan Fals](https://www.paciran.com/2018/08/23/para-penerka-iwan-fals-noah.html).
