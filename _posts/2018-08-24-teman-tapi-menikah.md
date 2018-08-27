@@ -16,7 +16,7 @@ TTM dulu judul lagu yang dibawakan oleh [duo Ratu](https://id.m.wikipedia.org/wi
 Karena sudah _kadung kevajak_ sekalian saja dijadikan bahan untuk mencoba fitur _embed_ (semat) video yang di-hosting di situs openload dengan memanfaatkan container [video responsive bootstrapp](https://getbootstrap.com/docs/4.1/utilities/embed/)
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-respomsive-item" src="https://oload.stream/embed/T2p1vC2mzrQ" frameborder="0" alowfullscreen="allow"></iframe>
+<iframe class="embed-respomsive-item" src="https://oload.stream/embed/T2p1vC2mzrQ" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
 Biasanya, kode semat yang diberikan oleh (misalnya) [Youtube](https://www.youtube.com), perlu mencantumkan nilai `width` dan `height` agar tidak _mletot_ sana-sini. Sayangnya kalau ukuran layar lebih kecil, video sematan akan terpotong.
