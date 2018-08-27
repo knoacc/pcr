@@ -33,8 +33,11 @@ paginate_path: /blog/page:num/
 
 plugins:
  - jekyll-paginate
+ - jekyll-paginate-category
  - jekyll-seo-tag
+ - jekyll-tagging
  - jekyll-tagging-related_posts
  - jemoji
-# - amp-jekyll
-#ampdir: /amp
+ - amp-jekyll
+#amp
+ampdir: /amp
