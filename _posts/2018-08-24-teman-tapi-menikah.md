@@ -1,7 +1,8 @@
 ---
 title: "Teman Tapi Menikah Itu Judul Film Indonesia Cak!"
 description: Niatnya memberi tahu, ternyata tempe. Seng takon lho sopo?
-image: https://i0.wp.com/images.harianjogja.com/2018/03/Cuplikan-adegan-di-film-Teman-Tapi-Menikah-Youtube-.jpg 
+banner_image: teman-tapi-menikah.jpg
+image: https://i0.wp.com/cinemapoetica.com/wp-content/uploads/2018/04/teman-tapi-menikah_hlgh_.jpg
 tags: [nonton bareng, TTM 2018, streaming, bajakan lagi]
 
 ---
@@ -15,7 +16,7 @@ TTM dulu judul lagu yang dibawakan oleh [duo Ratu](https://id.m.wikipedia.org/wi
 Karena sudah _kadung kevajak_ sekalian saja dijadikan bahan untuk mencoba fitur _embed_ (semat) video yang di-hosting di situs openload dengan memanfaatkan container [video responsive bootstrapp](https://getbootstrap.com/docs/4.1/utilities/embed/)
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-respomsive-item" poster="{{ page.image }}" src="https://oload.stream/embed/T2p1vC2mzrQ/%5BThe_Streamer%5D_streamer.knoacc.org_%5BTTM2018-web-dl%5D" frameborder="0" alowfullscreen="allow"></iframe>
+<iframe class="embed-respomsive-item" src="https://oload.stream/embed/T2p1vC2mzrQ" frameborder="0" alowfullscreen="allow"></iframe>
 </div>
 
 Biasanya, kode semat yang diberikan oleh (misalnya) [Youtube](https://www.youtube.com), perlu mencantumkan nilai `width` dan `height` agar tidak _mletot_ sana-sini. Sayangnya kalau ukuran layar lebih kecil, video sematan akan terpotong.
