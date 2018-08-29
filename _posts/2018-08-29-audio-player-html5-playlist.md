@@ -34,9 +34,9 @@ Sayangnya, setelah di coba beberapa kali tetap saja tidak bisa. Bohong besarr...
 
 Yasudahlah.. Pakai tag audio saja
 
-<audio controls><source src="https://www.paciran.com/assets/audio/padi-sobat.m4a" preload="meta" type="audio/m4a" ></audio>
-<audio controls><source src="https://www.paciran.com/assets/audio/padi-bidadari.m4a" preload="meta" type="audio/m4a" ></audio>
-<audio controls><source src="https://www.paciran.com/assets/audio/padi-mahadewi.m4a" preload="meta" type="audio/m4a" ></audio>
+<audio controls><source src="https://www.paciran.com/assets/audio/padi-sobat.m4a" preload="metadata" type="audio/mpeg" ></audio>
+<audio controls><source src="https://www.paciran.com/assets/audio/padi-bidadari.m4a" preload="metadata" type="audio/mpeg" ></audio>
+<audio controls><source src="https://www.paciran.com/assets/audio/padi-mahadewi.m4a" preload="metadata" type="audio/mpeg" ></audio>
 
 **Cekrek!**
 
@@ -48,7 +48,12 @@ Mmm... sudah hampir 2 jam terlewati hanya untuk tulisan ini. Dan menghabiskan wa
 
 ![Padi Reborn]({{ page.image }})
 
-Untuk saat ini, dunia musik lagi _hype_ banget dengan band legendaris Padi yang lahir kembali. _Uyup sek kopine..._ Next time, pakai _javascript_ saja. Ada dua yang perlu di coba: 
+Untuk saat ini, dunia musik Indonesia, khususnya sobat Padi, masih _hype_ atas band legendaris Padi yang lahir kembali.
+Saat konser pulang kampung di Surabaya 10 November, ada kado kecil berupa single terbaru berjudul **Malaikatku**. - [link](/assets/audio/padi-reborn-malaikatku.mp3)
+
+<audio controls="controls"><source src="https://www.paciran.com/assets/audio/padi-reborn-malaikatku.mp3" preload="metadata" type="audio/mpeg"></audio>
+
+_Uyup sek kopine..._ Next time, pakai _javascript_ saja. Ada dua yang perlu di coba: 
 
 1. Contoh audio player via [jsfidle](http://jsfiddle.net/vkMqR/2374/)
 2. Contoh audio player via [codepen](http://codepen.io/markhillard/pen/Hjcwu)
