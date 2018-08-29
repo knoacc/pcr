@@ -71,8 +71,8 @@ width="800"
 height="90"
 loop="false"
 hidden="false"
-autostart="true">
-</embed>
+autostart="true"/>
+
 ```
 
 ### Maafkan aku sobat...
@@ -85,7 +85,7 @@ width="800"
 height="90"
 loop="false"
 hidden="false"
-autostart="true"></embed></div>
+autostart="true" /></div>
 
 Mmm... sudah hampir 2 jam terlewati hanya untuk tulisan ini. Dan menghabiskan waktu se-sore kemarin untuk mencoba di localhost. Lumayanlah, bisa membunuh waktu dengan hal berguna yang sebenarnya _gak guna banget_.
 
