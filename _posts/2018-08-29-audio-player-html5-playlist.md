@@ -34,9 +34,9 @@ Sayangnya, setelah di coba beberapa kali tetap saja tidak bisa. Bohong besarr...
 
 Yasudahlah.. Pakai tag audio saja
 
-<audio controls><source src="/assets/audio/padi-sobat.m4a" preload="meta" type="audio/m4a" /></audio>
-<audio controls><source src="/assets/audio/padi-bidadari.m4a" preload="meta" type="audio/m4a" /></audio>
-<audio controls><source src="/assets/audio/padi-mahadewi.m4a" preload="meta" type="audio/m4a" /></audio>
+<audio controls><source src="/assets/audio/padi-sobat.m4a" preload="meta" type="audio/m4a" ></audio>
+<audio controls><source src="/assets/audio/padi-bidadari.m4a" preload="meta" type="audio/m4a" ></audio>
+<audio controls><source src="/assets/audio/padi-mahadewi.m4a" preload="meta" type="audio/m4a" ></audio>
 
 **Cekrek!**
 
