@@ -53,7 +53,7 @@ Saat konser pulang kampung di Surabaya 10 November, ada kado kecil berupa single
 
 <audio controls="controls"><source src="https://www.paciran.com/assets/audio/padi-reborn-malaikatku.mp3" preload="metadata" type="audio/mpeg"></audio>
 
-Dan sebagai bonus, ada 2 lagu lagi yang (sepertinya) dibawakan _sodok seje_: 1. Sobat dan 2. Semua Tak Sama. Coba dengarkan versi _live_-nya di bawah ini:
+Dan sebagai bonus, ada 2 lagu lagi yang (sepertinya) dibawakan _sodok seje_: 1. Sobat [link](/assets/audio/sobat.mp3) dan 2. Semua Tak Sama [link](/assets/audio/padi-reborn-semua-tak-sama.mp3). Coba dengarkan versi _live_-nya di bawah ini:
 
 <audio controls="controls"><source src="https://www.paciran.com/assets/audio/padi-reborn-sobat.mp3" preload="metadata" type="audio/mpeg"></audio>
 <audio controls="controls"><source src="https://www.paciran.com/assets/audio/padi-reborn-semua-tak-sama.mp3" preload="metadata" type="audio/mpeg"></audio>
