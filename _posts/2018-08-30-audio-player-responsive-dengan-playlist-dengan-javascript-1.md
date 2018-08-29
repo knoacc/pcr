@@ -1,4 +1,6 @@
 ---
+title: Responsive Audio Player dengan jQuery (part 1)
+description: Pating pecotot koyo s••• kecili'en kot••ng, matio pae...
 
 ---
 Sambungan posting <a href="https://www.paciran.com/2018/08/29/audio-player-html5-playlist.html">tombo nganggur</a>. Hasil percobaan dari codepen **Responsive Audio Player** oleh **_Mark Hillard_**.
@@ -42,12 +44,12 @@ Ketiga file `.js tersebut bisa langsung di tambahkan di antara element `head` se
         </div>
     </div>
     <div class="column add-bottom center">
-        <p>Music by <a href="http://www.mythium.net/">Mythium</a></p>
-        <p>Download: <a href="https://archive.org/download/mythium/mythium_vbr_mp3.zip">zip</a> / <a href="https://archive.org/download/mythium/mythium_archive.torrent">torrent</a></p>
+        <p>Music by <b>Padi RebornMythium</b></p>
+        <!-- p>Download: <a href="https://archive.org/download/mythium/mythium_vbr_mp3.zip">zip</a> / <a href="https://archive.org/download/mythium/mythium_archive.torrent">torrent</a></p -->
     </div>
 </div>
 <!-- style -->
-<style>
+<style type="text/stylesheet" scope="">
 .add-bottom { margin-bottom:2rem !important; }
 .left { float:left; }
 .right { float:right; }
@@ -204,7 +206,7 @@ color:rgba(0,0,0,.1);
 }
 </style>
 <!-- javascript -->
-<script>
+<script type="text/javascript">
 jQuery(function ($) {
     'use strict'
     var supportsAudio = !!document.createElement('audio').canPlayType;
@@ -232,7 +234,6 @@ jQuery(function ($) {
                 "duration": "2:46",
                 "file": "JLS_ATI"
             }, {
-            
                 "track": 2,
                 "name": "The Forsaken (Take 1) - Smith St. Basement (Nov. '03)",
                 "duration": "8:37",
@@ -272,7 +273,6 @@ jQuery(function ($) {
             npAction = $('#npAction'),
             npTitle = $('#npTitle'),
             audio = $('#audio1').on('play', function () {
-
                 playing = true;
                 npAction.text('Now Playing...');
             }).on('pause', function () {
