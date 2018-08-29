@@ -49,7 +49,7 @@ Mmm... sudah hampir 2 jam terlewati hanya untuk tulisan ini. Dan menghabiskan wa
 ![Padi Reborn]({{ page.image }})
 
 Untuk saat ini, dunia musik Indonesia, khususnya sobat Padi, masih _hype_ atas band legendaris Padi yang lahir kembali.
-Saat konser pulang kampung di Surabaya 10 November, ada kado kecil berupa single terbaru berjudul **Malaikat Untukku**. - [link](/assets/audio/padi-reborn-malaikatku.mp3)
+Saat konser pulang kampung di Surabaya 10 November, ada kado kecil berupa single terbaru berjudul **Kau Malaikatku**. - [link](/assets/audio/padi-reborn-malaikatku.mp3)
 
 <audio controls="controls"><source src="https://www.paciran.com/assets/audio/padi-reborn-malaikatku.mp3" preload="metadata" type="audio/mpeg"></audio>
 
