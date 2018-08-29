@@ -229,33 +229,38 @@ jQuery(function ($) {
         // initialize playlist and controls
         var index = 0,
             playing = false,
-            mediaPath = 'https://archive.org/download/mythium/',
+            mediaPath = 'https://www.paciran.com/assets/audio/',
             extension = '',
             tracks = [{
                 "track": 1,
-                "name": "All This Is - Joe L.'s Studio",
+                "name": "Sobat - Padi",
                 "duration": "2:46",
-                "file": "JLS_ATI"
+                "file": "padi-sobat"
             }, {
                 "track": 2,
-                "name": "The Forsaken (Take 1) - Smith St. Basement (Nov. '03)",
+                "name": "Bidadari - Padi",
                 "duration": "8:37",
-                "file": "SSB___11_03_TFTake_1"
+                "file": "padi-bidadari"
             }, {
                 "track": 3,
-                "name": "The Forsaken (Take 2) - Smith St. Basement (Nov. '03)",
+                "name": "Mahadewi - Padi",
                 "duration": "8:36",
-                "file": "SSB___11_03_TFTake_2"
+                "file": "padi-mahadewi"
             }, {
                 "track": 4,
-                "name": "The Forsaken (Take 1) - Smith St. Basement (Nov. '03)",
+                "name": "Kau Malaikatku - Padi Reborn",
                 "duration": "8:37",
-                "file": "SSB___11_03_TFTake_1"
+                "file": "padi-reborn-malaikatku"
             }, {
                 "track": 5,
-                "name": "The Forsaken (Take 2) - Smith St. Basement (Nov. '03)",
+                "name": "Sobat - Padi Reborn",
                 "duration": "8:36",
-                "file": "SSB___11_03_TFTake_2"
+                "file": "padi-reborn-sobat"
+            }, {
+                "track": 6,
+                "name": "Semua Tak Sama - Padi Reborn",
+                "duration": "8:36",
+                "file": "padi-reborn-semua-tak-sama"
             }],
             buildPlaylist = $(tracks).each(function(key, value) {
                 var trackNumber = value.track,
@@ -338,7 +343,7 @@ function () {
                 loadTrack(id);
                 audio.play();
             };
-        extension = audio.canPlayType('audio/mpeg') ? '.mp3' : audio.canPlayType('audio/ogg') ? '.ogg' : '';
+        extension = audio.canPlayType('audio/mpeg') ? '.mp3' : audio.canPlayType('audio/mpeg') ? 'm4a' : audio.canPlayType('audio/ogg') ? '.ogg' : '';
         loadTrack(index);
     } else {
         // boo hoo
