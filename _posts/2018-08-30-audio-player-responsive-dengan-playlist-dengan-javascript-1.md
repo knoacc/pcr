@@ -8,9 +8,12 @@ Sambungan posting <a href="https://www.paciran.com/2018/08/29/audio-player-html5
 
 Player Responsive ini membutuhkan:
 
-1. **jQuery**: ```https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js```{: style="overflow-x:scroll"}
-2. **HTML5 Media JS**: ```https://cdnjs.cloudflare.com/ajax/libs/html5media/1.1.8/html5media.min.js```{: style="overflow-x:scroll"}
-3. **plyr JS**: ```https://cdnjs.cloudflare.com/ajax/libs/plyr/3.3.21/plyr.min.js```{: style="overflow-x:scroll"}
+1. **jQuery**: 
+```https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js```{: style="overflow-x:scroll"}
+2. **HTML5 Media JS**: 
+```https://cdnjs.cloudflare.com/ajax/libs/html5media/1.1.8/html5media.min.js```{: style="overflow-x:scroll"}
+3. **plyr JS**: 
+```https://cdnjs.cloudflare.com/ajax/libs/plyr/3.3.21/plyr.min.js```{: style="overflow-x:scroll"}
 
 Ketiga file `.js tersebut bisa langsung di tambahkan di antara element `head` seperti ini
 
@@ -25,9 +28,9 @@ Ketiga file `.js tersebut bisa langsung di tambahkan di antara element `head` se
 
 ```
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" >
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5media/1.1.8/html5media.min.js" >
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.3.21/plyr.min.js" >
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5media/1.1.8/html5media.min.js" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.3.21/plyr.min.js" />
 
 
 <div class="container">
