@@ -1,7 +1,7 @@
 ---
 title: "Membunuh Waktu: Membuat Playlist Lagu-lagu Padi, Online Boss!"
 description: Dengan tingkat kesenggangan waktu yang begitu tak terbatas,
-banner_image: player.jpg
+banner_image: padi-reborn.jpg
 image: https://i0.wp.com/ikhwanalim.files.wordpress.com/2017/12/maxresdefault.jpg?resize=840,450
 tags: [audio player, html5, playlist, padi band]
 ---
@@ -10,11 +10,11 @@ Seperti biasa, karena _saking nganggure_, Saia butuh kegiatan yang membuat jari 
 
 Tujuannya tentu saja agar bisa memainkan beberapa file audio sekaligus sesuai dengan urutan yang ditentukan dalam playlist. Secara sederhana, jika hanya memakai tag `audio` HTML5 saja hanya bisa [memainkan satu file audio saja](https://www.knoacc.org/2012/10/menambah-audio-ke-blog-web-dengan-html5.html) dalam satu tag. Dan harus menekan kembali tombol play lagi jika ingin memutar file audio lainnya. Tidak nyaman tentu saja.
 
-Setelah mencoba beberapa metode yang ada di internet, ada satu cara yang relatif mudah. Dan hasil percobaan yang saia coba implementasikan di halaman lain yang memuat beberapa lagu dari band Indonesia: Padi, dari album pertama.
+Setelah melihat beberapa metode yang ada di internet, ada satu cara yang relatif mudah. Dan saia coba implementasikan di halaman lain yang memuat beberapa lagu milik band Indonesia: Padi, dari album pertama.
 
 ### Embed
 
-Untuk melakukannya termasuk mudah dan sudah mampu menampung playlist `.m3u`, sebagai contohnya:
+Dari penjelasannya, untuk melakukannya termasuk mudah dan sudah mampu menampung playlist `.m3u`, sebagai contohnya:
 
 ```html
 <embed name="music_playlist"
@@ -46,9 +46,9 @@ Jika berhasil, ya, jika berhasil, _yo uapik sanget toh_.
 
 Mmm... sudah hampir 2 jam terlewati hanya untuk tulisan ini. Dan menghabiskan waktu se-sore kemarin untuk mencoba di localhost. Lumayanlah, bisa membunuh waktu dengan hal berguna yang sebenarnya _gak guna banget_.
 
-![Nguyup Kopi](ngopi.jpg)
+![Padi Reborn]({{ page.image }})
 
-_Uyup sek kopine..._ Next time, pakai javascript saja. Ada dua yang perlu di coba: 
+Untuk saat ini, dunia musik lagi _hype_ banget dengan band legendaris Padi yang lahir kembali. _Uyup sek kopine..._ Next time, pakai _javascript_ saja. Ada dua yang perlu di coba: 
 
 1. Contoh audio player via [jsfidle](http://jsfiddle.net/vkMqR/2374/)
 2. Contoh audio player via [codepen](http://codepen.io/markhillard/pen/Hjcwu)
