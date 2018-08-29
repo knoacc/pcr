@@ -12,7 +12,7 @@ Tujuannya tentu saja agar bisa memainkan beberapa file audio sekaligus sesuai de
 
 Setelah mencoba beberapa metode yang ada di internet, ada satu cara yang relatif mudah. Dan hasil percobaan yang saia coba implementasikan di halaman lain yang memuat beberapa lagu dari band Indonesia: Padi, dari album pertama.
 
-### Embed{:#embed}
+### Embed
 
 Untuk melakukannya termasuk mudah dan sudah mampu menampung playlist `.m3u`, sebagai contohnya:
 
@@ -22,8 +22,7 @@ src="/music/music_playlist.m3u"
 width="150"
 height="90"
 loop="false"
-autostart="false">
-</embed>
+autostart="true"
 ```
 
 Untuk itu ada 3 hal yang perlu di lakukan:
@@ -39,7 +38,7 @@ Unggah ke lokasi tertentu di website kamu, entah dengan dengan cara apa terserah
 
 Jika memakai [CDN](https://en.wikipedia.org/wiki/Content_delivery_network) sebaiknya tempatkan dalam folder yang termasuk dalam daftar _cache_ atau masuk dalam file _statis_ agar tidak menghabiskan jatah bamdwith bulanan. Dalam percobaan ini _saia_ tempatkan di lokasi `/assets/audio/`
 
-### 2. Membuat file m3u
+### 2. Membuat file `m3u`
 
 Jangan gunakan file **m3u** yang dibuat secara otomatis oleh audio player semacam [WinAmp](http://www.winamp.com/index.html) atau [AIMP](https://aimp.ru). Karena playlist yang dibuat tidak akan bisa diputar secara online.
 
