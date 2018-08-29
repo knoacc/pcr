@@ -2,8 +2,8 @@
 title: "Membunuh Waktu: Membuat Playlist Lagu-lagu Padi, Online Boss!"
 description: Dengan tingkat kesenggangan waktu yang begitu tak terbatas,
 banner_image: player.jpg
-image: nganu
-tags: [audio player, html, playlist, padi band]
+image: https://i0.wp.com/ikhwanalim.files.wordpress.com/2017/12/maxresdefault.jpg?resize=840,450
+tags: [audio player, html5, playlist, padi band]
 ---
 Seperti biasa, karena _saking nganggure_, Saia butuh kegiatan yang membuat jari (secara spesifik: dua jempol) sibuk. Setelah dua hari tak ada hal baru dalam keseharian _saia_; ngopi, _jandon_, main game [War Robots](https://warrobots.net/en) atau [PUBG](http://www.pubgmobile.com/en-US) sambil tiduran tentu saja. Akhirnya ketemu juga yang belum pernah saya coba: **Membuat sebuah _audio player_ sederhana dengan fitur playlist**. 
 <!--more-->
