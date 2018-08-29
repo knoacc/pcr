@@ -23,7 +23,7 @@ Ketiga file `.js tersebut bisa langsung di tambahkan di antara element `head` se
 <!-- elemen lain: meta, json, dll -->
 </head>
 ```
-<!-- player -->
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5media/1.1.8/html5media.min.js" >
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.3.21/plyr.min.js" >
 
@@ -48,10 +48,10 @@ Ketiga file `.js tersebut bisa langsung di tambahkan di antara element `head` se
     </div>
     <div class="column add-bottom center">
         <p>Music by <b>Padi RebornMythium</b></p>
-        <!-- p>Download: <a href="https://archive.org/download/mythium/mythium_vbr_mp3.zip">zip</a> / <a href="https://archive.org/download/mythium/mythium_archive.torrent">torrent</a></p -->
+
     </div>
 </div>
-<!-- style -->
+
 <style type="text/stylesheet" scope="">
 .add-bottom { margin-bottom:2rem !important; }
 .left { float:left; }
@@ -208,7 +208,7 @@ color:rgba(0,0,0,.1);
     #nowPlay span#npTitle { display:block; text-align:center; width:100%; }
 }
 </style>
-<!-- javascript -->
+
 <script type="text/javascript">
 jQuery(function ($) {
     'use strict'
