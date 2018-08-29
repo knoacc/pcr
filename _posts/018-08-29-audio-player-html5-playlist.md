@@ -22,7 +22,7 @@ src="/music/music_playlist.m3u"
 width="150"
 height="90"
 loop="false"
-autostart="true"
+autostart="true"/>
 ```
 Niatnya, ingin membuat sebuah playlist dengan 3 lagu Padi:
 
