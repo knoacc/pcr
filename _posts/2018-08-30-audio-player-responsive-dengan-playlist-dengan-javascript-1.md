@@ -48,7 +48,7 @@ Ketiga file `.js tersebut bisa langsung di tambahkan di antara element `head` se
         </div>
     </div>
     <div class="column add-bottom center">
-        <p>Music by <b>Padi RebornMythium</b></p>
+        <p>Music by Padi Reborn</p>
     </div>
 </div>
 
@@ -298,7 +298,7 @@ jQuery(function ($) {
                     loadTrack(index);
                 }
             }).get(0),
-            btnPrev = $('#btnPr
+            btnPrev = $('#btnPrev').on('click',
 function () {
                 if ((index - 1) > -1) {
                     index--;
