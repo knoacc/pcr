@@ -12,7 +12,7 @@ Player Responsive ini membutuhkan:
 2. **HTML5 Media JS**: [cjdns](https://cdnjs.cloudflare.com/ajax/libs/html5media/1.1.8/html5media.min.js)
 3. **plyr JS**: [cjdns](https://cdnjs.cloudflare.com/ajax/libs/plyr/3.3.21/plyr.min.js)
 
-Ketiga file `.js tersebut bisa langsung di tambahkan di antara element `head` seperti ini
+Ketiga file `.js` tersebut bisa langsung di tambahkan di antara element `head` seperti ini
 
 ```xml
 <head>
