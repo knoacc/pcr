@@ -5,10 +5,10 @@ banner_image: player.jpg
 image: nganu
 tags: [audio player, html, playslist, padi band]
 ---
-Seperti biasa, karena _saking nganggure_, Saia butuh kegiatan yang membuat jari (secara spesifik: dua jempol) sibuk. Setelah dua hari tak ada hal baru dalam keseharian _saia_; ngopi, _jandon_, main game War Robots atau PUBG, sambil tiduran tentu saja. Akhurnya ketemu juga yang belum pernah saya coba: Membuat sebuah audio player sederhana dengan fitur playlist. 
+Seperti biasa, karena _saking nganggure_, Saia butuh kegiatan yang membuat jari (secara spesifik: dua jempol) sibuk. Setelah dua hari tak ada hal baru dalam keseharian _saia_; ngopi, _jandon_, main game [War Robots](https://warrobots.net/en) atau [PUBG](http://www.pubgmobile.com/en-US) sambil tiduran tentu saja. Akhirnya ketemu juga yang belum pernah saya coba: **Membuat sebuah _audio player_ sederhana dengan fitur playlist**. 
 <!--more-->
 
-Tujuannya tentu saja agar bisa memainkan beberapa file audio sekaligus sesuai dengan urutan yang ditentukan dalam playlist. Secara sederhana, jika hanya memakai tag `audio` HTML5 saja hanya bisa memainkan satu file audio saja dalam satu tag. Dan harus menekan kembali tombol play lagi jika ingin memutar file audio lainnya. Tidak nyaman tentu saja.
+Tujuannya tentu saja agar bisa memainkan beberapa file audio sekaligus sesuai dengan urutan yang ditentukan dalam playlist. Secara sederhana, jika hanya memakai tag `audio` HTML5 saja hanya bisa [memainkan satu file audio saja](https://www.knoacc.org/2012/10/menambah-audio-ke-blog-web-dengan-html5.html) dalam satu tag. Dan harus menekan kembali tombol play lagi jika ingin memutar file audio lainnya. Tidak nyaman tentu saja.
 
 Setelah mencoba beberapa metode yang ada di internet, ada satu cara yang relatif mudah. Dan hasil percobaan yang saia coba implementasikan di halaman lain yang memuat beberapa lagu dari band Indonesia: Padi, dari album pertama.
 
@@ -37,13 +37,13 @@ Sekarang **Kerjakan!**, _ojo plonga-plongo koyo wedhus kopok_ dhus, wedhus..
 
 Unggah ke lokasi tertentu di website kamu, entah dengan dengan cara apa terserah. Entah dengan FTP upload atau fitur Web upload jika tersedia.
 
-Jika memakai CDN, sebaiknya tempatkan dalam folder yang termasuk dalam daftar _cache_ atau masuk dalam file _statis_ agar tidak menghabiskan jatah bamdwith bulanan. Dalam percobaan ini _saia_ tempatkan di lokasi `/assets/audio/`
+Jika memakai [CDN](https://en.wikipedia.org/wiki/Content_delivery_network) sebaiknya tempatkan dalam folder yang termasuk dalam daftar _cache_ atau masuk dalam file _statis_ agar tidak menghabiskan jatah bamdwith bulanan. Dalam percobaan ini _saia_ tempatkan di lokasi `/assets/audio/`
 
 ### 2. Membuat file m3u
 
-Jangan gunakan file **m3u** yang dibuat secara otomatis oleh audio player semacam WinAmp atau Windows Media Player. Karena playlist yang dibuat tidak akan bisa diputar secara online.
+Jangan gunakan file **m3u** yang dibuat secara otomatis oleh audio player semacam [WinAmp](http://www.winamp.com/index.html) atau [AIMP](https://aimp.ru). Karena playlist yang dibuat tidak akan bisa diputar secara online.
 
-1. Buat dulu file teks baru dengan notepad++ atau editor teks lainnya.
+1. Buat dulu file teks baru dengan [notepad++](https://notepad-plus-plus.org/download/v7.5.8.html) atau [editor teks lainnya](https://mi.knoacc.org/aplikasi-editor-kode-sumber-terbaik-web-developer-progammer).
 2. Buat daftar lokasi file mp3 yang ingin dimainkan. Bisa dengan _absolut path_ seperti: `https://www.paciran.com/assets/audio/lagu.mp3` atau _relative path_ seperti: `/assets/audio/lagu.mp3`. Ingat, sisipkan satu baris baru setiap _path_.
 3. Simpan file dengan akhiran `.m3u`, misalnya: `daftarlagu.m3u` 
 Lihat contoh isi file **m3u** (_relative path_) berikut:
@@ -87,6 +87,8 @@ loop="false"
 hidden="false"
 autostart="true"></embed></div>
 
-Mmm... sudahb2 jam terlewati hanya untuk tulisan ini. Dan menghabiskan waktu se-sore tadi untuk mencoba di localhost. Lumayanlah, bisa membunuh waktu dengan hal berguna yang sebenarnya _gak guna banget_.
+Mmm... sudah hampir 2 jam terlewati hanya untuk tulisan ini. Dan menghabiskan waktu se-sore kemarin untuk mencoba di localhost. Lumayanlah, bisa membunuh waktu dengan hal berguna yang sebenarnya _gak guna banget_.
+
+![Nguyup Kopi](ngopi.jpg)
 
 _Uyup sek kopine..._
