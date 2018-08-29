@@ -17,9 +17,9 @@ Ketiga file `.js tersebut bisa langsung di tambahkan di antara element `head` se
 ```html
 <head>
 <!-- elemen lain: title, css eksternal dll. -->
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" >
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5media/1.1.8/html5media.min.js" >
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.3.21/plyr.min.js" >
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5media/1.1.8/html5media.min.js" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.3.21/plyr.min.js" />
 <!-- elemen  lain: meta, json, dll -->
 </head>
 ```
