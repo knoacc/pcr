@@ -47,5 +47,6 @@ plugins:
 compress_html:
   clippings: all
   comments: all
+  blanklines: true
   endings: all
-  startings: [head, body]
+  startings: [head, html, body]
