@@ -40,6 +40,12 @@ plugins:
  - jekyll-tagging
  - jekyll-tagging-related_posts
  - jemoji
- - amp-jekyll
+# - amp-jekyll
 #amp
-ampdir: /amp
+#ampdir: /amp
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: [head, body]
