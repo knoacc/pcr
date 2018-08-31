@@ -13,10 +13,12 @@ navigation:
    url: /style-guide
  - text: Archive
    url: /tags/
+   text: Kontak
+   url: /kontak
 # author detail
 author_name: Jon Mukidi
 author_bio: Jon Mukidi is a real-designer, not-photographer, nyocot-er, author of a couple of blogs and the founder of the some-kind-of-stupidity
-author_url: https://www.knoacc.org
+# author_url: https://www.knoacc.org
 author_location: Somewhere, Out-there
 author_image: /images/authorimage.png
 # comments
