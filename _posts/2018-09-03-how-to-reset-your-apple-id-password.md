@@ -1,13 +1,14 @@
 ---
 title: How to reset your Apple ID password
 description: Having trouble logging in? Here's how to reset your Apple ID password
-image: https://icdn4.digitaltrends.com/image/reset-apple-id-password-720x720.jpg
+image: https://i0.wp.com/icdn2.digitaltrends.com/image/reset-apple-id-password-2508x1672.jpg?resize=1640,840
+banner_image: reset-apple-id-password-1200-700.jpg
 tags: [ios account, reset iphone, apple id, forgot password]
 date: 2018-09-03 19:45:00 +7
 
 ---
 
-Everyone with an iPhone, iPad, iPod, or Apple Watchhas an Apple ID. It’s essential to getting the most out of Apple’s services, including the iTunes Store, the App Store, Apple Music, and iCloud. An Apple ID isn’t the only account with credentials you need to be keeping track of these days, however, and as such, there’s always the possibility that you may forget certain login information — like your all-important password.
+Everyone with an iPhone, iPad, iPod, or Apple Watchhas an Apple ID. It’s essential to getting the most out of Apple’s services, including the iTunes Store, the App Store, Apple Music, and iCloud. An Apple ID isn’t the only account with credentials you need to be keeping track of these days, however, and as such, there’s always the possibility that you may forget certain login information — like your all-important password.<!--more-->
 
 Thankfully, there’s no need to panic if you do forget your Apple ID password, as it happens to all of us from time to time. When it happens to you, there are steps you can take to reset your Apple ID password, all of which are pretty straightforward. There’s no way for Apple to simply tell you what your current password is, though, not even through email. Instead, every method to deal with a forgotten Apple ID password involves resetting it completely. Here’s how. Once you get your Apple ID password reset, we have a guide to things you can do to make your iPhone safer.
 
@@ -99,3 +100,4 @@ If you were using two-step verification when you forgot your Apple ID password,
 
 After you’ve reset your password using any of the methods detailed above, you’ll be prompted to sign in again with the new password. You may also need to sign in with the new password on Apple’s various services, including iTunes, the App Store, iCloud, and Find my iPhone. You can find the steps to do so for all the services that require it on Apple’s [support page](https://support.apple.com/en-us/HT204071).
 
+Peasan saya untuk pembaca lokal: **"Gak usah nyocot!"**,
