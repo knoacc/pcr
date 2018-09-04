@@ -7,13 +7,15 @@ tags: [the bangles, youtube embed, cover lagu, eternal flames]
 
 ---
 
-**Eternal Flames**, yang dilagukan the Bangles bagi _Saia_ adalah lagu yang penuh rasa. Manis, asam, asin, ramai rasanya. Hampir serupa dengan lagu nostalgia lain, Eternal Flames yang (harusnya) romantis malah terasa getir. Loah kok bisa?<!--more-->
+**Eternal Flames**, yang dilagukan the Bangles bagi _Saia_ adalah lagu yang penuh rasa. Manis, asam, asin, ramai rasanya. Selaknya, serupa lagu nostalgia lain, Eternal Flames yang (harusnya) romantis malah terasa getir. _Lowah_ kok bisa?<!--more-->
 
-Tak ada alasan yang khusus. Karena lagu ini kebetulan pernah _Saia_ putar di beberapa situasi. Misalnya: (1.a) setelah bertukar _saliva_ dimalam minggu, (1.b) putus cinta, (2.a) diajak makan di shabu-shabu oleh bos, (2.b) dipecat dari kerjaan dan terlilit hutang yang harus dibayar keesokan harinya, juga (3) meresapi dingin malam di kakus karena salah makan dan murus-murus.
+Tak ada alasan yang khusus. Karena lagu ini kebetulan pernah _Saia_ putar di beberapa situasi. Misalnya: (1.a) menunggu pagi setelah _event_ bertukar _saliva_ malam minggu, (1.b) putus cinta, (2.a) diajak bos makan di **shabu-shabu**, (2.b) dipecat dari pekerjaan dan terlilit hutang yang harus dibayar keesokan harinya, juga (3) meresapi dingin malam kakus, sebab salah makan dan murus-murus.
 
-## Eternal Flames, Korban Situasi
+> Eternal Flames, adalah lagu yang jadi korban situasi. _john mukidi_
 
-Diantara ke-tiga situasi diatas, situasi ke-3 adalah yang paling netral, agak kecut. Sementara 2 lainnya, _yo ngonokulah_. Ada satu lagu _evergreen_ lainnya yang biasa nya termainkan bersama lagu **Eternal Flames** di playlist WinAmp _Saia_ waktu itu. Tetapi lupa. Selagi masih ingat maka, _tak kumpulnone cah_ lagu-lagu [cover Eternal Flame](#) _teko yutub_. Demi umur yang telah diberikan oleh Tuhan Yang Maha Esa <- sesuai sila pertama Pancasila ;)
+Diantara ke-tiga situasi di atas, situasi ke-3 adalah yang paling netral, agak kecut. Sementara 2 lainnya, _yo ngonokulah_. Ada satu lagu _evergreen_ lainnya yang biasa nya termainkan bersama lagu **Eternal Flames** di playlist WinAmp _Saia_ waktu itu. Tetapi lupa. Selagi masih ingat maka, _tak kumpulnone cah_ lagu-lagu [cover Eternal Flame](#) _teko yutub_. Demi umur yang telah diberikan oleh Tuhan Yang Maha Esa <- sesuai sila pertama Pancasila ;)
+
+Berikut ini koleksi lagu Eternal Flames dan _cover songs_ yang bisa ditemukan [di yutub](https://www.youtube.com)
 
 ### 1. Bangles - original
 
@@ -37,4 +39,4 @@ https://m.youtube.com/watch?v=l4pI-Lx3yl4
 
 ## Sekarat!
 
-Mati otak gaes..
+Seperti _viasanyuah_ lur. Luar biasa, I'm feeling good.
