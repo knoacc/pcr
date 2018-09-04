@@ -1,10 +1,11 @@
 ---
 title: Lagu Eternal Flames-nya Bangles
-description: Tembang kenangan: karena nostalgia tak harus indah.
+description: "Nostalgia: tak harus indah, yang penting ada kenangan lur!"
 banner_image: cover-eternal-flames.jpg
 image: https://i.ytimg.com/vi/PSoOFn3wQV4/maxresdefault.jpg
 tags: [the bangles, youtube embed, cover lagu, eternal flames]
 date: 2018:08-04 20:05:00 +7
+
 ---
 **Eternal Flames**, yang dilagukan the Bangles bagi _Saia_ adalah lagu yang penuh rasa. Manis, asam, asin, ramai rasanya. Hampir serupa dengan lagu nostalgia lain, Eternal Flames yang (harusnya) romantis malah terasa getir. Loah kok bisa?<!--more-->
 
