@@ -19,23 +19,23 @@ Berikut ini koleksi lagu Eternal Flames dan _cover songs_ yang bisa ditemukan [d
 
 ### 1. Bangles - original
 
-https://m.youtube.com/watch?v=PSoOFn3wQV4
+{% include video id="PSoOFn3wQV4" provider="youtube" %}
 
 ### 2. Guilherme Dini, Dani Bastos e Eduardo Maran - cover
 
-https://m.youtube.com/watch?v=ZBU6HnDwuz8
+{% include video id="ZBU6HnDwuz8" provider="youtube" %}
 
 ### 3. Andra & The Backbone - cover
 
-https://m.youtube.com/watch?v=rOTJDoQdS9w
+{% include video id="rOTJDoQdS9w" provider="youtube" %}
 
 ### 4. Shane Filan - cover
 
-https://m.youtube.com/watch?v=sG4HXBuzXtk
+{% include video id="sG4HXBuzXtk" provider="youtube" %}
 
 ### 5. Marina Dimer - cover
 
-https://m.youtube.com/watch?v=l4pI-Lx3yl4
+{% include video id="l4pI-Lx3yl4" provider="youtube" %}
 
 ## Sekarat!
 
