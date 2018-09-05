@@ -41,7 +41,7 @@ Berikut ini koleksi lagu Eternal Flames dan _cover songs_ yang bisa ditemukan [d
 
 Seperti _viasanyuah_ lur. Luar biasa, I'm feeling good.
 
-Menyinggung soal lagu romantis, _Saia_ jadi ingat lagunya **Calum Scott** berjudul **You Are the Reason** yang dibawakan oleh **Alexandra Porat** yang sejauh ini sudah tayang lebih dari satu juta kali sejak diunggah Maret lalu.
+Menyinggung soal lagu romantis, _Saia_ jadi ingat lagunya **Calum Scott** berjudul **You Are the Reason** yang dibawakan oleh **Alexandra Porat** yang sejauh ini sudah tayang **lebih dari 4,8 juta kali** sejak diunggah Maret lalu.
 
 Video-nya bisa _ente_ buka [di sini](https://www.youtube.com/watch?v=ezcdE4lPpq8. Kalau mau dengar lagunya saja, _kevetulan_ sudah saya _ripping_ ke format Mp3 dari video aslinya. Silahkan nikmati, semoga _varokah_.
 
