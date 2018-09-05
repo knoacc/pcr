@@ -1,4 +1,5 @@
 ---
+permalink: /kontak
 layout: page
 title: Formulir Kontak
 description: Hubungi redaksi Paciran Lamongan
@@ -46,6 +47,7 @@ form{color:#888}
 </style>
 
 <img src="/images/paciran.jpg" style="display:block;margin:-20px auto" alt="Paciran Lamongan"/>
+
 <script src="https://www.blogger.com/static/v1/widgets/2271878333-widgets.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
