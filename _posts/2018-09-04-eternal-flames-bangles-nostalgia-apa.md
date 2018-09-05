@@ -45,8 +45,8 @@ Menyinggung soal lagu romantis, _Saia_ jadi ingat lagunya **Calum Scott** berjud
 
 Video-nya bisa _ente_ buka [di sini](https://www.youtube.com/watch?v=ezcdE4lPpq8). Kalau mau dengar lagunya saja, _kevetulan_ sudah saya _ripping_ ke format Mp3 dari video aslinya. Silahkan nikmati, semoga _varokah_.
 
-![Alexandra Porat](https://i.ytimg.com/vi/ezcdE4lPpq8/hqdefault.jpg){: style="display:block;margin:-30px auto;overflow:hidden"}
+![Alexandra Porat](https://i.ytimg.com/vi/ezcdE4lPpq8/hqdefault.jpg){: style="display:block;margin:0 auto"}
 
-<audio title="You are the reason cover alexandra porat mp3" preload="metadata" controls="" loop=""><source src="/assets/audio/You_Are_The_Reason_(cover)_Alexandra_Porat.mp3" type="audio/mp3"/></audio>
+<audio style="margin:0 auto" title="You are the reason cover alexandra porat mp3" preload="metadata" controls="" loop=""><source src="/assets/audio/You_Are_The_Reason_(cover)_Alexandra_Porat.mp3" type="audio/mp3"/></audio>
 
 Untuk lagu di atas, jujur _Saia_ baru tahu dari posting status video akun WA saudara kandung _Saia_ yang seperti saudara tiri dan lebih cocok jadi _konco ngopi_ walaupun seorang _Huffadz_ yang nyambi jadi ustadz. Begitulah kira-kira..
