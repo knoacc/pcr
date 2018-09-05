@@ -45,7 +45,7 @@ Menyinggung soal lagu romantis, _Saia_ jadi ingat lagunya **Calum Scott** berjud
 
 Video-nya bisa _ente_ buka [di sini](https://www.youtube.com/watch?v=ezcdE4lPpq8. Kalau mau dengar lagunya saja, _kevetulan_ sudah saya _ripping_ ke format Mp3 dari video aslinya. Silahkan nikmati, semoga _varokah_.
 
-![Alexandra Porat](https://m.youtube.com/vi/ezcdE4lPpq8/maxresdefault.jpg)
+![Alexandra Porat](https://i.ytimg.com/vi/ezcdE4lPpq8/maxresdefault.jpg)
 
 <audio title="You are the reason cover alexandra porat mp3" preload="metadata" controls=""><source src="/assets/audio/You_Are_The_Reason_(cover)_Alexandra_Porat.mp3" type="audio/mp3"/></audio>
 
