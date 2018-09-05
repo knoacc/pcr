@@ -30,6 +30,7 @@ banner_image: images/banner.jpg
 # social
 instagram_username: ph4t3
 twitter_username: idlohulhaq
+facebook_username: nasyrih
 # paginate
 paginate: 6
 paginate_path: /blog/page:num/
