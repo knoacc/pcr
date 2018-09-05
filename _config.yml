@@ -24,11 +24,12 @@ author_image: /images/authorimage.png
 # comments
 disqus: paciran1
 # banner ads
-banner_url: https://safelink.knoacc.org
+banner_url: /kontak
 banner_image: images/banner.jpg
 
 # social
 instagram_username: ph4t3
+twitter_username: idlohulhaq
 # paginate
 paginate: 6
 paginate_path: /blog/page:num/
