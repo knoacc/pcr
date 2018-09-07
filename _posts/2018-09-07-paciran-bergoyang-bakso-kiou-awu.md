@@ -3,7 +3,7 @@ title: "Patjiran Bergojang, Bakso kok Kipu-Awu!"
 desxription: Memotret Makanan Rumahan, Memperluas Makna Kenikmatan.
 author: koradi
 tags: [kuliner lokal, makna kenikmatan, potret makanan]
-banner_image: kipu_awu.jpg
+banner_image: lips-paciran.jpg?resize=800,460
 image: https://1.bp.blogspot.com/-wRZQDbpMRhY/V6pxBxKAgoI/AAAAAAAAAlc/0cyQiRH-SgwT4h3457J-2NXciVBFJd5ZQCLcB/s1600/bersilat-lidah.jpg
 
 ---
@@ -27,7 +27,7 @@ Makanan rumahan sebagaimana makanan pada umumnja biasa kita konsumsi sebagai pen
 
 Bagi kita sebagai orang desa tidak ada urusan makanan itu bergizi atawa tidak, empat sehat lima sempurna atawa tidak, bisa ketemu makanan di rumah tiap hari sadja itu sudah seperti hidup di surga.
 
-Oleh karena itu kali ini saja akan membagikan satu foto makanan jang sudah masuk kedalam perut saja sore tadi. Jumat (07/09/2018).
+![Bakso Kipu Awu](https://2.bp.blogspot.com/-zytvGkpmEu8/W5JegDg8ylI/AAAAAAAACzo/qvKLpem5xecEieTrZfy7VKIktTSHYg3bgCLcBGAs/s600/DSC_0002.JPG){: style="float:left;clear:left;margin:0 1em 1em 0"} Oleh karena itu kali ini saja akan membagikan satu foto makanan jang sudah masuk kedalam perut saja sore tadi. Jumat (07/09/2018).
 
 Saja memberikan nama untuk makanan ini dengan nama "Bakso Kipu-Awu" ada alasan chusus kenapa saja memberi makanan ini dengan nama jang mengundang hati kepengen selalu berontak. Konon katanja Bakso adalah salah satu makanan favorit Obama. Itu pun djika kabar itu bisa dipertjaja.
 
