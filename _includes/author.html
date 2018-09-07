@@ -1,15 +1,7 @@
-{% assign author = page.author | default: page.authors[0] | default: site.author %}
-{% assign author = site.data.authors[author] | default: author %}
-
-{% if author.avatar %}
-  {% if author.author_image contains "://" %}
-    {% assign author_src = author.avatar %}
-  {% else %}
-    {% assign author_src = author.avatar | relative_url %}
-  {% endif %}
+{% assign author = site.authors[page.author] %}
 <div class="author-box">
   <div class="author-info">
-    <div class="author-avatar" style="background-image: url({{ author_src }})"><span class="screen-reader-text">{{ author.name }}'s Picture</span></div>
+    <div class="author-avatar" style="background-image: url({{ author.avatar }})"><span class="screen-reader-text">{{ author.name }}'s Picture</span></div>
           <div class="author-details">
               <h2 class="author-title">About {{ author.name }}</h2>
                  <p class="author-bio">{{ author.bio }}</p>
