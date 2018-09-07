@@ -9,7 +9,7 @@ image: https://1.bp.blogspot.com/-wRZQDbpMRhY/V6pxBxKAgoI/AAAAAAAAAlc/0cyQiRH-Sg
 ---
 Menurut beberapa ahli dan orang jang dianggap pintar, tjara terbaik untuk bertahan dari gedjolak ekonomi jang limbung dihantam badai dollar adalah dengan tjara menikmati kelimbungan itu sendiri.
 
-Benar, tidaknja. Saja sendiri kurang tahu. Lagipula mata uwang tersajang kita jang bernama Rupiah (Rp) itu adalah salah satu dari sekian banjak mata uwang di dunia ini jang mudah terpantjing gelombang badai. _Ora usah gawok_.
+Benar, tidaknja. Saja sendiri kurang tahu. Lagipula mata uwang tersajang kita jang bernama Rupiah (Rp) itu adalah salah satu dari sekian banjak mata uwang di dunia ini jang mudah terpantjing gelombang badai. _Ora usah gawok_.<!--more-->
 
 Nilai mata uwang kita memang sudah begitu nasipnja, bahasa anak sekarang "Labil" artinja mudah _galau_. Terlepas dari isu-isu jang ada, kita tetap menjunjung tinggi rasa kebutuhan jang sama akan rupiah, walaupun menjadari mata uwang ini mudah tergerus ketahanan atawa kekuatannja.
 
