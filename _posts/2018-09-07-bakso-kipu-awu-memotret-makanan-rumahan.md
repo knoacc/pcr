@@ -13,7 +13,7 @@ Benar, tidaknja. Saja sendiri kurang tahu. Lagipula mata uwang tersajang kita ja
 
 Nilai mata uwang kita memang sudah begitu nasipnja, bahasa anak sekarang "Labil" artinja mudah _galau_. Terlepas dari isu-isu jang ada, kita tetap menjunjung tinggi rasa kebutuhan jang sama akan rupiah, walaupun menjadari mata uwang ini mudah tergerus ketahanan atawa kekuatannja.
 
-## Patjiran Bergojang, seheboh Goyangan Dollar
+## Patjiran Bergojang, sekuat Gojangan Dollar
 
 Di sini saja ingin berbagi ketjeriaan lain, jang mana untuk bisa [menikmati kehangatan](https://www.paciran.com/2018/08/24/teman-tapi-menikah.html) dan kenikmatannja harus terlebih dahulu melakukan meditasi tingkat tinggi, memindjam petuah para pini sepuh. "Tak ada kenikmatan tanpa bersusah pajah."
 
