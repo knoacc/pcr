@@ -52,14 +52,14 @@ plugins:
  - jekyll-seo-tag
  - jekyll-tagging
  - jekyll-tagging-related_posts
- - jemoji
+# - jemoji
 whitelists:
  - jekyll-paginate
  - jekyll-paginate-category
  - jekyll-seo-tag
  - jekyll-tagging
  - jekyll-tagging-related_posts
- - jemoji
+# - jemoji
 # - amp-jekyll
 #amp
 #ampdir: /amp
