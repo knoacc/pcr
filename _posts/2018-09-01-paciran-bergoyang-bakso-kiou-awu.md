@@ -5,6 +5,7 @@ author: koradi
 tags: [kuliner lokal, makna kenikmatan, potret makanan]
 banner_image: kipu_awu.jpg
 image: https://1.bp.blogspot.com/-wRZQDbpMRhY/V6pxBxKAgoI/AAAAAAAAAlc/0cyQiRH-SgwT4h3457J-2NXciVBFJd5ZQCLcB/s1600/bersilat-lidah.jpg
+
 ---
 Menurut beberapa ahli dan orang jang dianggap pintar, tjara terbaik untuk bertahan dari gedjolak ekonomi jang limbung dihantam badai dollar adalah dengan tjara menikmati kelimbungan itu sendiri.
 
