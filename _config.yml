@@ -22,6 +22,9 @@ author:
   uri: https://www.knoacc.org
   location: Somewhere, Out-there
   avatar: images/authorimage.png
+  facebook: nasyrih
+  twitter: idlohulhaq
+  
 # comments
 disqus: paciran1
 # banner ads
@@ -29,9 +32,9 @@ banner_url: /kontak
 banner_image: images/banner.jpg
 
 social:
-# instagram_username: paciranmesuwur
+# instagram: paciranmesuwur
   twitter: idlohulhaq
-  facebook: nasyrih
+  facebook: paciran.com
 # paginate
 paginate: 6
 paginate_path: /blog/page:num/
@@ -52,17 +55,13 @@ plugins:
  - jekyll-seo-tag
  - jekyll-tagging
  - jekyll-tagging-related_posts
-# - jemoji
+
 whitelists:
  - jekyll-paginate
  - jekyll-paginate-category
  - jekyll-seo-tag
  - jekyll-tagging
  - jekyll-tagging-related_posts
-# - jemoji
-# - amp-jekyll
-#amp
-#ampdir: /amp
 
 compress_html:
   clippings: all
