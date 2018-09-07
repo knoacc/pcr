@@ -46,9 +46,6 @@ form{color:#888}
 .formcolumn2{padding:0 0 0 10px}
 @media only screen and (max-width:768px){.formcolumn1,.formcolumn2{width:100%;padding:0}}
 </style>
-
-![Paciran Lamongan]({{ page.image }}){: style="display:block;margin:0px auto -30px" title="Paciran Lamongan"}
-
 <script src="https://www.blogger.com/static/v1/widgets/2271878333-widgets.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -56,3 +53,6 @@ if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null)
 _WidgetManager._RegisterWidget('_ContactFormView', new _WidgetInfo('ContactForm1', 'footer1', null, document.getElementById('ContactForm1'), {'contactFormMessageSendingMsg': 'Sending...', 'contactFormMessageSentMsg': 'Your message has been sent.', 'contactFormMessageNotSentMsg': 'Message could not be sent. Please try again later.', 'contactFormInvalidEmailMsg': 'A valid email address is required.', 'contactFormEmptyMessageMsg': 'Message field cannot be empty.', 'title': 'Contact Form', 'blogId': '2209812151361031342', 'contactFormNameMsg': 'Name', 'contactFormEmailMsg': 'Email', 'contactFormMessageMsg': 'Message', 'contactFormSendMsg': 'Send', 'submitUrl': 'https://www.blogger.com/contact-form.do'}, 'displayModeFull'));
 //]]>
 </script>
+
+
+![Paciran Lamongan]({{ page.image }}){: style="display:block;margin:0px auto -30px" title="Paciran Lamongan"}
