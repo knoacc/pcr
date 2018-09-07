@@ -55,4 +55,4 @@ _WidgetManager._RegisterWidget('_ContactFormView', new _WidgetInfo('ContactForm1
 </script>
 
 
-![Paciran Lamongan]({{ page.image }}){: style="display:block;margin:0px auto -30px" title="Paciran Lamongan"}
+![Paciran Lamongan]({{ page.image }}){: style="display:block;margin:-30px auto -50px" title="Paciran Lamongan"}
