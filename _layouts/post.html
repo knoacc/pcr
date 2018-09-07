@@ -15,7 +15,7 @@ layout: default
                         <h1 class="entry-title">{{page.title}}</h1>
                     </div><!-- .entry-header-wrap -->
                     <div class="entry-meta">
-
+        {% include meta.html %}
                     </div><!-- .entry-meta -->
                 </header><!-- .entry-header -->
                 <div class="entry-content">
@@ -26,7 +26,7 @@ layout: default
                         <span>Pos Terkait:</span>
                         <ol>
                         {% for related_post in site.related_posts limit: 3 %}
-                           — <li><a href="{{ related_post.url }}">{{ related_post.title }}</a></li>
+                           <li><a href="{{ related_post.url }}">{{ related_post.title }}</a></li>
                         {% endfor %}
                         </ol>
                     {% endif %}
