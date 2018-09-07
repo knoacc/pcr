@@ -47,7 +47,7 @@ form{color:#888}
 @media only screen and (max-width:768px){.formcolumn1,.formcolumn2{width:100%;padding:0}}
 </style>
 
-<img src="{{ page.image }}" style="display:block;margin:-20px auto" alt="Paciran Lamongan"/>
+![Paciran Lamongan]({{ page.image }}){: style="display:block;margin:0px auto -30px" title="Paciran Lamongan"}
 
 <script src="https://www.blogger.com/static/v1/widgets/2271878333-widgets.js" type="text/javascript"></script>
 <script type="text/javascript">
