@@ -7,11 +7,7 @@
   {% else %}
     {% assign author_src = author.avatar | relative_url %}
   {% endif %}
-<div class="author-box"  {% if author.author_image contains "://" %}
-    {% assign author_src = author.avatar %}
-  {% else %}
-    {% assign author_src = author.avatar | relative_url %}
-  {% endif %}>
+<div class="author-box">
   <div class="author-info">
     <div class="author-avatar" style="background-image: url({{ author_src }})"><span class="screen-reader-text">{{ author.name }}'s Picture</span></div>
           <div class="author-details">
