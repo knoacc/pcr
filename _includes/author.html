@@ -1,9 +1,7 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
-
-
-  {% if author.avatar %}    
+{% if author.avatar %}    
     {% if author.avatar contains "://" %}
       {% assign author_src = author.avatar %}
     {% else %}
@@ -27,6 +25,3 @@
       {% endif %}
     </div>
   </div><!-- .author-details -->
-
-
-
