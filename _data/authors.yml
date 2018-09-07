@@ -1,12 +1,12 @@
-koradi:
-  name: "Kaji Sukadi"
-#  uri: "https://www.paciran.com"
-  avatar: "/images/koradi.jpg"
-  bio: "Generasi pesisir jang tidak soeka mabok laoet, nyambi bakoel boekoe Ce-O-De-an"
-  facebook: "A1nu22ohman"
 mukidi:
   name: "Jon Mukidi"
-  avatar: "/images/author.jpg"
-  bio: ""
+  author_image: "/images/author.jpg"
+  #bio: ""
   facebook: "phateholloway"
   instagram: "ph4t3"
+koradi:
+  name: "Kaji Sukadi"
+  author_url : "https://www.paciran.com"
+  author_image: "/images/koradi.jpg"
+  bio: "Generasi pesisir jang tidak soeka mabok laoet, nyambi bakoel boekoe Ce-O-De-an"
+  facebook: "A1nu22ohman"
