@@ -16,13 +16,13 @@
       {% endif %}
      <div>
       {% if author.uri %}
-      <i class="fa-chain square fill-horizontal" aria-hidden="true"></i> <a href="{{ author.uri }}" target="_blank">Situs</a></span>
+       <a href="{{ author.uri }}" target="_blank"><i class="fa-chain square fill-horizontal" aria-hidden="true">Situs</i>
       {% endif %}
       {% if author.email %}
-      <i class="fa-mail square fill-horizontal" aria-hidden="true"></i> <a href="mailto:{{ author.email}}">Kirim surel</a>
+      <a href="mailto:{{ author.email}}"><i class="fa-mail square fill-horizontal" aria-hidden="true">Kirim surel</i></a>
       {% endif %}
       {% if author.facebook %}
-      <i class="fa-facebook square fill-horizontal" aria-hidden="true"></i> <a href="{{ author.facebook }}" target="_blank">Facebook</a></span>
+      <a href="{{ author.facebook }}" target="_blank"><i class="fa-facebook square fill-horizontal" aria-hidden="true"> Facebook</i></a>
       {% endif %}
     </div>
   </div><!-- .author-details -->
