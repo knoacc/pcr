@@ -43,7 +43,11 @@ layout: default
                     {% endif %}
                 </footer><!-- .entry-footer -->
             </article><!-- .post -->
-
+<div class="author-box">
+    <div class="author-info">
+        {% include author.html %}
+    </div><!-- .author-info -->
+</div><!-- .author-box -->
             <nav class="post-navigation">
                 <h2 class="screen-reader-text">Post navigation</h2>
                 {% if page.previous.url %}
@@ -71,7 +75,7 @@ layout: default
                 </div><!-- .nav-next -->
                 {% endif %}
             </nav><!-- .post-navigation -->
-
+{}
             {% if site.disqus %}
                 {% include disqus.html %}
             {% endif %}
