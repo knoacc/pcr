@@ -30,8 +30,9 @@ banner_image: images/banner.jpg
 
 # social
 # instagram_username: paciranmesuwur
-twitter_username: idlohulhaq
-facebook_username: nasyrih
+social
+  twitter: idlohulhaq
+  facebook: nasyrih
 # paginate
 paginate: 6
 paginate_path: /blog/page:num/
