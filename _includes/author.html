@@ -7,17 +7,17 @@
   <div class="author-info">
    {% if author.avatar %}
       {% if author.author_image contains "://" %}
-        {% assign author_src = author.author_image %}
+        {% assign author_src = author.avatar %}
       {% else %}
-        {% assign author_src = author.author_image | relative_url %}
+        {% assign author_src = author.avatar | relative_url %}
       {% endif %}
        <div class="author-avatar" style="background-image: url({{ author_src }})"><span class="screen-reader-text">{{ author.name }}'s Picture</span></div>
           <div class="author-details">
               <h2 class="author-title">About {{ author.name }}</h2>
                  <p class="author-bio">{{ author.bio }}</p>
-                 {% if author.author_email %}<span class="author-website"><i class="fa-mail" aria-hidden="true"></i> <a href="mailto:{{ author.author_email}}">Kirim surel</a>
-                 {% if author.author_location %}<span class="author-website"><i class="fa-chain" aria-hidden="true"></i> <a href="{{ author.author_url }}" target="_blank">Situs</a></span>{% endif %}
-                 {% if author.author_facebook %}<span class="author-website"><i class="fa-facebook" aria-hidden="true"></i> <a href="{{ author.author_facebook }}" target="_blank">Facebook</a></span>{% endif %}
+                 {% if author.email %}<span class="author-website"><i class="fa-mail" aria-hidden="true"></i> <a href="mailto:{{ author.email}}">Kirim surel</a>
+                 {% if author.uri %}<span class="author-website"><i class="fa-chain" aria-hidden="true"></i> <a href="{{ author.uri }}" target="_blank">Situs</a></span>{% endif %}
+                 {% if author.facebook %}<span class="author-website"><i class="fa-facebook" aria-hidden="true"></i> <a href="{{ author.facebook }}" target="_blank">Facebook</a></span>{% endif %}
            </div><!-- .author-details -->
       {% endif %}
    </div><!-- .author-info -->
