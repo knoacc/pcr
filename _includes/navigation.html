@@ -1,0 +1,28 @@
+<nav class="post-navigation">
+<h2 class="screen-reader-text">Post navigation</h2>
+  {% if page.previous.url %}
+    <div class="nav-previous">
+      <div class="nav-inside">
+        {% if page.previous.banner_image %}
+          <a href="{{ site.baseurl }}{{page.previous.url}}" class="nav-thumb" style="background-image: url({{ "/images/posts/" | append: page.previous.banner_image }})"></a>
+        {% endif %}
+        <div class="nav-before">Previous</div>
+        <div class="nav-title"><a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a></div>
+        <div class="nav-date">{{page.previous.date | date: "%B %-d, %Y"}}</div>
+      </div><!-- .nav-inside -->
+    </div><!-- .nav-previous -->
+  {% endif %}
+
+  {% if page.next.url %}
+    <div class="nav-next">
+      <div class="nav-inside">
+        {% if page.next.banner_image %}
+          <a href="{{ site.baseurl }}{{page.next.url}}" class="nav-thumb" style="background-image: url({{ "/images/posts/" | append: page.next.banner_image }})"></a>
+        {% endif %}
+      <div class="nav-before">Next</div>
+      <div class="nav-title"><a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a></div>
+      <div class="nav-date">{{page.next.date | date: "%B %-d, %Y"}}</div>
+      </div><!-- .nav-inside -->
+    </div><!-- .nav-next -->
+  {% endif %}
+</nav><!-- .post-navigation -->
