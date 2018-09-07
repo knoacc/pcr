@@ -28,9 +28,8 @@ disqus: paciran1
 banner_url: /kontak
 banner_image: images/banner.jpg
 
-# social
+social:
 # instagram_username: paciranmesuwur
-social
   twitter: idlohulhaq
   facebook: nasyrih
 # paginate
