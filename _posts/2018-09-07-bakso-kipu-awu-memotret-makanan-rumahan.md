@@ -2,24 +2,24 @@
 title: "Bakso kok Kipu-Awu! Memotret Makanan Rumahan"
 description: Memotret Makanan Rumahan Memperluas Makna Kenikmatan, Paciran Bergoyang.
 author: koradi
-tags: [kuliner lokal, makna kenikmatan, potret makanan]
+tags: [kuliner lokal, makna kenikmatan, potret makanan, dolar goyang, ]
 banner_image: lips-paciran.jpg?resize=800,460
 image: https://1.bp.blogspot.com/-wRZQDbpMRhY/V6pxBxKAgoI/AAAAAAAAAlc/0cyQiRH-SgwT4h3457J-2NXciVBFJd5ZQCLcB/s1600/bersilat-lidah.jpg
 
 ---
-Menurut beberapa ahli dan orang jang dianggap pintar, tjara terbaik untuk bertahan dari gedjolak ekonomi jang limbung dihantam badai dollar adalah dengan tjara menikmati kelimbungan itu sendiri.
+Menurut beberapa ahli dan orang jang dianggap pintar, tjara terbaik untuk bertahan dari gedjolak ekonomi jang limbung dihantam **badai dollar** adalah dengan tjara menikmati kelimbungan itu sendiri.
 
 Benar, tidaknja. Saja sendiri kurang tahu. Lagipula mata uwang tersajang kita jang bernama Rupiah (Rp) itu adalah salah satu dari sekian banjak mata uwang di dunia ini jang mudah terpantjing gelombang badai. _Ora usah gawok_.<!--more-->
 
 Nilai mata uwang kita memang sudah begitu nasipnja, bahasa anak sekarang "Labil" artinja mudah _galau_. Terlepas dari isu-isu jang ada, kita tetap menjunjung tinggi rasa kebutuhan jang sama akan rupiah, walaupun menjadari mata uwang ini mudah tergerus ketahanan atawa kekuatannja.
 
-Di sini saja ingin berbagi ketjeriaan lain, jang mana untuk bisa menikmati kehangatan dan kenikmatannja harus terlebih dahulu melakukan meditasi tingkat tinggi, memindjam petuah para pini sepuh. "Tak ada kenikmatan tanpa bersusah pajah."
+## Patjiran Bergojang, seheboh Goyangan Dollar
 
-## Patjiran Bergojang
+Di sini saja ingin berbagi ketjeriaan lain, jang mana untuk bisa [menikmati kehangatan](https://www.paciran.com/2018/08/24/teman-tapi-menikah.html) dan kenikmatannja harus terlebih dahulu melakukan meditasi tingkat tinggi, memindjam petuah para pini sepuh. "Tak ada kenikmatan tanpa bersusah pajah."
 
 Sebelumnja perlu kawan semua ketahui apa jang hendak saja bagikan ini adalah sesuatu jang tiap hari bisa kita temui. Terkadang karena sudah terbiasa ditemukan akal pikiran kita djuga mudah melalaikannja begitu sadja.
 
-Makan adalah kebutuhan utama manusia, baik itu makan sendiri atawa makan bersama, asal djangan berdua di kamar hotel dengan istri teman. Itu namanja pagar makan tanaman. Selain tidak baik menurut petuah penjebar dakwah, djuga bisa dilaknat warganet jang mulia. Sebagai tjatatan itu djika kasus anda tersebar di dunia maja.
+Makan adalah kebutuhan utama manusia, baik itu makan sendiri atawa makan bersama, asal djangan [berdua di kamar hotel dengan istri teman](https://www.paciran.com/2018/09/04/eternal-flames-bangles-nostalgia-apa.html). Itu namanja pagar makan tanaman. Selain tidak baik menurut petuah penjebar dakwah, djuga bisa dilaknat warganet jang mulia. Sebagai tjatatan itu djika kasus anda tersebar di dunia maja.
 
 ## Empat Sehat Lima Paripurna
 
