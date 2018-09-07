@@ -53,6 +53,4 @@ if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null)
 _WidgetManager._RegisterWidget('_ContactFormView', new _WidgetInfo('ContactForm1', 'footer1', null, document.getElementById('ContactForm1'), {'contactFormMessageSendingMsg': 'Sending...', 'contactFormMessageSentMsg': 'Your message has been sent.', 'contactFormMessageNotSentMsg': 'Message could not be sent. Please try again later.', 'contactFormInvalidEmailMsg': 'A valid email address is required.', 'contactFormEmptyMessageMsg': 'Message field cannot be empty.', 'title': 'Contact Form', 'blogId': '2209812151361031342', 'contactFormNameMsg': 'Name', 'contactFormEmailMsg': 'Email', 'contactFormMessageMsg': 'Message', 'contactFormSendMsg': 'Send', 'submitUrl': 'https://www.blogger.com/contact-form.do'}, 'displayModeFull'));
 //]]>
 </script>
-
-
 ![Paciran Lamongan]({{ page.image }}){: style="display:block;margin:-30px auto -50px" title="Paciran Lamongan"}
