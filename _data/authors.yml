@@ -1,12 +1,13 @@
 mukidi:
   name: "Jon Mukidi"
-  author_image: "/images/author.jpg"
-  #bio: ""
+  avatar: "/images/author.jpg"
+  bio: "Jon Mukidi is a real-designer, not-photographer, nyocot-er, author of a couple of blogs and the founder of the some-kind-of-stupidity
+  uri: "https://www.knoacc.org"
   facebook: "phateholloway"
   instagram: "ph4t3"
 koradi:
   name: "Kaji Sukadi"
-  author_url : "https://www.paciran.com"
-  author_image: "/images/koradi.jpg"
+  uri: "https://www.paciran.com"
+  avatar: "/images/koradi.jpg"
   bio: "Generasi pesisir jang tidak soeka mabok laoet, nyambi bakoel boekoe Ce-O-De-an"
   facebook: "A1nu22ohman"
