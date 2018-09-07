@@ -1,37 +1,32 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
-<div class="author-box">
-  {% if author.avatar %}
-  <div class="author-info">
-    
-{% if author.avatar contains "://" %}
-        {% assign author_src = author.avatar %}
-      {% else %}
-        {% assign author_src = author.avatar | relative_url %}
-{% endif %}
-   
-    <div class="author-avatar" style="background-image: url({{ author_src }})"><span class="screen-reader-text">{{ author.name }}'s Picture</span></div>
-          <div class="author-details">
-            <h2 class="author-title">About {{ author.name }}</h2>
-            
-            {% if author.bio %}
-            <p class="author-bio">{{ author.bio }}</p>
-            {% endif %}
-            
-            {% if author.uri %}
-            <span class="author-website"><i class="fa-chain" aria-hidden="true"></i> <a href="{{ author.uri }}" target="_blank">Situs</a></span>
-            {% endif %}
-            
-            {% if author.email %}
-            <span class="author-mail"><i class="fa-mail" aria-hidden="true"></i> <a href="mailto:{{ author.email}}">Kirim surel</a>
-            {% endif %}
-            
-            {% if author.facebook %}
-            <span class="author-facebook"><i class="fa-facebook" aria-hidden="true"></i> <a href="{{ author.facebook }}" target="_blank">Facebook</a></span>
-            {% endif %}
-            </div>
-    </div><!-- .author-details -->
-   </div><!-- .author-info -->
-   {% endif %}
- </div><!-- .author-box -->
+
+
+  {% if author.avatar %}    
+    {% if author.avatar contains "://" %}
+      {% assign author_src = author.avatar %}
+    {% else %}
+      {% assign author_src = author.avatar | relative_url %}
+    {% endif %}
+  {% endif %}
+<div class="author-avatar" style="background-image: url({{ author_src }})"><span class="screen-reader-text">{{ author.name }}'s Picture</span></div>
+  <div class="author-details">
+    <h2 class="author-title">About {{ author.name }}</h2>
+      {% if author.bio %}
+      <p class="author-bio">{{ author.bio }}</p>
+      {% endif %}
+      {% if author.uri %}
+      <span class="author-website"><i class="fa-chain" aria-hidden="true"></i> <a href="{{ author.uri }}" target="_blank">Situs</a></span>
+      {% endif %}
+      {% if author.email %}
+      <span class="author-mail"><i class="fa-mail" aria-hidden="true"></i> <a href="mailto:{{ author.email}}">Kirim surel</a>
+      {% endif %}
+      {% if author.facebook %}
+      <span class="author-facebook"><i class="fa-facebook" aria-hidden="true"></i> <a href="{{ author.facebook }}" target="_blank">Facebook</a></span>
+      {% endif %}
+    </div>
+  </div><!-- .author-details -->
+
+
+
