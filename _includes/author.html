@@ -14,14 +14,15 @@
       {% if author.bio %}
       <p class="author-bio">{{ author.bio }}</p>
       {% endif %}
+     <div>
       {% if author.uri %}
-      <span class="author-website"><i class="fa-chain" aria-hidden="true"></i> <a href="{{ author.uri }}" target="_blank">Situs</a></span>
+      <i class="fa-chain square fill-horizontal" aria-hidden="true"></i> <a href="{{ author.uri }}" target="_blank">Situs</a></span>
       {% endif %}
       {% if author.email %}
-      <span class="author-mail"><i class="fa-mail" aria-hidden="true"></i> <a href="mailto:{{ author.email}}">Kirim surel</a>
+      <i class="fa-mail square fill-horizontal" aria-hidden="true"></i> <a href="mailto:{{ author.email}}">Kirim surel</a>
       {% endif %}
       {% if author.facebook %}
-      <span class="author-facebook"><i class="fa-facebook" aria-hidden="true"></i> <a href="{{ author.facebook }}" target="_blank">Facebook</a></span>
+      <i class="fa-facebook square fill-horizontal" aria-hidden="true"></i> <a href="{{ author.facebook }}" target="_blank">Facebook</a></span>
       {% endif %}
     </div>
   </div><!-- .author-details -->
