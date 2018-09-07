@@ -4,6 +4,7 @@ layout: page
 title: Formulir Kontak
 description: Hubungi redaksi Paciran Lamongan
 banner_image: aboutPage.jpg
+image: /images/paciran.jpg
 lang: id
 
 ---
@@ -46,7 +47,7 @@ form{color:#888}
 @media only screen and (max-width:768px){.formcolumn1,.formcolumn2{width:100%;padding:0}}
 </style>
 
-<img src="/images/paciran.jpg" style="display:block;margin:-20px auto" alt="Paciran Lamongan"/>
+<img src="{{ page.image }}" style="display:block;margin:-20px auto" alt="Paciran Lamongan"/>
 
 <script src="https://www.blogger.com/static/v1/widgets/2271878333-widgets.js" type="text/javascript"></script>
 <script type="text/javascript">
