@@ -16,11 +16,12 @@ navigation:
    text: Kontak
    url: /kontak
 # author detail
-author_name: Jon Mukidi
-author_bio: Jon Mukidi is a real-designer, not-photographer, nyocot-er, author of a couple of blogs and the founder of the some-kind-of-stupidity
-# author_url: https://www.knoacc.org
-author_location: Somewhere, Out-there
-author_image: /images/authorimage.png
+author:
+  name: Jon Mukidi
+  bio: Jon Mukidi is a real-designer, not-photographer, nyocot-er, author of a couple of blogs and the founder of the some-kind-of-stupidity
+  uri: https://www.knoacc.org
+  location: Somewhere, Out-there
+  avatar: images/authorimage.png
 # comments
 disqus: paciran1
 # banner ads
@@ -28,7 +29,7 @@ banner_url: /kontak
 banner_image: images/banner.jpg
 
 # social
-instagram_username: ph4t3
+# instagram_username: paciranmesuwur
 twitter_username: idlohulhaq
 facebook_username: nasyrih
 # paginate
