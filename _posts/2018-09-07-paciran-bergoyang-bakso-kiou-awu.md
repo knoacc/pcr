@@ -3,7 +3,7 @@ title: "Patjiran Bergojang, Bakso kok Kipu-Awu!"
 desxription: Memotret Makanan Rumahan, Memperluas Makna Kenikmatan.
 author: koradi
 tags: [kuliner lokal, makna kenikmatan, potret makanan]
-banner_image: lips-paciran.jpg?resize=800,460
+banner_image: /lips-paciran.jpg?resize=800,460
 image: https://1.bp.blogspot.com/-wRZQDbpMRhY/V6pxBxKAgoI/AAAAAAAAAlc/0cyQiRH-SgwT4h3457J-2NXciVBFJd5ZQCLcB/s1600/bersilat-lidah.jpg
 
 ---
