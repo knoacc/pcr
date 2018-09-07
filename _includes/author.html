@@ -1,5 +1,5 @@
-{% if page.author %}
-{% assign author = site.authors[page.author] %}
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
 <div class="author-box">
   <div class="author-info">
     <div class="author-avatar" style="background-image: url({{ author.avatar }})"><span class="screen-reader-text">{{ author.name }}'s Picture</span></div>
@@ -13,18 +13,3 @@
     </div><!-- .author-details -->
    </div><!-- .author-info -->
  </div><!-- .author-box -->
-  {% else %}
-<div class="author-box">
-  <div class="author-info">
-    <div class="author-avatar" style="background-image: url({{ site.author.avatar }})"><span class="screen-reader-text">{{ site.author.name }}'s Picture</span></div>
-          <div class="author-details">
-              <h2 class="author-title">About {{ site.author.name }}</h2>
-                 <p class="author-bio">{{ site.author.bio }}</p>
-                 {% if site.author.email %}<span class="author-website"><i class="fa-mail" aria-hidden="true"></i> <a href="mailto:{{ site.author.email}}">Kirim surel</a>
-                 {% if site.author.uri %}<span class="author-website"><i class="fa-chain" aria-hidden="true"></i> <a href="{{ site.author.uri }}" target="_blank">Situs</a></span>{% endif %}
-                 {% if site.author.facebook %}<span class="author-website"><i class="fa-facebook" aria-hidden="true"></i> <a href="{{ site.author.facebook }}" target="_blank">Facebook</a></span>{% endif %}
-            </div>
-      </div><!-- .author-details -->
-   </div><!-- .author-info -->
- </div><!-- .author-box -->
-{% endif %}
