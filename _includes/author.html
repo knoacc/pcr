@@ -2,13 +2,9 @@
 {% assign author = site.data.authors[author] | default: author %}
 
 {% if author.avatar %}    
-    {% if author.avatar contains "://" %}
       {% assign author_src = author.avatar %}
-    {% else %}
-      {% assign author_src = author.avatar | relative_url %}
-    {% endif %}
   {% endif %}
-<div class="author-avatar" style="background-image: url({{ author_src }}?resize=85,85)"><span class="screen-reader-text">{{ author.name }}'s Picture</span></div>
+<div class="author-avatar" style="background-image: url(https://i1.wp.com/www.knoacc.org/{{ author_src }}?resize=85,85)"><span class="screen-reader-text">{{ author.name }}'s Picture</span></div>
   <div class="author-details">
     <h2 class="author-title">About {{ author.name }}</h2>
       {% if author.bio %}
