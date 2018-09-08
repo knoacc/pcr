@@ -2,7 +2,7 @@
 title: "Jangan Paedo Kopi Manisku, Lidah Kita Beda Bung!"
 description: "Cerita penghobi oleng, antara pemabuk tradisional dan pemadat modernis yang masing-masing lebih suka onani"
 image: https://3.bp.blogspot.com/-CTbxlvqprEw/WJRYEKxB50I/AAAAAAAAALI/P9BfwjtP63wdmmYYAsQ0KfReKXuyGaaIQCLcB/h420-w724-c/Kopi%2Bmbah%2Bito.jpg
-#banner_image:
+#banner_image: kopi-hitam-kental-paciran.jpg
 date: 2018-09-08 03:30:00
 tags: [onani masturbasi, oleng nusantara, pemabuk tadisonal, pemadat modernis]
 ---
