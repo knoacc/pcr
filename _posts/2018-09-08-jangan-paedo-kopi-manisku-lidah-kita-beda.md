@@ -23,7 +23,7 @@ Nah, dalam _perpulitikan_, keadaan-keadaan seperti kisah para penghobi 'sensasi 
 
 Kalau pingin hidupmu ada manfaatnya, _ojo kemlinti_ meneriakkan ini salah itu tak benar. Salah itu kan menurutmu, tak benar itu kan menurut hitung-hitunganmu. Yakin sudah hafal rumus? Jangan-jangan rumus yang dipakai salah, cek lagi..
 
-![Orgasme](http://asset-a.grid.id/crop/0x0:0x0/360x240/photo/intisarifoto/original/19742_4-zona-sensitif-pada-wanita-selain-g-spot.jpg)
+![Orgasme](http://asset-a.grid.id/crop/0x0:0x0/640x420/photo/intisarifoto/original/19742_4-zona-sensitif-pada-wanita-selain-g-spot.jpg)
 
 Kalau pingin berkontribusi, kok lebih enak jadi pembisik ya? Kalau diterima sukur, ditolak dkarena salah rumus tak terlalu malu. Lha wong cuma bisik-bisik berdua kok.
 
