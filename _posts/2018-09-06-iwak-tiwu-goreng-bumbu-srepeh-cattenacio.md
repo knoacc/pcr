@@ -12,7 +12,7 @@ Bangun tidur sore, Kamis (06/09) tak berapa lama kemudian listrik jang sedari si
 
 Langkah kaki berdjalan malas ke ruang tengah, tahu-tahu di medja dapur ada sekumpulan ikan Kembung AKA _Iwak Tiwu_ jang sudah digoreng bumbu Srepeh. Sungguh malam Djumat jang sangat beruntung.
 
-![tiwu goreng srepeh](//i0.wp.com/www.paciran.com/images/posts/tiwu-srepeh-goreng.jpg?resize=900,600)
+[![tiwu goreng srepeh](//i2.wp.com/www.paciran.com/images/posts/tiwu-goreng-srepeh.jpg?resize=900,600)](/images/posts/tiwu.goreng-srepeh.jpg)
 
 Baiklah, demi mendjaga kesehatan, rasanja tidak perlu mendjalankan strategi [pertahanan Grendel](https://id.wikipedia.org/wiki/Catenaccio) ala Italia atawa jang lebih kita kenal dengan istilah _Catenaccio_. _**Catenaccio**_ adalah sistem taktis dalam [permainan sepak bola](https://www.paciran.com/2018/08/19/aplikasi-streaming-bola-eropa-paling-lengkap.html) jang menitikberatkan kekuatan pada pertahanan.
 
