@@ -2,7 +2,7 @@
 title: Iwak Tiwu Goreng Bumbu Srepeh
 description: Tidak ada hubungannja dengan strategi tim Italia Catenaccio
 author: koradi
-banner_image: italia82.JPG?resize=700,360
+banner_image: Italia82.JPG?resize=700,360
 image: https://upload.wikimedia.org/wikipedia/commons/2/21/Italia82.JPG
 date: 2018-09-06 17:31:00
 tags: [kuliner, iwak tiwu, bumbu srepeh, kuliner rumahan, pemadaman listrik]
