@@ -2,6 +2,7 @@
 title: "Bakso kok Kipu-Awu! Memotret Makanan Rumahan"
 description: Memotret Makanan Rumahan Memperluas Makna Kenikmatan, Paciran Bergoyang.
 author: koradi
+date: 2018-09-07 18:23:00
 tags: [kuliner lokal, makna kenikmatan, potret makanan, dolar goyang, ]
 banner_image: lips-paciran.jpg?resize=800,460
 image: https://1.bp.blogspot.com/-wRZQDbpMRhY/V6pxBxKAgoI/AAAAAAAAAlc/0cyQiRH-SgwT4h3457J-2NXciVBFJd5ZQCLcB/s1600/bersilat-lidah.jpg
