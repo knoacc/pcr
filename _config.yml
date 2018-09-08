@@ -64,8 +64,8 @@ whitelists:
  - jekyll-tagging-related_posts
 
 compress_html:
-  clippings: all
+#  clippings: all
   comments: all
   blanklines: true
  # endings: all
-  startings: [head, html, body]
+ # startings: [head, html, body]
