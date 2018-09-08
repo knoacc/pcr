@@ -1,11 +1,11 @@
 ---
 title: "Jangan Paedo Kopi Manisku, Lidah Kita Beda Bung!"
 description: "Cerita penghobi oleng, antara pemabuk tradisional dan pemadat modernis yang masing-masing lebih suka onani"
-image: 
+image: https://3.bp.blogspot.com/-CTbxlvqprEw/WJRYEKxB50I/AAAAAAAAALI/P9BfwjtP63wdmmYYAsQ0KfReKXuyGaaIQCLcB/h420-w724-c/Kopi%2Bmbah%2Bito.jpg
 banner_image: 
 tags: [onani masturbasi, oleng nusantara, pemabuk tadisonal, pemadat modernis]
 ---
-Kopi, harus dinikmati dengan olahan yang sepahit-pahitnya. Kalau ada yang _ngopi_ dengan takaran gula yang plus-plus lantas dikritik. _Layoh_, hidup sudah pahit kok masih _diploro nguyup_ kopi pahit. _Plis deh_, kita punya tingkat hajat yang berbeda, definisi kenikmatan yang berbeda.
+Kopi, harus dinikmati dengan olahan yang sepahit-pahitnya. Kalau ada yang _ngopi_ dengan takaran gula yang plus-plus lantas dikritik. _Layoh_, hidup sudah pahit kok masih _diploro nguyup_ kopi pahit. _Plis deh_, kita punya tingkat hajat yang berbeda, definisi kenikmatan yang berbeda.<!--more-->
 
 > Jangan anggap semua _rondo_ itu hina dan mudah _dikeloni_, sebab nyatanya, banyak juga gadis yang lebih _blong_ rem-nya - **jon mukidi**
 
