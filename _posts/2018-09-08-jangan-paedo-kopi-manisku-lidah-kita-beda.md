@@ -13,7 +13,7 @@ Nek mung "ide", aku nduwe uwakeh. Tapi _yo tak simpen ae_, soalnya, "IDE" adalah
 
 ### Masyarakat Pemabuk yang Ternyata Suka Onani
 
-![Ngombe Towak](https://beritabojonegoro.com/imageoptim/567a03bb-tradisi-minum-tuak-tuban.lg.jpg)
+![Ngombe Towak](https://beritabojonegoro.com/imageoptim/567a03bb-tradisi-minum-tuak-tuban.lg.jpg?resize=720,420)
 
 Hal yang mendasari sebuah gagasan adalah hasil penalaran dari "pengalaman", yang pasti tak semua "pernah mengalami" dan "merasakan sensasi yang sama". Bisa jadi ketika saya bilang "mendem towak kok pok lakoni, gak enak ngombe 'mensen' to bro?" Pasti ada bantahan, sekaligus seratus poin penyangkalan yang diberondongkan dari mulut **tukang mendem tradisional** dan ancaman **persekusi dari 'mendemer' nusantara**.
 
@@ -23,7 +23,7 @@ Nah, dalam _perpulitikan_, keadaan-keadaan seperti kisah para penghobi 'sensasi 
 
 Kalau pingin hidupmu ada manfaatnya, _ojo kemlinti_ meneriakkan ini salah itu tak benar. Salah itu kan menurutmu, tak benar itu kan menurut hitung-hitunganmu. Yakin sudah hafal rumus? Jangan-jangan rumus yang dipakai salah, cek lagi..
 
-![Orgasme](https://asset-a.grid.id/crop/0x0:0x0/740x420/photo/intisarifoto/original/19742_4-zona-sensitif-pada-wanita-selain-g-spot.jpg)
+![Orgasme](https://asset-a.grid.id/crop/0x0:0x0/720x420/photo/intisarifoto/original/19742_4-zona-sensitif-pada-wanita-selain-g-spot.jpg)
 
 Kalau pingin berkontribusi, kok lebih enak jadi pembisik ya? Kalau diterima sukur, ditolak dkarena salah rumus tak terlalu malu. Lha wong cuma bisik-bisik berdua kok.
 
