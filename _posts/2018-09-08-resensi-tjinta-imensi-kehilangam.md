@@ -22,3 +22,5 @@ Padahal sikap egois untuk melantjarkan tudjuan keberhasilan asmara akan terasa s
 Pikun, lumpuh dan Kematian hanjalah perkiraan waktu jang tak perlu kau perkirakan ulang. Ada hal lebih menakutkan dari keduanja, yakni saat kau benar-benar kehilangan perasaan tjinta itu sendiri. Saat kau benar-benar kehilangan rasa itu semua-semua jang tampak atawa tidak tampak akan terasa hampa.
 
 Salam.
+
+_editor: **jon mukidi**
