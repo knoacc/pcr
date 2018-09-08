@@ -2,7 +2,7 @@
 title: "Iwak Tiwu Goreng Bumbu Srepeh"
 description: Tidak ada hubungannja dengan strategi tim Italia Cattenatjio
 author: koradi
-date: 2018-09-08 17:11:00
+date: 2018-09-08 17:31:00
 tags: [kuliner, kuliner rumahan, iwak tiwu, bumbu srepeh]
 ---
 
