@@ -23,4 +23,4 @@ Pikun, lumpuh dan Kematian hanjalah perkiraan waktu jang tak perlu kau perkiraka
 
 Salam.
 
-_editor: **jon mukidi**
+_editor: **jon mukidi**_
