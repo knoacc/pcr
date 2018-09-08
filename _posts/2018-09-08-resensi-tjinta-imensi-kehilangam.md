@@ -2,10 +2,10 @@
 title: "Resensi Tjinta: Dimensi Kehilangan"
 description: Narasi deskriptif tentang bahasa jiwa, sebuah resensi tentang purwarupa tjinta
 author: koradi
-last_modified_at: 2018-09-08 09:45:00
+date: 2018-09-08 09:45:00
 tags: [resensi djiwa, purwarupa tjinta, egoisme tjinta sejati]
 ---
-Hampir setiap bunga apapun jang hidup atawa segala sesuatu jang kau anggap hidup pada akhirnja akan hilang hakekat kehidupannja ~alias telar dunjo~. Begitu djuga dimensi alam perasaan jang kau rasakan dengan segala matjam ungkapan jang kau muliakan dan kau agung-agungkan. Pada suatu waktu rasa kenikmatan itu akan berangsur-angsur hilang, itu kenistjajaan kawan, meskipun sulit kau akui.
+Hampir setiap bunga apapun jang hidup atawa segala sesuatu jang kau anggap hidup pada akhirnja akan hilang hakekat kehidupannja ~alias telar dunjo~. Begitu djuga dimensi alam perasaan jang kau rasakan dengan segala matjam ungkapan jang kau muliakan dan kau agung-agungkan. Pada suatu waktu rasa kenikmatan itu akan berangsur-angsur hilang, itu kenistjajaan kawan, meskipun sulit kau akui.<!--more-->
 
 Dimensi alam pikiran memikat dirinja untuk lebih djauh masuk ke dalam pemahaman tanpa batas si pemilik tubuh. Pembelajaran dimensi alam pikiran membuat akal memilah antara harapan jang sangat diidamkan terkadang berbeda dengan kenjataan, serta ada banjak kebutuhan pikiran jang tidak sesuai dengan kenjamanan diri, meski batin lebih sering menolak suratan jalan hidup. Perasaan ini lebih umum di sebut egois. Keinginan mendjadikan perasaan diri lebih memilih sesuatu pilihan jang terdjadi haruslah sesuai dengan kebutuhan dan kenjamanan pribadi.
 
