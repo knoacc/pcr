@@ -1,7 +1,7 @@
 ---
 title: "Sambel Kelopo, Gorengan Iwak Dodok"
 description: "Esensi dari pasir pantai berwarna abu-abu (lasak) dan kaitannja dengan kedua paha dan titit botjah apa?"
-banner_image: iwak-dodok-sambel-goreng.jpg
+banner_image: iwak-dodok-sambel-kelopo.jpg
 image: https://i0.wp.com/momtravelerblog.files.wordpress.com/2013/09/p4031551.jpg?resize=720,380
 tags: [kuliner lokal, sambel kelopo, gorengan ikan, iwak dodok]
 date: 2018-09-09 18:34:00
