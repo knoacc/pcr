@@ -7,7 +7,7 @@ tags: [kuliner lokal, sambel kelopo, gorengan ikan, iwak dodok]
 date: 2018-09-09 18:34:00
 
 ---
-Tidak semua manusia mempunjai keberanian untuk berbagi kesenangan dengan sukarela. Salah satunja adalah berbagi senjum, salah duanja adalah berbagi foto makanan. Mungkin karena chawatir dianggap pamer. Padahal aksi sosial jang mingsih termasuk dalam kategori amal ibadah ini bisa mendatangkan pundi² pahala jang berlipat ganda. (Bisa masuk partai ganda tjampuran atawa melipat gandakan uwang).
+Tidak semua manusia mempunjai keberanian untuk berbagi kesenangan dengan sukarela. Salah satunja adalah berbagi senjum, salah duanja adalah berbagi foto makanan. Mungkin karena chawatir dianggap pamer. Padahal aksi sosial jang mingsih termasuk dalam kategori amal ibadah ini bisa mendatangkan pundi² pahala jang berlipat ganda. (Bisa masuk partai ganda tjampuran atawa melipat gandakan uwang).<!--more-->
 
 Sambel kelopo dalam sadjian makanan desa diketahui setjara luas sebagai awal penentu segalanja. Sedangkan lauk ikan Dodok gorengan bisa dikatakan sebaliknja: pada achirnja lauklah jang menentukan segalanja. Kita bisa berdebat ber-busa² untuk segala perbedaan terkait makanan rumahan ini. Lagipula perbedaan sudut pandang itu wadjar-wadjar sadja. Pok gelutan sak karepmu, Aku ora melu².
 
