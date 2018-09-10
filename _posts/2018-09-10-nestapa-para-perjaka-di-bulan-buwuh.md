@@ -15,11 +15,11 @@ Betapa kasih Tuhan itu tiada berbatas. Sebagai perjaka yang tidak sepenuhnya per
 
 ### Bulan Buwuh
 
-Sayangnya, nuansa ceria nan indah ini kemudian rusak oleh dering pemberitahuan aplikasi We-A dari nomor yang belum pernah saya kenal sebelumnya. Lebih jelasnya bisa di lihat di hasil tangkapan layar.
+Sayangnya, nuansa ceria nan indah ini kemudian rusak oleh dering pemberitahuan aplikasi We-A dari nomor yang belum pernah saya kenal sebelumnya. Ingat! Nomornya saja. Seketika, reaksi dan nalar terasa lebih lambat diri biasanya. Silahkan dipantau dari nukilan tangkapan layar berikut:
 
 ![Chat WA Biadab](/images/posts/chat-wa-biadab.jpg)
 
-> Alamak, ternyata saia melupakan hal teramat penting. Keringat dingin pun bercucuran...
+> Raelok temenan cuuwwah.. Ternyata saia melupakan hal teramat penting. Keringat dingin pun bercucuran...
 
 Bergegas meninggalkan bangku yang sedianya ingin kududuki sampai subuh menjelang, pulang. Saia bongkar itu laci-laci meja, tas-tas, kantong kemeja, kantong celana, kantong menyan (ups), barangkali ada seselip sepuluh ribuan yang rela menampakkan diri demi acara kondangan besok siangnya. Sejam kemudian, menyerah. Lunglai dalam diam sembari menatap _chat_ biadab yang belum terselesaikan solusinya itu, hingga hampir tertidur.
 
@@ -31,4 +31,4 @@ Berangkat kembali ke warung kopi dengan tetap memegang erat 2 lembar 2 ribuan. J
 
 Lirih berucap: "Bismillahirrohmanirrohim, semoga tak ada lagi nestapa tambahan di malam minggu ini ya Tuhan Semesta Alam. Amin ya Robbal 'alamiiin...."
 
-_cerpenisasi kisah nyata ini akan disambung dengan judul_: **Masuk Pak Ekooh...**
+_cerpenisasi kisah nyata ini akan disambung dengan judul_: **Eks Kawan Karib: Masuk Pak Eko**
