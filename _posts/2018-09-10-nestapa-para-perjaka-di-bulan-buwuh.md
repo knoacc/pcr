@@ -1,15 +1,16 @@
 ---
 title: Nestapa Perjaka di Bulan Buwuh
-description: Ini adalah bulan buwuh, dimana sepanjang jalan pantura akan terlihat gang yang buntu mendadak: Resepsi, derita para perjaka.
+description: "Ini adalah bulan buwuh, dimana sepanjang jalan pantura akan terlihat gang yang buntu mendadak: Resepsi, derita para perjaka."
 image: https://i0.wp.com/kapankamunikah.com/wp-content/uploads/2016/08/img_6286.jpg
 # banner_image:
 tags: [4 ribu rupiah, bulan buwuh, gang buntu mendadak, kondangan nikah, whatsapp chat]
 date: 2018-09-10 17:15:00
+
 ---
 
-Malam minggu kemarin lusa, seharusnya berjalan seperti malam-malam yang lain. Tak ada yang bisa dianggap istimewa, hanya ada ponsel cerdas yang miring, ditemani kopi, rokok, yang sialnya adalah hasil hutangan. Walaupun demikian, toh tetap harus disyukuri, bahwa masih ada warung yang boleh di-utangi.
+Malam minggu kemarin lusa, seharusnya berjalan seperti malam-malam yang lain. Tak ada yang bisa dianggap istimewa, hanya ada ponsel cerdas yang miring, ditemani kopi, rokok, yang sialnya adalah hasil hutangan. Walaupun demikian, toh tetap harus disyukuri, bahwa masih ada warung yang boleh di-utangi.<!--more-->
 
-Sungguh, ini adalah berkah luar bisa dari Sang Maha Pemurah. Serius iki mat! _Pok bayangno toh_: tidak punya kerjaan tetap, duwit hanya tersisa 4 ribu rupiah yang dipersiapkan untuk berjaga-jaga jika ada kejadian ban bocor. Yang artinya, masih harus berjalan ke rumah teman terdekat untuk mencari hutangan jika benar-benar terjadi. Bukankah itu sebuah kenikmatan yang tiada tara? Berhutang kopi di warung kopi sekaligus sebungkus rokok kuli. Istimewa...
+Sungguh, ini adalah berkah luar bisa dari Sang Maha Pemurah. Serius iki mat! _Pok bayangno toh_: tidak punya kerjaan tetap, duwit hanya tersisa 4 ribu rupiah yang dipersiapkan untuk berjaga-jaga jika ada kejadian ban bocor. Yang artinya, masih harus berjalan ke rumah teman terdekat untuk mencari hutangan jika benar-benar terjadi. Bukankah itu sebuah kenikmatan yang tiada tara? **Berhutang kopi di warung kopi sekaligus sebungkus rokok kuli**. Istimewa nian..
 
 Betapa kasih Tuhan itu tiada berbatas. Sebagai perjaka yang tidak sepenuhnya perjaka, kenikmatan dari _oleh ngutang_ di warung langganan adalah bentuk ke-tidak-egois-an-Nya. Masih mau meberi '_wahyu_' (maaf, saia tidak suka kata 'wangsit') kepada pemilik warung kopi untuk bersedia _ngutangi_ saya. Awas, jangan sampai tertukar dengan _ngotangi_, karena makna yang nampak sangatlah berbahaya bagi perjaka yang benar-benar perjaka.
 
