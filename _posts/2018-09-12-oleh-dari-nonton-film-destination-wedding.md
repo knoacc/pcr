@@ -5,7 +5,7 @@ image: https://m.media-amazon.com/images/M/MV5BYzczNTliOTItZGQ1Yi00OGM4LWEyOTgtZ
 description: monolog sotja dan suki dalam menghayati makna cinta dalam alur film destination wedding
 
 ---
-"Bagaiman bisa ini mendjadi djalan penentuan spesies? Bagaimana bisa (kenapa) akal pikiran kita diberi kelantjangan dan diperbolehkan untuk merasa begitu banjak untuk seseorang jang tak merasakan apa2 kepada kita?" utjap Suki (tikus) penuh pertjaja diri.
+"Bagaiman bisa ini mendjadi djalan penentuan spesies? Bagaimana bisa (kenapa) akal pikiran kita diberi kelantjangan dan diperbolehkan untuk merasa begitu banjak untuk seseorang jang tak merasakan apa2 kepada kita?" utjap Suki (tikus) penuh pertjaja diri.<!--more-->
 
 "Itu pasti spesies jang luwar biasa." Djawab Socja (kecoa) enteng sadja.
 
