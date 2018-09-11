@@ -7,7 +7,7 @@ image: https://media.suara.com/pictures/653x366/2018/08/29/31214-pak-eko-1.jpg
 date: 2018-09-11 07:00:00
 ---
 
-Benar kata Kaji Sukadi (penulis paciran.com yang punya cara bertutur ala jaman partai Masyumi, PNI dan PKI berjaya) bahwa **rasa cinta** adalah pengejawantahan ke-egois-an individu yang normal, terkadang menjadi sebuah keharusan. Bagaimana mungkin bisa mendapatkan apa yang menjadi cita-cintanya jika tidak egois? Kalau perlu milik kawan yang tak terlalu karib-pun bisa kena tikung. Demi pemenuhan ego yang suci.
+Benar kata Kaji Sukadi (penulis paciran.com yang punya cara bertutur ala jaman partai Masyumi, PNI dan PKI berjaya) bahwa **rasa cinta** adalah pengejawantahan ke-egois-an individu yang normal, terkadang menjadi sebuah keharusan. Bagaimana mungkin bisa mendapatkan apa yang menjadi cita-cintanya jika tidak egois? Kalau perlu milik kawan yang tak terlalu karib-pun bisa kena tikung. Demi pemenuhan ego yang suci.<!--more-->
 
 Kadang mencintai ini bisa menjadi sebuah narasi cerita yang ingin diceritakan dalam bentuk [ilusi **dicintai**](https://www.paciran.com/2018/09/08/resensi-tjinta-imensi-kehilangam.html) oleh yang sedang **dicinta**. Agar terjaga dari syak-wasangka orang lain bahwa dirinya seorang jomblo. Sebuah ilham yang baru terpikirkan, akan Saia laksanakan pada Minggu pagi ini ketika sedang ngopi di warung kopi langganan. _**Masuk Pak Eko!**_
 
