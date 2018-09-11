@@ -2,6 +2,7 @@
 title: "X-nya Kawan Karib: Masuk Pak Eko?"
 description: Sebuah skenario sulap, ilusi yang sempurna di acara kondangan yang trak butuh bantuan Deddy Corbuzier
 tags: [strategi kondangan, gang buntu, masuk pak eko]
+banner_image: masuk-pak-eko.jpg
 image: https://media.suara.com/pictures/653x366/2018/08/29/31214-pak-eko-1.jpg
 date: 2018-09-11 07:00:00
 ---
