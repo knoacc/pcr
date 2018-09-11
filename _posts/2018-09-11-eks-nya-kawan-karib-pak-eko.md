@@ -23,6 +23,6 @@ Entah Saia yang memanfaatkan situasi untuk menghilangkan status jomblo untuk sem
 
 Hasil akhir dari skenario ini tetap menjadi misteri dan GG, _gak guna_). Berperan untuk siapa? Hasilnya apa? Semua serba GJ, _gak jelas_.
 
-Dan yang paling penting adalah: Siapa yang tertipu? Tak lain tak bukan adalah Saia sendiri. Yang kemudian tersisa hanyalah ujaran: "Masuk Pak Eko"..
+Dan yang paling penting adalah: Siapa yang tertipu? Pada akhirnya, yang tertipu tak lain tak bukan adalah Saia sendiri. Dan yang kemudian tersisa hanyalah ujaran: "Masuk Pak Eko". _Tetep ngenes_
 
 _Bagian 2: **Habis**_
