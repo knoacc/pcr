@@ -2,7 +2,8 @@
 title: "Hikajat Tjatjing: Undjuk Rasa, Radikal"
 description: Perut ialah sumber dari segala macam persoaal. Jika ada yang tak beres, urusan bisa kacau
 author: koradi
-banner_image: the-first-purge-2018.jpg
+image: https://www.paciran.com/images/posts/the-first-purge-2018.jpg
+banner_image: the-first-purge-2018.jpg?resize=640,340
 tags: [tjatjing radikal, hikajat perut, tips sehat]
 date: 2018-09-12 17:03:30
 ---
