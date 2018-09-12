@@ -1,7 +1,8 @@
 ---
 title: "Oleh2 Dari Nonton Film 'Destination Wedding (2018)'"
 tags: [ destination wedding, monolog, sotja suki, bukan ulasan film]
-image: https://m.media-amazon.com/images/M/MV5BYzczNTliOTItZGQ1Yi00OGM4LWEyOTgtZWM0MmY0ZTliM2ZhXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY500_SX750_AL_.jpg
+author: koradi
+image: https://m.media-amazon.com/images/M/MV5BYzczNTliOTItZGQ1Yi00OGM4LWEyOTgtZWM0MmY0ZTliM2ZhXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_AL_.jpg
 description: monolog sotja dan suki dalam menghayati makna cinta dalam alur film destination wedding
 
 ---
