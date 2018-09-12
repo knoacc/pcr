@@ -1,7 +1,7 @@
 ---
 title: "Hikajat Tjatjing: Undjuk Rasa, Radikal"
 description: Perut ialah sumber dari segala macam persoaal. Jika ada yang tak beres, urusan bisa kacau
-banner_image: the-purge-2018.jpg
+banner_image: the-first-purge-2018.jpg
 tags: [tjatjing radikal, hikajat perut, tips sehat]
 date: 2018-09-12 17:03:30
 ---
@@ -23,4 +23,4 @@ Salah satunja sedulur bisa menghindarkan diri dari rasa malas makan siang. Sedul
 
 Salam.
 
-_penyunting: **jon mukidi**, gambar banner: poster **The Firtst Purge (2018)** cropped_
+_penyunting: **jon mukidi**, gambar banner: poster **The Firtst Purge (2018)** cropped, imdb_
