@@ -2,7 +2,7 @@
 title: Nestapa Perjaka di Bulan Buwuh
 description: "Ini adalah bulan buwuh, dimana sepanjang jalan pantura akan terlihat gang yang buntu mendadak: Resepsi, derita para perjaka."
 image: https://i0.wp.com/kapankamunikah.com/wp-content/uploads/2016/08/img_6286.jpg
-# banner_image:
+banner_image: destination-wedding.jpg
 tags: [4 ribu rupiah, bulan buwuh, gang buntu mendadak, kondangan nikah, whatsapp chat]
 date: 2018-09-10 17:15:00
 
