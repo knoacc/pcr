@@ -24,4 +24,4 @@ Salah satunja sedulur bisa menghindarkan diri dari rasa malas makan siang. Sedul
 
 Salam.
 
-_penyunting: **jon mukidi**, gambar banner: poster **The First Purge (2018)** cropped, imdb_
+_penyunting: **jon mukidi**, gambar banner: poster **The First Purge (2018)** cropped, imdb_{: style="color:grey;font-size:smaller} 
