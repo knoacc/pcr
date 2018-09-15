@@ -1,7 +1,7 @@
 ---
 title: Sudah Merasa Djudjur
-description: Djudjur sih… Tapi rela bagi-bagi? Mana mu-iin…
-tags: [djudjur djudjuran, transparansi indormasi, terbuka sedikit]
+description: Djudjur sih, tapi rela bagi-bagi? Mana mu-iin…
+tags: [djudjur djudjuran, transparansi informasi, terbuka sedikit]
 author: koradi
 date: 2018-09-16 03:28:09 +7
 ---
@@ -13,8 +13,11 @@ Kesepakatan bersama itu mendjadi pegangan semua anggota untuk memberikan informa
 
 Pada suatu ketika Saja kembali ketemu dengan situasi jang serupa, namun situasi ini sifatnja lebih pribadi. Dalam beberapa kesempatan mengharuskan Saja setjara pribadi tidak bisa memberikan informasi setjara gamblang. Ada beberapa poin krusial jang tidak perlu Saja diungkapkan. Tjukup memberikan informasi atawa sudut pandang jang lebih luwas artinja tidak spesifik ke pokok persoalan.
 
+### Kedjudjuran Separo Nyali
+
 Ada perasaan lega ketika orang lain sudah bisa menerima paparan jang sudah Saja berikan. Di sisi jang lain terkadang Saja terlampau ingin menang sendiri (egois) terkait kedjudjuran ini. Batin ini terkadang sulit menerima informasi jang mingsih hambar, maksud Saja sebuah kedjudjuran jang belum genap artinja informasi jang diberikan mingsih ada jang kurang djelas atawa sengadja di-tutup2i.
 
+![malu-malu mau](https://i0.wp.com/www.paciran.com/images/malu-malu.jpg){: style="display:inline;float:left;clear:left;margin:0 1em 1em 0"}
 Pada achirnja Saja harus menghormati kedjudjuran jang seperti itu, sebuah kedjudjuran jang belum terbuka. Lagipula toh Saja djuga pernah dan mungkin sering melakukannja di masa lalu barangkali djuga nanti di masa depan. (meski terkadang sulit untuk mengakuinja). Menjadari diri ini kadang mingsih kesal dengan pelbagai informasi jang sudah diberikan oleh orang lain namun mingsih ada jang di-tutup2i, hal ini memberikan pemahaman kepada Saja. Bahwa sudah mendjadi Hak orang lain untuk memberikan informasi setjara sepotong dan hak itu perlu dan harus Saja hormati dengan se-hormat2nja.
 
 Dalam situasi tertentu, kadang bentuk kedjudjuran itu mendjadi tidak terlalu penting, Saja merasa bentuk komunikasi jang sehat itu jang perlu diupajakan. Se-tidak2nja ada itikad baik untuk tidak saling melukai perasaan orang lain. Terlepas informasi jang terlontar itu djudjur, setengah djudjur atawa bohong sekalipun. Saja lebih memilih berdamai dengan kenjataan, dengan tjara menghormati hak bitjara orang lain.
