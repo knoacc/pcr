@@ -2,6 +2,7 @@
 title: Sudah Merasa Djudjur
 description: Djudjur sih… Tapi rela bagi-bagi? Mana mu-iin…
 tags: [djudjur djudjuran, transparansi indormasi, terbuka sedikit]
+author: koradi
 ---
 Pada salah satu riwajat, Saja pernah ketemu diskusi perkara keterbukaan informasi publik, bahasa sederhananja jakni kedjudjuran. Dimana situwasi dan kondisi komunitas saat itu sedang mentjari djalan keluwar terbaik, di achir diskusi lebih tepatnja rapat di warung kopi. Semua jang hadir sepakat untuk menegaskan kembali skema kedjudjuran pada publik.
 
