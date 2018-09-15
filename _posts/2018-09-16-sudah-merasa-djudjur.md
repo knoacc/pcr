@@ -4,6 +4,8 @@ description: Djudjur sih, tapi rela bagi-bagi? Mana mu-iin…
 tags: [djudjur djudjuran, transparansi informasi, terbuka sedikit]
 author: koradi
 date: 2018-09-16 03:28:09 +7
+image: https://www.paciran.com/images/posts/malu-malu.jpg
+
 ---
 Pada salah satu riwajat, Saja pernah ketemu diskusi perkara keterbukaan informasi publik, bahasa sederhananja jakni kedjudjuran. Dimana situwasi dan kondisi komunitas saat itu sedang mentjari djalan keluwar terbaik, di achir diskusi lebih tepatnja rapat di warung kopi. Semua jang hadir sepakat untuk menegaskan kembali skema kedjudjuran pada publik.<!--more-->
 
