@@ -12,7 +12,7 @@ Untuk bahan dokumentasi kerjaan, saya tampilkan di sini. Barangkali nanti pihak 
 
 ### D' Warkop Paciran
 
-[![Logo D Warkop Paciran](https://i0.wp.com/www.paciran.com/images/posts/DWRAKOP.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/DWRAKOP.jpg)
+[![Logo D Warkop Paciran](https://i0.wp.com/www.paciran.com/images/posts/DWARKOP.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/DWRAKOP.jpg)
 
 Catatan: Logo baru. Warung kopi langganan, jadi Saia coba untuk memberikan yang terbaik.
 
@@ -24,7 +24,7 @@ Catatan: Mencoba untuk me-redesain, dan melepaskan pakem
 
 ### Pemerintah Desa Paciran
 
-[![Desa Paciran](https://i0.wp.com/www.paciran.com/images/posts/desa-paciran.jpg?resize=800,120)](https://www.paciran.com/images/posts/desa-paciran.jpg)
+[![Desa Paciran](https://i0.wp.com/www.paciran.com/images/posts/DesaPaciran.jpg?resize=800,120)](https://www.paciran.com/images/posts/Desa-Paciran.jpg)
 
 Catatan: Agak lucu, Desa yang luar biasa ini ternyata tidak punya logo. _face palm_
 
@@ -48,7 +48,7 @@ Catatan: RZ = Hj. Roziqin, tidak punya logo
 
 ### OTO Crab
 
-[![Logo OTO Crab](https://i0.wp.com/www.paciran.com/images/psosts/otocrab.jpg?resize=?resize=800,120)](https:www.paciran.com/images/posts/otocrab.jpg)
+[![Logo OTO Crab](https://i0.wp.com/www.paciran.com/images/posts/otocrab.jpg?resize=800,120)](https:www.paciran.com/images/posts/otocrab.jpg)
 
 Catatan: Tidak punya logo
 
@@ -60,7 +60,7 @@ Catatan: Tidak setor logo
 
 ### LPMD Paciran
 
-[![Logo LPMD Paciran](https://i0.wp.com/www.paciran.com/images/posts/LPMD.jpg?resize=800,120)](https://www.paciran.com/images/posts/JiwaRI.jpg)
+[![Logo LPMD Paciran](https://i0.wp.com/www.paciran.com/images/posts/LPMD.jpg?resize=800,120)](https://www.paciran.com/images/posts/LPMD.jpg)
 
 Catatan: Tidak setor logo, cari logo resmi LPMD online
 
