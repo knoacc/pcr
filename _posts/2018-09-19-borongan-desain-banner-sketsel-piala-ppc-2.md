@@ -48,7 +48,7 @@ Catatan: RZ = Hj. Roziqin, tidak punya logo
 
 ### OTO Crab
 
-[![Logo OTO Crab](https://i0.wp.com/www.paciran.com/images/posts/otocrab.jpg?resize=800,120)](https:www.paciran.com/images/posts/otocrab.jpg)
+[![Logo OTO Crab](https://i0.wp.com/www.paciran.com/images/posts/otocrab.jpg?resize=800,120)](https://www.paciran.com/images/posts/otocrab.jpg)
 
 Catatan: Tidak punya logo
 
@@ -76,6 +76,6 @@ Karena memang sangat mendadak, _yo mok ngono iku dadine_. Apalagi dari sekian sp
 
 Melek dalu nabrak subuh, oleh jatah masang 2 sketsel dalam event yang rencananya akan diikuti oleh peserta yang berasal dari 4 Kabupaten. Lumayanlah...
 
-[![Logo Paciran Lamongan](https://i0.wp.com/www.paciran.com/images/posts/paciran.com.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/paciran.com.jpg)
+[![Logo Paciran Lamongan](https://i0.wp.com/www.paciran.com/images/posts/paciran.com.jpg?resize=800,120)](https://www.paciran.com/images/posts/paciran.com.jpg)
 
 Awas gak dipajang, pok titeni pan njaluk gawekno desain maneh. Hahaha...
