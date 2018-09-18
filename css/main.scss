@@ -253,7 +253,7 @@
     word-wrap: break-word;
 }
 
-.entry-title {
+.entry-title:hover, .entry-title:focus {
     opacity: 0.7;
 }
 
