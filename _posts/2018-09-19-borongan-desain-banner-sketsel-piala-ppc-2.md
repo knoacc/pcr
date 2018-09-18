@@ -12,61 +12,61 @@ Untuk bahan dokumentasi kerjaan, saya tampilkan di sini. Barangkali nanti pihak 
 
 ### D' Warkop Paciran
 
-[Logo D Warkop Paciran](https://i0.wp.com/www.paciran.com/images/posts/DWRAKOP.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/DWRAKOP.jpg)
+[![Logo D Warkop Paciran](https://i0.wp.com/www.paciran.com/images/posts/DWRAKOP.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/DWRAKOP.jpg)
 
 Catatan: Logo baru. Warung kopi langganan, jadi Saia coba untuk memberikan yang terbaik.
 
 ### Tim HORE
 
-[TIM HORE Paciran](https://i0.wp.com/www.paciran.com/images/posts/TIMHORE.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/TIMHORE.jpg)
+[![TIM HORE Paciran](https://i0.wp.com/www.paciran.com/images/posts/TIMHORE.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/TIMHORE.jpg)
 
 Catatan: Mencoba untuk me-redesain, dan melepaskan pakem
 
 ### Pemerintah Desa Paciran
 
-![Desa Paciran](https://i0.wp.com/www.paciran.com/images/posts/desa-paciran.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/
+[![Desa Paciran](https://i0.wp.com/www.paciran.com/images/posts/desa-paciran.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/
 
 Catatan: Agak lucu, Desa yang luar biasa ini ternyata tidak punya logo. _face palm_
 
 ### Kabar Paciran
 
-![Logo PPC](https://i0.wp.com/www.paciran.com/images/posts/KABAR_PACIRAN.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/
+[![Logo PPC](https://i0.wp.com/www.paciran.com/images/posts/KABAR_PACIRAN.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/KABAR_PACIRAN.jpg)
 
 Catatan: Re-desain tanpa menghilangkan ciri khas-nya
 
 ### Paciran Pingpong Club
 
-![Logo PPC](https://i0.wp.com/www.paciran.com/images/posts/PPC2.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/TIMHORE.jpg)
+[![Logo PPC](https://i0.wp.com/www.paciran.com/images/posts/PPC2.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/TIMHORE.jpg)
 
 Catatan: Penyeleggara event
 
 ### RZ Crab
 
-![Logo RZ Crab](https://i0.wp.com/www.paciran.com/images/posts/RZcrab.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/
+[![Logo RZ Crab](https://i0.wp.com/www.paciran.com/images/posts/RZcrab.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/RZcrab.jpg)
 
 Catatan: RZ = Hj. Roziqin, tidak punya logo
 
 ### OTO Crab
 
-![Logo OTO Crab](https://i0.wp.com/www.paciran.com/images/psosts/otocrab.jpg?resize=?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/
+[![Logo OTO Crab](https://i0.wp.com/www.paciran.com/images/psosts/otocrab.jpg?resize=?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/otocrab.jpg)
 
 Catatan: Tidak punya logo
 
 ### Sri Welas
 JiwaRI.jpg
-![Sri Welas](https://i0.wp.com/www.paciran.com/images/posts?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/
+[![Sri Welas](https://i0.wp.com/www.paciran.com/images/posts?sri-welas.jpgresize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/sri-welas.jpg)
 
 Catatan: Tidak setor logo
 
 ### LPMD Paciran
 
-![Logo LPMD Paciran](https://i0.wp.com/www.paciran.com/images/posts/sri-welas.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/JiwaRI.jpg
+[![Logo LPMD Paciran](https://i0.wp.com/www.paciran.com/images/posts/LPMD.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/JiwaRI.jpg)
 
 Catatan: Tidak setor logo, cari logo resmi LPMD online
 
 ### Jiwa RI
 
-lLogo Jiwari](https://i0.wp.com/www.paciran.com/images/posts/JiwaRI.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/JiwaRI.jpg
+[![Logo Jiwari](https://i0.wp.com/www.paciran.com/images/posts/JiwaRI.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/JiwaRI.jpg)
 
 Catatan: Tidak punya logo, karena pakai RI jadi ingat warna Bendera Nasional
 
