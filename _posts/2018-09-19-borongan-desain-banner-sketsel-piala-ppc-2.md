@@ -24,7 +24,7 @@ Catatan: Mencoba untuk me-redesain, dan melepaskan pakem
 
 ### Pemerintah Desa Paciran
 
-[![Desa Paciran](https://i0.wp.com/www.paciran.com/images/posts/Desa-
+[![Desa Paciran](https://i0.wp.com/www.paciran.com/images/posts/Desa-Paciran.jpg?resize=800,120)](https://www.paciran.com/images/posts/Desa-Paciran.jpg)
 
 Catatan: Agak lucu, Desa yang luar biasa ini ternyata tidak punya logo. _face palm_
 
