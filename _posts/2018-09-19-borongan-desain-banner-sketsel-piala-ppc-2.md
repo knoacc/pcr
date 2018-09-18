@@ -17,7 +17,7 @@ Jadilah acara borongan desain banner sketsel _sak losen_, lembur. Untuk bahan do
 
 ### D' Warkop Paciran
 
-[![Logo D Warkop Paciran](https://i0.wp.com/www.paciran.com/images/posts/DWARKOP.jpg?resize=800,120)](https://i0.wp.com/www.paciran.com/images/posts/DWRAKOP.jpg)
+[![Logo D Warkop Paciran](https://i0.wp.com/www.paciran.com/images/posts/DWARKOP.jpg?resize=800,120)](https://www.paciran.com/images/posts/DWARKOP.jpg)
 
 Catatan: Logo baru. Warung kopi langganan, jadi Saia coba untuk memberikan yang terbaik.
 
