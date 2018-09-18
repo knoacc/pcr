@@ -1,8 +1,8 @@
 ---
 title: Borongan Desain Sketsel Event Piala PPC II
 description: "Dadakan, hajar 12 banner sponsor untuk event Piala PPC 2"
-image: https://3.bp.blogspot.com/-AF-_s700foM/V52yZuvyHCI/AAAAAAAAABM/zQsM2JepxhoysGTRslUKLDKRJzaPXUqsACLcB/s640/desain.jpg
-banner_image: TIMHORE.jpg?resize=640,300
+image: https://3.bp.blogspot.com/-AF-_s700foM/V52yZuvyHCI/AAAAAAAAABM/zQsM2JepxhoysGTRslUKLDKRJzaPXUqsACLcB/s720/desain.jpg
+banner_image: TIMHORE.jpg?resize=710,320
 tags: desain grafis, banner sketsel, piala ppc, tenis meja
 ---
 Saia mendapatkan job untuk men-desain banner sketsel yang akan dipasang pada event Piala PPC II yang di gelar di GOR Ayu Indah. Tak cuma satu desain, _ono saklosen (12) seng tak garap_.<!--more--> 
