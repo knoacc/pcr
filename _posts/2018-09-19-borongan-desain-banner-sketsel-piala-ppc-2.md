@@ -83,4 +83,4 @@ Melek dalu nabrak subuh, oleh jatah masang 2 sketsel dalam event yang rencananya
 
 [![Logo Paciran Lamongan](https://i0.wp.com/www.paciran.com/images/posts/paciran.com.jpg?resize=800,120)](https://www.paciran.com/images/posts/paciran.com.jpg)
 
-Awas gak dipajang, pok titeni pan njaluk gawekno desain maneh. Hahaha...
+> Tapi pas tak itung maneh kok karek 10 banner yo?
