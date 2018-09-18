@@ -67,7 +67,7 @@ Catatan: Tidak setor logo, cari logo resmi LPMD online
 
 ### Jiwa RI
 
-[![Logo Jiwari](https://i0.wp.com/www.paciran.com/images/posts/JiwaRI.jpg?resize=800,120)](https://www.paciran.com/images/posts/JiwaRI.jpg)
+[![Logo Jiwari](https://i0.wp.com/www.paciran.com/images/posts/jiwaRI.jpg?resize=800,120)](https://www.paciran.com/images/posts/jiwaRI.jpg)
 
 Catatan: Tidak punya logo, karena pakai RI jadi ingat warna Bendera Nasional
 
