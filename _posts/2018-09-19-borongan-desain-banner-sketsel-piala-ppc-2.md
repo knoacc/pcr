@@ -7,9 +7,13 @@ tags: desain grafis, banner sketsel, piala ppc, tenis meja
 ---
 Saia mendapatkan job untuk men-desain banner sketsel yang akan dipasang pada event Piala PPC II yang di gelar di GOR Ayu Indah. Tak cuma satu desain, _ono saklosen (12) seng tak garap_.<!--more--> 
 
-Sebenarnya beberapa hari yang lalu, saya juga menggarap desain-desain untuk event Piala PPC ke-2 ini secara sukarela. Desain untuk kaos seragam panitia, baliho dan pernik lain seperti logo-logo juga Saia yang _nggarap_
+Sebenarnya beberapa hari yang lalu, saya juga sudah menggarap desain-desain untuk event Piala PPC ke-2 ini secara **sukarela**. Desain untuk kaos seragam panitia, baliho dan pernik lain seperti logo-logo juga Saia yang _nggarap_. Tetapi memang tidak ada niatan untuk ikut campur dalam pembuatan banner sketsel.
 
-Untuk bahan dokumentasi kerjaan, saya tampilkan di sini. Barangkali nanti pihak sponsor yang ingin memakai ulang desain yang saya pakai. Syukur-syukur memberikan job-job-an untuk men-desain untuk event yang lain.
+### Ceritanya
+
+Selesai menggarap desain untuk **D'Warkop** dan **Tim Hore**, hasilnya pun disetor ke panitia event Piala PPC II agar bisa segera di cetak. Terburu, sebab waktu pelaksanaannya (23 September 2018) memang sudah mepet. Ternyata, ada beberapa sponsor yang tidak menyetorkan desain untuk banner sketsel dan jika dipasrahkan ke percetakan ada tambahan biaya sebesar... lumayanlah. Saia pun menawari untuk meng-_handle_ semua desain yang tersisa dengan **imbalan** 2 (dua) spot iklan sketsel. 
+
+Jadilah acara borongan desain banner sketsel _sak losen_, lembur. Untuk bahan dokumentasi kerjaan, saya tampilkan di sini. Barangkali dikemudian hari ada pihak sponsor yang ingin memakai ulang desain-desain ini. Syukur-syukur mau memberikan job-job-an baru lagi.
 
 ### D' Warkop Paciran
 
@@ -71,7 +75,7 @@ Catatan: Tidak setor logo, cari logo resmi LPMD online
 
 Catatan: Tidak punya logo, karena pakai RI jadi ingat warna Bendera Nasional
 
-Karena memang sangat mendadak, _yo mok ngono iku dadine_. Apalagi dari sekian sponsor yang ada, tak satupun memberikan logo dari badan usahanya. Alhasil Saia pun _kebobohan nggawekno logo menisan_.
+Ssponsor yang ada di atas tidak memberikan logo dari badan usahanya, Saia pun _kebobohan nggawekno logo menisan_. Karena memang  mendadak dan digarap cepat, _yo mok ngono iku dadine_.
 
 ### Lumayan oleh spot iklan gratis
 
