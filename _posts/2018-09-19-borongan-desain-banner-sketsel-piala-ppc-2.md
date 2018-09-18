@@ -24,7 +24,7 @@ Catatan: Mencoba untuk me-redesain, dan melepaskan pakem
 
 ### Pemerintah Desa Paciran
 
-[![Desa Paciran](https://i0.wp.com/www.paciran.com/images/posts/DesaPaciran.jpg?resize=800,120)](https://www.paciran.com/images/posts/Desa-Paciran.jpg)
+[![Desa Paciran](https://i0.wp.com/www.paciran.com/images/posts/Desa-
 
 Catatan: Agak lucu, Desa yang luar biasa ini ternyata tidak punya logo. _face palm_
 
@@ -54,7 +54,7 @@ Catatan: Tidak punya logo
 
 ### Sri Welas
 JiwaRI.jpg
-[![Sri Welas](https://i0.wp.com/www.paciran.com/images/posts?sri-welas.jpgresize=800,120)](https://www.paciran.com/images/posts/sri-welas.jpg)
+[![Sri Welas](https://i0.wp.com/www.paciran.com/images/posts/ri-welas.jpg?resize=800,120)](https://www.paciran.com/images/posts/sri-welas.jpg)
 
 Catatan: Tidak setor logo
 
