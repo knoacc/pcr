@@ -53,8 +53,8 @@ Catatan: RZ = Hj. Roziqin, tidak punya logo
 Catatan: Tidak punya logo
 
 ### Sri Welas
-JiwaRI.jpg
-[![Sri Welas](https://i0.wp.com/www.paciran.com/images/posts/ri-welas.jpg?resize=800,120)](https://www.paciran.com/images/posts/sri-welas.jpg)
+
+[![Sri Welas](https://i0.wp.com/www.paciran.com/images/posts/sri-welas.jpg?resize=800,120)](https://www.paciran.com/images/posts/sri-welas.jpg)
 
 Catatan: Tidak setor logo
 
