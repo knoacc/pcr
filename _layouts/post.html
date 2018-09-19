@@ -19,7 +19,7 @@ layout: default
                     </div><!-- .entry-meta -->
                 </header><!-- .entry-header -->
                 <div class="entry-content">
-                    {{content}}
+                    {% include postAd.html %}{{content}}
                 </div><!-- .entry-content -->
                 <footer class="entry-footer">
                     {% if site.related_posts.size >= 1 %}
