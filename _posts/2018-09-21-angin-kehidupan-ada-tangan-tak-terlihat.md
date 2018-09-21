@@ -5,7 +5,7 @@ image: https://i.ytimg.com/vi/V6gjzNm6dA0/maxresdefault.jpg
 description: Kucing pesisir utara gentjatan sendjata, dua burung kenari memadu kasih
 date: 2018-09-21 14:59:00
 ---
-Kering dan berdebu, musim kemarau telah masuk achir bulan September. Djumat (21/09/2018) siang. Hawa gersang dan panas mengintai, menelisik, menusuk di-sela² pertahanan setiap sepisies jang sedang melintas di djalur pantura.
+Kering dan berdebu, musim kemarau telah masuk achir bulan September. Djumat (21/09/2018) siang. Hawa gersang dan panas mengintai, menelisik, menusuk di-sela² pertahanan setiap sepisies jang sedang melintas di djalur pantura.<!--more-->
 
 Senjum geli puluhan botjah semburat, serempak berlari riang, suara djedjak kaki mereka gaduh. Dua burung kenari bertatap mata hendak memadu kasih, bujar, terbang, entah ke antah berantah mana. jang djelas botjah² nakal itu tidak akan tahu. 
 
