@@ -18,7 +18,7 @@ Menatap tepat di udjung djalan gang jang belum terpasang papan nama. Dua ekor ku
 
 Ketika menulis ini aku kembali teringat dengan salah satu lagu lama jang pernah aku dengar dari film **The Shape Of Water**. Rilis tahun 2017. Dendang lagu ini dalam bahasa Perancis, lagu ini hanja bisa aku njanjikan dengan gremeng, selain tidak hafal lirik aku djuga se-benar²nja tak mengerti arti dan maknanja.
 
-{% include video id="V6gjzNm6dA0?controls=0&showinfo=0&autoplay=1" %} 
+{% include video id="V6gjzNm6dA0?controls=0&showinfo=0&autoplay=1" provider="youtube" %} 
 
 Sebagaimana [seni grafis](https://www.paciran.com/2018/09/19/borongan-desain-banner-sketsel-piala-ppc-2.html) jang bisa dinikmati oleh orang dari perbagai belahan dunia mana pun. Begitu djuga seni musik. Pokok'e lambe iso muni lan seng penting iso gaja gremeng. "Di sana ada harapan dan Impianku. tahu, tahu, tahu." kok dadi dangdut.
 
