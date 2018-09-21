@@ -1,5 +1,6 @@
 ---
-title: "Angin Kehidupan: Ada Tangan²  Tak Terlihat"
+title: "Angin Kehidupan: Ada Tangan² Tak Terlihat"
+author: koradi
 tags: [pantai utara, angin utara, la javanaise, gentjatan sendjata]
 image: https://i.ytimg.com/vi/V6gjzNm6dA0/maxresdefault.jpg
 description: Kucing pesisir utara gentjatan sendjata, dua burung kenari memadu kasih
