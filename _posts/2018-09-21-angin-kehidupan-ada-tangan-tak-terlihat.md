@@ -11,7 +11,7 @@ Senjum geli puluhan botjah semburat, serempak berlari riang, suara djedjak kaki 
 
 Sesekali semilir angin utara mampir mengelus lembut dan menentramkan. Sepoi² angin utara mendjadi penawar djandji gerimis jang tak kundjung datang. Pelepah pohon kelapa bergojang melambai kepada sesama, daunnja saling berebut belaian, melambai sedjauh kemampuan.
 
-Menatap tepat di udjung djalan gang jang belum terpasang papan nama. Dua ekor kutjing djantan berebut tempat kentjing kembali tenang. Njoja besar menggujur mereka dengan air comberan, dalam situasi darurat kedua kutjing djantan sepakat melaksanakan gentjatan sendjata, tentu sadja itikat damai itu bukan kehendak mereka sendiri.
+Menatap tepat di udjung djalan gang jang belum terpasang papan nama. Dua ekor kutjing djantan berebut tempat kentjing kembali tenang. Njoja besar menggujur mereka dengan air comberan, dalam situasi darurat kedua kutjing djantan sepakat melaksanakan gentjatan sendjata, tentu sadja itikat damai itu [bukan kehendak mereka sendiri](https://www.paciran.com/2018/09/15/sudah-merasa-djudjur.html)
 
 ### [La Javanaise](https://www.youtube.com/watch?v=V6gjzNm6dA0)
 
@@ -19,7 +19,7 @@ Ketika menulis ini aku kembali teringat dengan salah satu lagu lama jang pernah 
 
 {% include video id="V6gjzNm6dA0?controls=0&showinfo=0&autoplay=1" %} 
 
-Sebagaimana seni grafis jang bisa dinikmati oleh orang dari perbagai belahan dunia mana pun. Begitu djuga seni musik. Pokok'e lambe iso muni lan seng penting iso gaja gremeng. "Di sana ada harapan dan Impianku. tahu, tahu, tahu." kok dadi dangdut.
+Sebagaimana [seni grafis](https://www.paciran.com/2018/09/19/borongan-desain-banner-sketsel-piala-ppc-2.html) jang bisa dinikmati oleh orang dari perbagai belahan dunia mana pun. Begitu djuga seni musik. Pokok'e lambe iso muni lan seng penting iso gaja gremeng. "Di sana ada harapan dan Impianku. tahu, tahu, tahu." kok dadi dangdut.
 
 
 > Iringan musik iyalah: **La Javanaise**, penjanji : **Serge Gainsbourg**, tahun rilis : 1968
