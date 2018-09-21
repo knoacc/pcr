@@ -13,11 +13,11 @@ Sesekali semilir angin utara mampir mengelus lembut dan menentramkan. Sepoi² an
 
 Menatap tepat di udjung djalan gang jang belum terpasang papan nama. Dua ekor kutjing djantan berebut tempat kentjing kembali tenang. Njoja besar menggujur mereka dengan air comberan, dalam situasi darurat kedua kutjing djantan sepakat melaksanakan gentjatan sendjata, tentu sadja itikat damai itu bukan kehendak mereka sendiri.
 
-### ***********[La Javanaise](https://www.youtube.com/watch?v=V6gjzNm6dA0)
+### [La Javanaise](https://www.youtube.com/watch?v=V6gjzNm6dA0)
 
 Ketika menulis ini aku kembali teringat dengan salah satu lagu lama jang pernah aku dengar dari film **The Shape Of Water**. Rilis tahun 2017. Dendang lagu ini dalam bahasa Perancis, lagu ini hanja bisa aku njanjikan dengan gremeng, selain tidak hafal lirik aku djuga se-benar²nja tak mengerti arti dan maknanja.
 
-{% include video id="V6gjzNm6dA0?controls=0&showinfo=0&autoplay=1" autoplay webkitAllowFullScreen mozallowfullscreen allowFullScreen %} 
+{% include video id="V6gjzNm6dA0?controls=0&showinfo=0&autoplay=1" %} 
 
 Sebagaimana seni grafis jang bisa dinikmati oleh orang dari perbagai belahan dunia mana pun. Begitu djuga seni musik. Pokok'e lambe iso muni lan seng penting iso gaja gremeng. "Di sana ada harapan dan Impianku. tahu, tahu, tahu." kok dadi dangdut.
 
