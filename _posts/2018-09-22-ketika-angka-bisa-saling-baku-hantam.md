@@ -12,7 +12,7 @@ Suasana alam kemerdekaan republik Indonesia dalam beberapa bulan kedepan akan le
 
 Seperti kita ketahui bersama bahwa akibat dari gelaran pesta demokrasi terkadang sangat tidak sesuai dengan asas dasar demokrasi itu sendiri, sialnja imbas dari pemilihan pemimpin itu sendiri sering kali harus ditebus dengan perpetjahan antar tetangga, kawan atawa saudara.
 
-{% include video id="nBQ5l_Fi3yg" autoplay controls="no" provider="youtube" %}
+{% include video id="nBQ5l_Fi3yg" provider="youtube" %}
 
 Dampak dari perselisihan tersebut kadang hanja dianggap normal dan biasa sadja bagi para politisi. “kedjadian seperti itu sudah biasa, lagipula itu bagian dari strategi pemenangan.” Begitu jang biasa dikatakan para politisi saat [memberikan keterangan](https://www.paciran.com/2018/09/15/sudah-merasa-djudjur.html) kepada para pentjari warta. Kurang Badjingan apalagi hajo...
 
