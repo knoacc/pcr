@@ -26,3 +26,5 @@ Misalnja sadja saat sampean pesan minuman di kedai kopi dengan santainja, “Kop
 Melihat kondisi dan situasi perpolitikan ke depan jang sulit diprediksi sebaiknja kawan² mentjari angka lain agar tidak terdjadi salah duga dan salah sangkah. Mentjegah tentu lebih baik daripada tumbuh bibit² dongkol dalam hati. Saranku lebih baik bikin kopi di rumah sadja, selain mengirit [biaja pengeluaran ngopi](https://www.paciran.com/2018/09/10/nestapa-para-perjaka-di-bulan-buwuh.html) djuga lebih aman dan menentramkan.
 
 Salam.
+
+_editor: jon mukidi_{: style="color:skyblue"} 
