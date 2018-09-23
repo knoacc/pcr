@@ -3,7 +3,7 @@ title: Ketika Angka Bisa Saling Baku Hantam
 author: koradi
 description: imbas negatif polah badut2 politi tetap menghampiri, kopi satu bang!
 tags: [angka keramat, calon presiden, badut politik, bertetangga]
-image: kecebong-vs-kampret.jpg
+image: images/posts/kecebong-vs-kampret.jpg
 banner_image: kecebong-vs-kampret.jpg?resize=640,360
 date: 2018-09-22 21:55:08
 ---
