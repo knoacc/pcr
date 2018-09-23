@@ -9,6 +9,7 @@ date: 2018-09-22 21:55:08
 ---
 Suasana alam kemerdekaan republik Indonesia dalam beberapa bulan kedepan akan lebih sering di isi dengan gegap gembita gelaran pesta demokrasi. Kita² ini peduli atawa tidak peduli dengan tingkah pola para badut² politikus tersebut tetap sadja dampak negatifnja akan datang djuga menghampiri ke ruang hidup kita², walaupun tanpa kita undang sekalipun. Terimo nasip, apes to!
 <!--more-->
+
 Seperti kita ketahui bersama bahwa akibat dari gelaran pesta demokrasi terkadang sangat tidak sesuai dengan asas dasar demokrasi itu sendiri, sialnja imbas dari pemilihan pemimpin itu sendiri sering kali harus ditebus dengan perpetjahan antar tetangga, kawan atawa saudara.
 
 {% include video id="nBQ5l_Fi3yg" provider="youtube" %}
