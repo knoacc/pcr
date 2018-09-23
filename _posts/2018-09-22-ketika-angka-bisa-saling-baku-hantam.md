@@ -3,8 +3,8 @@ title: Ketika Angka Bisa Saling Baku Hantam
 author: koradi
 description: imbas negatif polah badut2 politi tetap menghampiri, kopi satu bang!
 tags: [angka keramat, calon presiden, badut politik, bertetangga]
-image: https://4.bp.blogspot.com/-nM7dQ9FDOZE/V3AJGpYNQRI/AAAAAAAAAGk/bvKkv0guoS85TqgyUX2amjlQ4_vK3bjKwCLcB/s1600/12592443_828198947307513_895058449715757920_n.jpg
-banner_image: kecebong-vs-kampret.jpg
+image: kecebong-vs-kampret.jpg
+banner_image: kecebong-vs-kampret.jpg?resize=640,360
 date: 2018-09-22 21:55:08
 ---
 Suasana alam kemerdekaan republik Indonesia dalam beberapa bulan kedepan akan lebih sering di isi dengan gegap gembita gelaran pesta demokrasi. Kita² ini peduli atawa tidak peduli dengan tingkah pola para badut² politikus tersebut tetap sadja dampak negatifnja akan datang djuga menghampiri ke ruang hidup kita², walaupun tanpa kita undang sekalipun. Terimo nasip, apes to!
