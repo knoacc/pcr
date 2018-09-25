@@ -28,10 +28,10 @@ author:
 # comments
 disqus: paciran1
 # banner ads
-banner_url: https://www.paciran.com/images/baliho.jpg
-banner_image: https://i0.wp.com/www.paciran.com/images/baliho.jpg?resize=320,480
+#banner_url: https://www.paciran.com/images/baliho.jpg
+#banner_image: https://i0.wp.com/www.paciran.com/images/baliho.jpg?resize=320,480
 
-postad_url: tel:+6289688128000
+postad_url: /kontak
 postad_image: https://i1.wp.com/www.paciran.com/images/banner.jpg?resize=300,250
 postad_alt: Pasang Iklan Bulanan
 
