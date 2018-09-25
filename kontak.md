@@ -4,7 +4,7 @@ layout: page
 title: Formulir Kontak
 description: Hubungi redaksi Paciran Lamongan
 banner_image: aboutPage.jpg
-image: /images/paciran.jpg
+image: https://i0.wp.com/www.paciran.com/images/paciran.jpg?resize=740,214
 lang: id
 
 ---
