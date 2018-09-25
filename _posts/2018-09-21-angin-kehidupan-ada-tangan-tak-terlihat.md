@@ -3,7 +3,7 @@ title: "Angin Kehidupan: Ada Tangan² Tak Terlihat"
 author: koradi
 tags: [pantai utara, angin utara, la javanaise, gentjatan sendjata]
 image: https://i.ytimg.com/vi/V6gjzNm6dA0/maxresdefault.jpg
-description: Kucing pesisir utara gentjatan sendjata, dua burung kenari memadu kasih
+description: Kucing pesisir utara gentjatan sendjata, dua burung kenari memadu kasih di losmen lokal
 date: 2018-09-21 14:59:00
 ---
 Kering dan berdebu, musim kemarau telah masuk achir bulan September. Djumat (21/09/2018) siang. Hawa gersang dan panas mengintai, menelisik, menusuk di-sela² pertahanan setiap sepisies jang sedang melintas di djalur pantura.<!--more-->
@@ -25,4 +25,4 @@ Sebagaimana [seni grafis](https://www.paciran.com/2018/09/19/borongan-desain-ban
 
 > Iringan musik iyalah: **La Javanaise**, penjanji : **Serge Gainsbourg**, tahun rilis : 1968
 
-_editor: john mukidi_{: style="color: skyblue"} 
+_editor: john mukidi_{:.editor} 

@@ -32,4 +32,4 @@ description: monolog sotja dan suki dalam menghayati makna cinta dalam alur film
 
 Intinja kau harus menemukan dirimu sendiri dulu baru bisa melandjutkan ke tahap mentjintai. Sederhananja begini djika kau bahagia, maka kau bisa membagi kebahagianmu itu kepada orang jang kau tjintai. Djangan berpikir sebaliknja, bahwa kau akan [merasa bahagia](https://www.paciran.com/2018/08/24/teman-tapi-menikah.html) djika bisa bersamanja. Sialnja untuk bisa menemukan djatidiri terkadang membutuhkan waktu jang teramat lama, dan aku kira itu lebih baik daripada tidak pernah menemukan sosok djatidirimu sendiri, lagipula niat baik itu bukanlah membuang waktu sia2. Makna adalah mitos.
 
-_editor: **jon mukidi**, catatan: **Destination Wedding** diperankan aktor **Keanu Reeves** dan aktris **Winona Ryder**_
+_editor: **jon mukidi**, catatan: **Destination Wedding** diperankan aktor **Keanu Reeves** dan aktris **Winona Ryder**_{:.editor}

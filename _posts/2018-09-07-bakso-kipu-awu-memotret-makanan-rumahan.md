@@ -44,4 +44,4 @@ Demikian kiranja tjerita ini saja tulis, atas waktu dan perhatiannja, tidak saja
 
 Salam.
 
-_editor: **Jon Mukidi**_
+_editor: jon Mukidi_{:.editor}

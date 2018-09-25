@@ -29,4 +29,4 @@ Tapi sesekali daja pikir kita memang harus berani keluar dari tjara berpikir kew
 
 Sebenarnja kalian telah melakukannja atau belum? Aku penasaran sadja, bagaimana rasanja? Reaksi orang jang kau pegang dahinja itu bagaimana?
 
-_penyunting: **jon mukidi**_{: style="color:grey"}
+_penyunting: **jon mukidi**_{:.editor}

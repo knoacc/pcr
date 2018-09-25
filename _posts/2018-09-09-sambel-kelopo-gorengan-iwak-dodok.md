@@ -24,7 +24,7 @@ Menjantap makanan sambel kelopo dan ikan Dodok gorengan, memuntjulkan kenangan d
 
 Nukilan kisah kembang dan kumbang di atas hanjalah fiksi belaka. Hikajat sebetulnja jakni kisah anak ketjil jang berlari riang di pasir pantai jang tidak berwarna putih, lebih tepatnja abu². Puas berlarian, ganti bermain dengan media pasir, djemari tangannja jang mungil membentuk pasir mendjadi gundukan gunung, bentuk gunungnja sendiri lebih mirip tahi orang mencret. Puas membuat gundukan gunung, daja imadjinasinja kini ingin membentuk pasir semirip batu Tandjung Kodok.
 
-Dimana teknik untuk membentuknja harus memanfaatken kedua paha dan tentu sadja titit si botjah, hal itu untuk memenuhi sjarat kemiripan dengan aslinja, saat pasir sudah mengering barulah si botjah berdiri pelan². Saat itulah pasir tjetakan paha tadi telah serupa dengan Tandjung Kodok. Untuk mendjalankan aksi permainan ini perlu diperhatikan dengan seksama dalam memilih pasir sebab kalaw tidak berlaku hati² dalam memilih pasir titit si botjah bisa kena tjapit kepiting ketjil. Sebetulnja sakitnja hanja sebentar, tapi kenangannja terngiang hingga saat ini.
+Dimana teknik untuk membentuknja harus memanfaatken kedua paha dan tentu sadja titit si botjah, hal itu untuk memenuhi sjarat kemiripan dengan aslinja, saat pasir sudah mengering barulah si botjah berdiri pelan². Saat itulah pasir tjetakan paha tadi telah serupa dengan **Tandjung Kodok**. Untuk mendjalankan aksi permainan ini perlu diperhatikan dengan seksama dalam memilih pasir sebab kalaw tidak berlaku hati² dalam memilih pasir titit si botjah bisa kena tjapit kepiting ketjil. Sebetulnja sakitnja hanja sebentar, tapi kenangannja terngiang hingga saat ini.
 
 ### Simpulan
 
@@ -32,4 +32,4 @@ Moral dari menjantap makanan jang bisa memuntjulkan tjitarasa nostalgia ini, men
 
 Salam.
 
-_editor: **jon mukidi**_{:style="color:grey"}
+_editor: **jon mukidi**_{:.editor"}
