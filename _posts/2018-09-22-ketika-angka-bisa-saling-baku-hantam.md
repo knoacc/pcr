@@ -1,10 +1,10 @@
 ---
 title: Ketika Angka Bisa Saling Baku Hantam
 author: koradi
-description: imbas penetapan nomor urut bakal calon presiden, kopi satu bang! Harus 2 botol!
+description: "imbas penetapan nomor urut bakal calon presiden, kopi ngak boleh satu bang! Harus 2!"
 tags: [angka keramat, calon presiden, badut politik, bertetangga]
 image: images/posts/kecebong-vs-kampret.jpg
-banner_image: kecebong-vs-kampret.jpg?resize=640,360
+banner_image: kecebong-vs-kampret.jpg?resize=720,380
 date: 2018-09-22 21:55:08
 ---
 Suasana alam kemerdekaan republik Indonesia dalam beberapa bulan kedepan akan lebih sering di isi dengan gegap gembita gelaran pesta demokrasi.<!--more--> Kita² ini peduli atawa tidak peduli dengan tingkah polah para badut² politikus tersebut tetap sadja dampak negatifnja akan datang djuga menghampiri ke ruang hidup kita², walaupun tanpa kita undang sekalipun. Terimo nasip, apes to!
