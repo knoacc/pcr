@@ -69,7 +69,7 @@ Catatan: Tidak setor logo, tempelkan saja gambar truk sesuai dengan jenis usahan
 
 Catatan: Tidak setor logo, cari logo resmi LPMD lewat google.
 
-Ssponsor yang ada di atas tidak memberikan logo dari badan usahanya, _Saia_ pun _kebobohan nggawekno logo menisan_. Karena memang  mendadak dan digarap cepat, _yo mok ngono iku dadine_. Tapi pas _tak itung maneh kok karek 10 banner yo? Emm... _Seng liyane nyusul_
+Sponsor yang ada di atas tidak memberikan logo dari badan usahanya, _Saia_ pun _kebobohan nggawekno logo menisan_. Karena memang mendadak dan digarap cepat, _yo mok ngono iku dadine_. Tapi pas _tak itung maneh kok karek 10 banner yo? Emm... _Seng liyane nyusul_
 
 ### Lumayan oleh spot iklan gratis
 
