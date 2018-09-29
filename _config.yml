@@ -46,21 +46,23 @@ paginate_path: /blog/page:num/
 kramdown:
   input: GFM
   hard_wrap: false
-  auto_ids: true
+  auto_ids: false
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..5
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
+# default
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: mukidi
+      
 plugins:
- - jekyll-paginate
- - jekyll-paginate-category
- - jekyll-seo-tag
- - jekyll-tagging
- - jekyll-tagging-related_posts
-
-whitelists:
  - jekyll-paginate
  - jekyll-paginate-category
  - jekyll-seo-tag
