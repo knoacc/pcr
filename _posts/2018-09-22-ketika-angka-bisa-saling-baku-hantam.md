@@ -10,9 +10,9 @@ date: 2018-09-22 21:55:08
 Suasana alam kemerdekaan republik Indonesia dalam beberapa bulan kedepan akan lebih sering di isi dengan gegap gembita gelaran pesta demokrasi.<!--more--> Kita² ini peduli atawa tidak peduli dengan tingkah polah para badut² politikus tersebut tetap sadja dampak negatifnja akan datang djuga menghampiri ke ruang hidup kita², walaupun tanpa kita undang sekalipun. Terimo nasip, apes to!
 
 Seperti kita ketahui bersama bahwa akibat dari gelaran pesta demokrasi terkadang sangat tidak sesuai dengan asas dasar demokrasi itu sendiri, sialnja imbas dari pemilihan pemimpin itu sendiri sering kali harus ditebus dengan perpetjahan antar tetangga, kawan atawa saudara.
-
+<!--
 {% include video id="nBQ5l_Fi3yg" autoplay controls="no" provider="youtube" %}
-
+-->
 Dampak dari perselisihan tersebut kadang hanja dianggap normal dan biasa sadja bagi para politisi. “kedjadian seperti itu sudah biasa, lagipula itu bagian dari strategi pemenangan.” Begitu jang biasa dikatakan para politisi saat [memberikan keterangan](https://www.paciran.com/2018/09/15/sudah-merasa-djudjur.html) kepada para pentjari warta. Kurang badjingan apalagi hajo...
 
 Djika dalam beberapa bulan terachir ini dampak pesta demokrasi itu sendiri belum tampak melebar djauh dari dimensinja, jakni isu² sosial, moral, teritorial dan isi perut, tentu sadja. Maka dalam beberapa bulan kedepan isyu politik di negeri ini akan melebarkan sajapnja lebih djauh lagi. Barangkali kawan²  sudah tahu kalau **penetapan nomor urut** bakal tjalon pemimpin di negeri ini bisa didjadikan sebagai alat perang untuk saling baku hantam.
