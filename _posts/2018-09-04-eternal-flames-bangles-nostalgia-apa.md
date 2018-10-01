@@ -18,25 +18,25 @@ Diantara ke-tiga situasi di atas, situasi ke-3 adalah yang paling netral, agak k
 Berikut ini koleksi lagu Eternal Flames dan _cover songs_ yang bisa ditemukan [di yutub](https://www.youtube.com)
 
 ### 1. Bangles - original
-
+<!--
 {% include video id="PSoOFn3wQV4" provider="youtube" %}
-
+-->
 ### 2. Guilherme Dini, Dani Bastos e Eduardo Maran - cover
-
+<!--
 {% include video id="ZBU6HnDwuz8" provider="youtube" %}
-
+-->
 ### 3. Andra & The Backbone - cover
-
+<!--
 {% include video id="rOTJDoQdS9w" provider="youtube" %}
-
+-->
 ### 4. Shane Filan - cover
-
+<!--
 {% include video id="sG4HXBuzXtk" provider="youtube" %}
-
+-->
 ### 5. Marina Dimer - cover
-
+<!--
 {% include video id="l4pI-Lx3yl4" provider="youtube" %}
-
+-->
 ## Alexandra Porat: You Are the Reason (Cover)
 
 Seperti _viasanyuah_ lur. Luar biasa, I'm feeling good.
